@@ -1,0 +1,2050 @@
+gpu=-1,hidden=100,epochs=40000,size=100,sequence=100
+[0]training loss:	0.00443950385758	0.0137406682968[sec/epoch]
+[100]training loss:	0.00035044675072	1.42434246063[sec/epoch]
+[200]training loss:	0.000254532247029	1.37024626017[sec/epoch]
+[300]training loss:	0.000267786585321	1.37451159[sec/epoch]
+[400]training loss:	0.000251941815621	1.36602734804[sec/epoch]
+[500]training loss:	0.000257144672702	1.36737298012[sec/epoch]
+[600]training loss:	0.00023657544469	1.48402597904[sec/epoch]
+[700]training loss:	0.000259087938401	1.37978173018[sec/epoch]
+[800]training loss:	0.000226010747179	1.3548575902[sec/epoch]
+[900]training loss:	0.000211629866049	1.35799638033[sec/epoch]
+[1000]training loss:	0.000198909166184	1.35569144011[sec/epoch]
+[1100]training loss:	0.000172163312784	1.36607264042[sec/epoch]
+[1200]training loss:	0.000156825916334	1.41252018929[sec/epoch]
+[1300]training loss:	0.00013374013243	1.35632595062[sec/epoch]
+[1400]training loss:	0.000110181114364	1.35518299103[sec/epoch]
+[1500]training loss:	9.47076413367e-05	1.35574124813[sec/epoch]
+[1600]training loss:	7.15279349625e-05	1.35325614929[sec/epoch]
+[1700]training loss:	5.75511161276e-05	1.3541059804[sec/epoch]
+[1800]training loss:	4.57156242596e-05	1.35339308023[sec/epoch]
+[1900]training loss:	3.97041204828e-05	1.354645679[sec/epoch]
+[2000]training loss:	3.68799341636e-05	1.3548519516[sec/epoch]
+[2100]training loss:	3.1861989298e-05	1.35249972105[sec/epoch]
+[2200]training loss:	2.79161119551e-05	1.35585098028[sec/epoch]
+[2300]training loss:	2.70099162754e-05	1.35601202011[sec/epoch]
+[2400]training loss:	2.60531375505e-05	1.35517084837[sec/epoch]
+[2500]training loss:	2.37133730241e-05	1.35490579128[sec/epoch]
+[2600]training loss:	2.08866396787e-05	1.35740365982[sec/epoch]
+[2700]training loss:	2.0219575181e-05	1.35482134104[sec/epoch]
+[2800]training loss:	2.27233442017e-05	1.35518889189[sec/epoch]
+[2900]training loss:	2.02234298217e-05	1.35734652996[sec/epoch]
+[3000]training loss:	1.9159235032e-05	1.3549633503[sec/epoch]
+[3100]training loss:	1.86853658765e-05	1.3554124999[sec/epoch]
+[3200]training loss:	1.72686008172e-05	1.35702988863[sec/epoch]
+[3300]training loss:	1.78513018358e-05	1.35652107954[sec/epoch]
+[3400]training loss:	1.77025136472e-05	1.35719824791[sec/epoch]
+[3500]training loss:	1.54985105525e-05	1.35515981913[sec/epoch]
+[3600]training loss:	1.63595888274e-05	1.4879718399[sec/epoch]
+[3700]training loss:	1.58885853704e-05	1.35556867838[sec/epoch]
+[3800]training loss:	1.47468744391e-05	1.35616705179[sec/epoch]
+[3900]training loss:	1.41363207608e-05	1.35777004957[sec/epoch]
+[4000]training loss:	1.38779093201e-05	1.35597460985[sec/epoch]
+[4100]training loss:	1.47046627138e-05	1.35491940975[sec/epoch]
+[4200]training loss:	1.32668888046e-05	1.35690113068[sec/epoch]
+[4300]training loss:	1.36458453713e-05	1.35709479809[sec/epoch]
+[4400]training loss:	1.36467661107e-05	1.35796802998[sec/epoch]
+[4500]training loss:	1.22707711081e-05	1.35467231989[sec/epoch]
+[4600]training loss:	1.23340939877e-05	1.35517215967[sec/epoch]
+[4700]training loss:	1.29341832221e-05	1.35484085083[sec/epoch]
+[4800]training loss:	1.36909133877e-05	1.36081766844[sec/epoch]
+[4900]training loss:	1.13672788509e-05	1.3541725111[sec/epoch]
+[5000]training loss:	1.20527510804e-05	1.3569701314[sec/epoch]
+[5100]training loss:	1.20331545012e-05	1.35486946821[sec/epoch]
+[5200]training loss:	1.1723318062e-05	1.35570906878[sec/epoch]
+[5300]training loss:	1.08554312545e-05	1.35507160187[sec/epoch]
+[5400]training loss:	1.03633119395e-05	1.35585726023[sec/epoch]
+[5500]training loss:	9.96531735203e-06	1.47401894093[sec/epoch]
+[5600]training loss:	9.45776830324e-06	1.35565534115[sec/epoch]
+[5700]training loss:	1.0401377398e-05	1.35634776115[sec/epoch]
+[5800]training loss:	1.05800502228e-05	1.35474869967[sec/epoch]
+[5900]training loss:	9.74662352654e-06	1.35515176058[sec/epoch]
+[6000]training loss:	9.41154789274e-06	1.35766494036[sec/epoch]
+[6100]training loss:	9.07571791116e-06	1.35752948046[sec/epoch]
+[6200]training loss:	8.60375667348e-06	1.36088226795[sec/epoch]
+[6300]training loss:	8.91746362822e-06	1.35529010057[sec/epoch]
+[6400]training loss:	8.50153696545e-06	1.3562520504[sec/epoch]
+[6500]training loss:	9.29629907595e-06	1.35758370876[sec/epoch]
+[6600]training loss:	9.05482312476e-06	1.35597105026[sec/epoch]
+[6700]training loss:	8.91530347725e-06	1.3544306612[sec/epoch]
+[6800]training loss:	8.30729153346e-06	1.35460530043[sec/epoch]
+[6900]training loss:	8.18567867908e-06	1.35531154871[sec/epoch]
+[7000]training loss:	8.27011918047e-06	1.35467308044[sec/epoch]
+[7100]training loss:	8.23423092376e-06	1.35566645861[sec/epoch]
+[7200]training loss:	7.40822893803e-06	1.3538472414[sec/epoch]
+[7300]training loss:	7.50495595952e-06	1.35529874086[sec/epoch]
+[7400]training loss:	7.8699185814e-06	1.35382652998[sec/epoch]
+[7500]training loss:	7.06062219435e-06	1.35835921049[sec/epoch]
+[7600]training loss:	7.61295233693e-06	1.35649660826[sec/epoch]
+[7700]training loss:	7.16788656633e-06	1.35590342999[sec/epoch]
+[7800]training loss:	7.28121100257e-06	1.35603142023[sec/epoch]
+[7900]training loss:	6.29261444144e-06	1.35930063963[sec/epoch]
+[8000]training loss:	7.66524280694e-06	1.35489186049[sec/epoch]
+[8100]training loss:	7.02646546856e-06	1.35517841101[sec/epoch]
+[8200]training loss:	6.85061071764e-06	1.35638550997[sec/epoch]
+[8300]training loss:	5.74660188791e-06	1.35750748158[sec/epoch]
+[8400]training loss:	6.10719305567e-06	1.35499969006[sec/epoch]
+[8500]training loss:	6.13230819146e-06	1.35634410143[sec/epoch]
+[8600]training loss:	5.62884132237e-06	1.35627599955[sec/epoch]
+[8700]training loss:	5.97057849959e-06	1.35637316942[sec/epoch]
+[8800]training loss:	5.44167076698e-06	1.3557954812[sec/epoch]
+[8900]training loss:	5.35231318814e-06	1.35685657978[sec/epoch]
+[9000]training loss:	5.64204446614e-06	1.35493863106[sec/epoch]
+[9100]training loss:	5.79673279491e-06	1.35526975155[sec/epoch]
+[9200]training loss:	5.4956057504e-06	1.35538514137[sec/epoch]
+[9300]training loss:	5.42710474081e-06	1.35700593948[sec/epoch]
+[9400]training loss:	5.75455399512e-06	1.35554188013[sec/epoch]
+[9500]training loss:	5.4341637426e-06	1.35415797949[sec/epoch]
+[9600]training loss:	5.22181278828e-06	1.35798260927[sec/epoch]
+[9700]training loss:	4.88601102861e-06	1.35491439104[sec/epoch]
+[9800]training loss:	5.37779285676e-06	1.35620800018[sec/epoch]
+[9900]training loss:	4.92171584299e-06	1.3552769208[sec/epoch]
+[10000]training loss:	4.79165141264e-06	1.35595580816[sec/epoch]
+[10100]training loss:	4.61483064973e-06	1.35705668926[sec/epoch]
+[10200]training loss:	4.91070107209e-06	1.35678026199[sec/epoch]
+[10300]training loss:	4.67331200424e-06	1.35528048992[sec/epoch]
+[10400]training loss:	5.34355616893e-06	1.35708738089[sec/epoch]
+[10500]training loss:	5.02924185547e-06	1.35561896086[sec/epoch]
+[10600]training loss:	4.7452061089e-06	1.35562014103[sec/epoch]
+[10700]training loss:	5.12380931395e-06	1.35389642[sec/epoch]
+[10800]training loss:	4.37067214851e-06	1.35687659025[sec/epoch]
+[10900]training loss:	4.60985654053e-06	1.35577660084[sec/epoch]
+[11000]training loss:	4.11299800481e-06	1.35890406132[sec/epoch]
+[11100]training loss:	5.11947313719e-06	1.35572914124[sec/epoch]
+[11200]training loss:	4.425478189e-06	1.35579201937[sec/epoch]
+[11300]training loss:	4.72095615061e-06	1.35622650146[sec/epoch]
+[11400]training loss:	4.95164046026e-06	1.35558046103[sec/epoch]
+[11500]training loss:	4.12530716123e-06	1.36127547979[sec/epoch]
+[11600]training loss:	4.33882226876e-06	1.35592934847[sec/epoch]
+[11700]training loss:	3.83332842077e-06	1.35636811972[sec/epoch]
+[11800]training loss:	4.42225471929e-06	1.35747856855[sec/epoch]
+[11900]training loss:	4.56282916018e-06	1.35761995792[sec/epoch]
+[12000]training loss:	4.71417025447e-06	1.35613224983[sec/epoch]
+[12100]training loss:	4.11929736723e-06	1.35598582029[sec/epoch]
+[12200]training loss:	3.73381595692e-06	1.35596663952[sec/epoch]
+[12300]training loss:	4.02187391165e-06	1.35463086128[sec/epoch]
+[12400]training loss:	3.66008184342e-06	1.35211992025[sec/epoch]
+[12500]training loss:	3.72507187274e-06	1.35494000196[sec/epoch]
+[12600]training loss:	3.46603955029e-06	1.3531543684[sec/epoch]
+[12700]training loss:	3.46821057845e-06	1.35289181948[sec/epoch]
+[12800]training loss:	3.51366547002e-06	1.35215909004[sec/epoch]
+[12900]training loss:	3.28219506297e-06	1.35436461926[sec/epoch]
+[13000]training loss:	3.04766934167e-06	1.35502943993[sec/epoch]
+[13100]training loss:	3.22597293004e-06	1.35266909122[sec/epoch]
+[13200]training loss:	3.48340130806e-06	1.35386508942[sec/epoch]
+[13300]training loss:	3.32133824504e-06	1.35812137127[sec/epoch]
+[13400]training loss:	3.43061871874e-06	1.35671503067[sec/epoch]
+[13500]training loss:	3.45283846437e-06	1.3538387394[sec/epoch]
+[13600]training loss:	3.19337957971e-06	1.35493328094[sec/epoch]
+[13700]training loss:	3.04142142543e-06	1.35421911955[sec/epoch]
+[13800]training loss:	3.53800156389e-06	1.35751088858[sec/epoch]
+[13900]training loss:	3.08833415432e-06	1.35468228102[sec/epoch]
+[14000]training loss:	3.04782720791e-06	1.35611517906[sec/epoch]
+[14100]training loss:	3.14949188532e-06	1.3566792798[sec/epoch]
+[14200]training loss:	2.91533099083e-06	1.38278444052[sec/epoch]
+[14300]training loss:	3.2786344004e-06	1.46715532064[sec/epoch]
+[14400]training loss:	3.14089831793e-06	1.35752727985[sec/epoch]
+[14500]training loss:	3.21289854867e-06	1.35731539965[sec/epoch]
+[14600]training loss:	3.20359179045e-06	1.36374895096[sec/epoch]
+[14700]training loss:	2.86270303398e-06	1.35600264072[sec/epoch]
+[14800]training loss:	2.78342655164e-06	1.35799341917[sec/epoch]
+[14900]training loss:	2.77492058971e-06	1.35614570141[sec/epoch]
+[15000]training loss:	2.70415036328e-06	1.36050734043[sec/epoch]
+[15100]training loss:	2.85779183608e-06	1.35621675968[sec/epoch]
+[15200]training loss:	2.98428796044e-06	1.35620805025[sec/epoch]
+[15300]training loss:	2.93855819936e-06	1.35963069916[sec/epoch]
+[15400]training loss:	2.95563127065e-06	1.35839920044[sec/epoch]
+[15500]training loss:	2.48331520142e-06	1.35639064074[sec/epoch]
+[15600]training loss:	2.79665174377e-06	1.36808943987[sec/epoch]
+[15700]training loss:	3.06320431962e-06	1.35593278885[sec/epoch]
+[15800]training loss:	2.55951343923e-06	1.36775254011[sec/epoch]
+[15900]training loss:	2.42352079379e-06	1.35479182005[sec/epoch]
+[16000]training loss:	3.14768068634e-06	1.35467174053[sec/epoch]
+[16100]training loss:	2.65191280932e-06	1.35643189192[sec/epoch]
+[16200]training loss:	2.95483576595e-06	1.35594971895[sec/epoch]
+[16300]training loss:	2.26530149424e-06	1.35495096922[sec/epoch]
+[16400]training loss:	2.72532090112e-06	1.35615453005[sec/epoch]
+[16500]training loss:	2.40316001858e-06	1.37391722918[sec/epoch]
+[16600]training loss:	2.61193649335e-06	1.35623431921[sec/epoch]
+[16700]training loss:	2.45010537904e-06	1.356711061[sec/epoch]
+[16800]training loss:	2.39027407716e-06	1.35668640137[sec/epoch]
+[16900]training loss:	2.37366328642e-06	1.35530609846[sec/epoch]
+[17000]training loss:	2.70130436143e-06	1.35850285053[sec/epoch]
+[17100]training loss:	2.4299315739e-06	1.35572383165[sec/epoch]
+[17200]training loss:	2.23431017748e-06	1.35516171932[sec/epoch]
+[17300]training loss:	2.50502224927e-06	1.3568746686[sec/epoch]
+[17400]training loss:	2.12205052987e-06	1.35451032877[sec/epoch]
+[17500]training loss:	2.54423245835e-06	1.35560756207[sec/epoch]
+[17600]training loss:	2.17005671025e-06	1.3558522892[sec/epoch]
+[17700]training loss:	2.32110265054e-06	1.35708841085[sec/epoch]
+[17800]training loss:	2.11573470469e-06	1.35698532104[sec/epoch]
+[17900]training loss:	2.08398521845e-06	1.35773718834[sec/epoch]
+[18000]training loss:	1.95803971505e-06	1.35603131056[sec/epoch]
+[18100]training loss:	1.90602176272e-06	1.35620490789[sec/epoch]
+[18200]training loss:	2.18419896702e-06	1.35512208939[sec/epoch]
+[18300]training loss:	1.91107068935e-06	1.35737282038[sec/epoch]
+[18400]training loss:	1.88805749687e-06	1.35695261955[sec/epoch]
+[18500]training loss:	2.0427919802e-06	1.35954669952[sec/epoch]
+[18600]training loss:	2.0082423527e-06	1.35598023891[sec/epoch]
+[18700]training loss:	1.81631082222e-06	1.35791346073[sec/epoch]
+[18800]training loss:	1.7259078573e-06	1.35799902201[sec/epoch]
+[18900]training loss:	1.70292097586e-06	1.35711344004[sec/epoch]
+[19000]training loss:	1.7640620971e-06	1.35566847086[sec/epoch]
+[19100]training loss:	1.8414114061e-06	1.3592946887[sec/epoch]
+[19200]training loss:	1.95228597596e-06	1.35530250788[sec/epoch]
+[19300]training loss:	1.86144410176e-06	1.35462562799[sec/epoch]
+[19400]training loss:	2.18496154617e-06	1.35765756845[sec/epoch]
+[19500]training loss:	1.95898588352e-06	1.35684737921[sec/epoch]
+[19600]training loss:	1.85295710143e-06	1.35541643143[sec/epoch]
+[19700]training loss:	1.6550526712e-06	1.3566992712[sec/epoch]
+[19800]training loss:	1.75838699715e-06	1.35583019972[sec/epoch]
+[19900]training loss:	1.55681959998e-06	1.35229302168[sec/epoch]
+[20000]training loss:	1.8046657623e-06	1.35666682959[sec/epoch]
+[20100]training loss:	1.86301218087e-06	1.35745922804[sec/epoch]
+[20200]training loss:	1.82127199639e-06	1.35553477049[sec/epoch]
+[20300]training loss:	1.79319855912e-06	1.35749561071[sec/epoch]
+[20400]training loss:	1.64420385092e-06	1.35678196192[sec/epoch]
+[20500]training loss:	1.64543120943e-06	1.35738981962[sec/epoch]
+[20600]training loss:	1.66624912056e-06	1.35703361034[sec/epoch]
+[20700]training loss:	1.61188184237e-06	1.35424931049[sec/epoch]
+[20800]training loss:	1.6052611619e-06	1.35402776003[sec/epoch]
+[20900]training loss:	1.66586636109e-06	1.35480516911[sec/epoch]
+[21000]training loss:	1.46687509389e-06	1.35345699072[sec/epoch]
+[21100]training loss:	1.63534011767e-06	1.35398958921[sec/epoch]
+[21200]training loss:	1.47148834499e-06	1.35559684992[sec/epoch]
+[21300]training loss:	1.52333858282e-06	1.35662719011[sec/epoch]
+[21400]training loss:	1.54848914297e-06	1.35401591778[sec/epoch]
+[21500]training loss:	1.6696613242e-06	1.35504570007[sec/epoch]
+[21600]training loss:	1.41825685113e-06	1.35577881098[sec/epoch]
+[21700]training loss:	1.36547867148e-06	1.35271209002[sec/epoch]
+[21800]training loss:	1.33095697189e-06	1.35413791895[sec/epoch]
+[21900]training loss:	1.42040568394e-06	1.35566485882[sec/epoch]
+[22000]training loss:	1.39504904515e-06	1.35311103821[sec/epoch]
+[22100]training loss:	1.39770219737e-06	1.35413443089[sec/epoch]
+[22200]training loss:	1.31606007338e-06	1.35492552042[sec/epoch]
+[22300]training loss:	1.3656474149e-06	1.35557372093[sec/epoch]
+[22400]training loss:	1.30583463364e-06	1.35723262072[sec/epoch]
+[22500]training loss:	1.46145751874e-06	1.35445716143[sec/epoch]
+[22600]training loss:	1.32761782181e-06	1.35616646051[sec/epoch]
+[22700]training loss:	1.33608159788e-06	1.35615036011[sec/epoch]
+[22800]training loss:	1.20485492516e-06	1.354900949[sec/epoch]
+[22900]training loss:	1.35473127364e-06	1.35577826023[sec/epoch]
+[23000]training loss:	1.2448141904e-06	1.35485690832[sec/epoch]
+[23100]training loss:	1.23959019982e-06	1.35433692932[sec/epoch]
+[23200]training loss:	1.09715370174e-06	1.35622720003[sec/epoch]
+[23300]training loss:	1.38215942901e-06	1.35648477077[sec/epoch]
+[23400]training loss:	1.34050405721e-06	1.35847814083[sec/epoch]
+[23500]training loss:	1.2349034542e-06	1.35436805964[sec/epoch]
+[23600]training loss:	1.17318973714e-06	1.35362061024[sec/epoch]
+[23700]training loss:	1.11751146368e-06	1.35589408875[sec/epoch]
+[23800]training loss:	1.1527703868e-06	1.35408894062[sec/epoch]
+[23900]training loss:	1.17945316074e-06	1.35284044027[sec/epoch]
+[24000]training loss:	1.21518751992e-06	1.35555674076[sec/epoch]
+[24100]training loss:	1.18726518739e-06	1.35261297941[sec/epoch]
+[24200]training loss:	1.17023187664e-06	1.3527406311[sec/epoch]
+[24300]training loss:	1.20451082381e-06	1.35442970991[sec/epoch]
+[24400]training loss:	1.22214671615e-06	1.35549416065[sec/epoch]
+[24500]training loss:	1.072628139e-06	1.35734095097[sec/epoch]
+[24600]training loss:	1.04053197911e-06	1.35432184935[sec/epoch]
+[24700]training loss:	9.25363712319e-07	1.35425539017[sec/epoch]
+[24800]training loss:	1.25987248288e-06	1.48615308046[sec/epoch]
+[24900]training loss:	1.17102679338e-06	1.35545454025[sec/epoch]
+[25000]training loss:	1.00021214975e-06	1.35466740847[sec/epoch]
+[25100]training loss:	1.11328641063e-06	1.3548852706[sec/epoch]
+[25200]training loss:	1.05176194197e-06	1.35664206028[sec/epoch]
+[25300]training loss:	1.04825720873e-06	1.35707124949[sec/epoch]
+[25400]training loss:	1.05369396595e-06	1.35586225033[sec/epoch]
+[25500]training loss:	9.28223898606e-07	1.35500776052[sec/epoch]
+[25600]training loss:	9.54903953243e-07	1.35845952988[sec/epoch]
+[25700]training loss:	9.39707197084e-07	1.35561129093[sec/epoch]
+[25800]training loss:	1.01230684915e-06	1.35551396847[sec/epoch]
+[25900]training loss:	9.08180031775e-07	1.35411643982[sec/epoch]
+[26000]training loss:	9.14156238779e-07	1.35336081982[sec/epoch]
+[26100]training loss:	1.09068787424e-06	1.35856193066[sec/epoch]
+[26200]training loss:	8.79745662913e-07	1.35247632027[sec/epoch]
+[26300]training loss:	1.10659811521e-06	1.3589807415[sec/epoch]
+[26400]training loss:	8.47239918052e-07	1.35670789003[sec/epoch]
+[26500]training loss:	8.6258344277e-07	1.35283759117[sec/epoch]
+[26600]training loss:	8.16883006006e-07	1.35569474936[sec/epoch]
+[26700]training loss:	8.72278252071e-07	1.35484567165[sec/epoch]
+[26800]training loss:	9.10110806345e-07	1.35318845987[sec/epoch]
+[26900]training loss:	8.77032612657e-07	1.35324596882[sec/epoch]
+[27000]training loss:	8.69801266218e-07	1.35668792009[sec/epoch]
+[27100]training loss:	8.23927382384e-07	1.35534025908[sec/epoch]
+[27200]training loss:	8.39584802202e-07	1.3570423007[sec/epoch]
+[27300]training loss:	8.14322530377e-07	1.35658564091[sec/epoch]
+[27400]training loss:	7.91448022055e-07	1.35744954109[sec/epoch]
+[27500]training loss:	7.82342344838e-07	1.35547550917[sec/epoch]
+[27600]training loss:	8.09552515457e-07	1.35698034048[sec/epoch]
+[27700]training loss:	7.43470798515e-07	1.35750427008[sec/epoch]
+[27800]training loss:	8.12894899299e-07	1.35596864939[sec/epoch]
+[27900]training loss:	7.25393939053e-07	1.35757272005[sec/epoch]
+[28000]training loss:	7.45673649803e-07	1.35690123081[sec/epoch]
+[28100]training loss:	7.25513588134e-07	1.3577712512[sec/epoch]
+[28200]training loss:	7.17131758457e-07	1.35633679152[sec/epoch]
+[28300]training loss:	7.07702117389e-07	1.3569247508[sec/epoch]
+[28400]training loss:	7.89183508863e-07	1.35785143137[sec/epoch]
+[28500]training loss:	7.28190405591e-07	1.35668697834[sec/epoch]
+[28600]training loss:	7.13649735024e-07	1.35681225061[sec/epoch]
+[28700]training loss:	6.40754708479e-07	1.35536426067[sec/epoch]
+[28800]training loss:	7.42561891769e-07	1.35528988123[sec/epoch]
+[28900]training loss:	6.79690121541e-07	1.3516209197[sec/epoch]
+[29000]training loss:	7.17909550976e-07	1.34659301996[sec/epoch]
+[29100]training loss:	6.67292551217e-07	1.34485167027[sec/epoch]
+[29200]training loss:	6.51697381258e-07	1.34959053993[sec/epoch]
+[29300]training loss:	6.22164857259e-07	1.34774111032[sec/epoch]
+[29400]training loss:	5.62587662687e-07	1.34545226812[sec/epoch]
+[29500]training loss:	6.20176315994e-07	1.3463399291[sec/epoch]
+[29600]training loss:	6.36151379134e-07	1.34514649153[sec/epoch]
+[29700]training loss:	6.26536458378e-07	1.34528230906[sec/epoch]
+[29800]training loss:	6.10787390891e-07	1.348271029[sec/epoch]
+[29900]training loss:	6.08934447019e-07	1.34362179995[sec/epoch]
+[30000]training loss:	6.7675916003e-07	1.34682945013[sec/epoch]
+[30100]training loss:	5.33012364876e-07	1.34648035049[sec/epoch]
+[30200]training loss:	6.03291721405e-07	1.34705461979[sec/epoch]
+[30300]training loss:	5.61137138066e-07	1.34349035978[sec/epoch]
+[30400]training loss:	5.16943155254e-07	1.34474046946[sec/epoch]
+[30500]training loss:	5.54205649274e-07	1.3467098403[sec/epoch]
+[30600]training loss:	5.75078718042e-07	1.34621115208[sec/epoch]
+[30700]training loss:	5.2696387601e-07	1.34554682016[sec/epoch]
+[30800]training loss:	5.35337143575e-07	1.34767674923[sec/epoch]
+[30900]training loss:	4.79494279128e-07	1.34281955004[sec/epoch]
+[31000]training loss:	5.05591375222e-07	1.34856055021[sec/epoch]
+[31100]training loss:	4.64910283541e-07	1.34635792017[sec/epoch]
+[31200]training loss:	5.16833538175e-07	1.3449592185[sec/epoch]
+[31300]training loss:	4.5351341462e-07	1.34505863905[sec/epoch]
+[31400]training loss:	4.48409587585e-07	1.34794351101[sec/epoch]
+[31500]training loss:	4.31754038672e-07	1.34847446918[sec/epoch]
+[31600]training loss:	4.92986587095e-07	1.34821635962[sec/epoch]
+[31700]training loss:	4.26028778711e-07	1.34709539175[sec/epoch]
+[31800]training loss:	5.49229335233e-07	1.34887115955[sec/epoch]
+[31900]training loss:	4.59554149814e-07	1.34892269135[sec/epoch]
+[32000]training loss:	4.4809789732e-07	1.34879853964[sec/epoch]
+[32100]training loss:	4.10949797522e-07	1.34736164093[sec/epoch]
+[32200]training loss:	4.14270463734e-07	1.34518592119[sec/epoch]
+[32300]training loss:	3.77453860975e-07	1.34628120899[sec/epoch]
+[32400]training loss:	4.13236689796e-07	1.34712774992[sec/epoch]
+[32500]training loss:	4.61449867498e-07	1.34521554947[sec/epoch]
+[32600]training loss:	3.85053708945e-07	1.34565893888[sec/epoch]
+[32700]training loss:	4.30498678752e-07	1.34858640909[sec/epoch]
+[32800]training loss:	3.73728974896e-07	1.34952669144[sec/epoch]
+[32900]training loss:	3.63845431664e-07	1.34736105919[sec/epoch]
+[33000]training loss:	3.46947534567e-07	1.34569228888[sec/epoch]
+[33100]training loss:	3.52925615682e-07	1.34677338123[sec/epoch]
+[33200]training loss:	3.72847297871e-07	1.34757339001[sec/epoch]
+[33300]training loss:	3.14601052334e-07	1.34774834871[sec/epoch]
+[33400]training loss:	3.38056240868e-07	1.34840936184[sec/epoch]
+[33500]training loss:	3.79957084372e-07	1.34836931944[sec/epoch]
+[33600]training loss:	3.6882678008e-07	1.3440632081[sec/epoch]
+[33700]training loss:	3.1675631592e-07	1.34853388071[sec/epoch]
+[33800]training loss:	3.20439824583e-07	1.34795137167[sec/epoch]
+[33900]training loss:	3.03958696543e-07	1.34675107956[sec/epoch]
+[34000]training loss:	2.68522816983e-07	1.34430239916[sec/epoch]
+[34100]training loss:	3.81030361615e-07	1.34962431908[sec/epoch]
+[34200]training loss:	3.49688806719e-07	1.34733897924[sec/epoch]
+[34300]training loss:	3.0562222666e-07	1.34757148027[sec/epoch]
+[34400]training loss:	2.90620359598e-07	1.34805433989[sec/epoch]
+[34500]training loss:	2.81132345506e-07	1.35126149178[sec/epoch]
+[34600]training loss:	2.44456650119e-07	1.34841974974[sec/epoch]
+[34700]training loss:	2.86274242704e-07	1.34849836111[sec/epoch]
+[34800]training loss:	2.5342786911e-07	1.34976988077[sec/epoch]
+[34900]training loss:	2.61674891461e-07	1.35039193869[sec/epoch]
+[35000]training loss:	2.26881813359e-07	1.35039714098[sec/epoch]
+[35100]training loss:	2.63557141274e-07	1.3483041501[sec/epoch]
+[35200]training loss:	2.98981518941e-07	1.34714448929[sec/epoch]
+[35300]training loss:	2.30873190572e-07	1.34827788115[sec/epoch]
+[35400]training loss:	2.53814229809e-07	1.46648957968[sec/epoch]
+[35500]training loss:	2.50305031777e-07	1.35501255989[sec/epoch]
+[35600]training loss:	2.3565094079e-07	1.34868275881[sec/epoch]
+[35700]training loss:	2.40542754505e-07	1.34920023918[sec/epoch]
+[35800]training loss:	2.62816959576e-07	1.34801471949[sec/epoch]
+[35900]training loss:	2.43124892645e-07	1.34794020891[sec/epoch]
+[36000]training loss:	2.48259458764e-07	1.34779936075[sec/epoch]
+[36100]training loss:	3.0215727233e-07	1.34666283131[sec/epoch]
+[36200]training loss:	2.2324681108e-07	1.34913028955[sec/epoch]
+[36300]training loss:	2.1506979226e-07	1.34595023155[sec/epoch]
+[36400]training loss:	2.34032701672e-07	1.34915369034[sec/epoch]
+[36500]training loss:	2.05198890086e-07	1.34736782074[sec/epoch]
+[36600]training loss:	1.86690470795e-07	1.34839071989[sec/epoch]
+[36700]training loss:	2.59533224362e-07	1.3470779705[sec/epoch]
+[36800]training loss:	2.01558173608e-07	1.34768353939[sec/epoch]
+[36900]training loss:	2.06506559731e-07	1.3477150321[sec/epoch]
+[37000]training loss:	1.84533682198e-07	1.34765578985[sec/epoch]
+[37100]training loss:	1.81268467603e-07	1.34577178955[sec/epoch]
+[37200]training loss:	2.10416743872e-07	1.35025812864[sec/epoch]
+[37300]training loss:	1.75803929457e-07	1.34839773893[sec/epoch]
+[37400]training loss:	1.7797673986e-07	1.34655645847[sec/epoch]
+[37500]training loss:	1.67052220227e-07	1.34897739887[sec/epoch]
+[37600]training loss:	1.79431821141e-07	1.34738752127[sec/epoch]
+[37700]training loss:	1.64081167454e-07	1.34870698929[sec/epoch]
+[37800]training loss:	1.52201825374e-07	1.34530143976[sec/epoch]
+[37900]training loss:	1.93030971768e-07	1.34629621983[sec/epoch]
+[38000]training loss:	1.57947627054e-07	1.34761890888[sec/epoch]
+[38100]training loss:	1.72566624407e-07	1.35354846001[sec/epoch]
+[38200]training loss:	1.65902784287e-07	1.34716185093[sec/epoch]
+[38300]training loss:	1.40189641947e-07	1.3470184207[sec/epoch]
+[38400]training loss:	1.67013709098e-07	1.34604970932[sec/epoch]
+[38500]training loss:	1.45351842006e-07	1.34862793207[sec/epoch]
+[38600]training loss:	1.67620479867e-07	1.34599384069[sec/epoch]
+[38700]training loss:	1.62265724161e-07	1.34752899885[sec/epoch]
+[38800]training loss:	1.68585389437e-07	1.34708861828[sec/epoch]
+[38900]training loss:	1.73062675678e-07	1.34622566223[sec/epoch]
+[39000]training loss:	1.34755833697e-07	1.34673432112[sec/epoch]
+[39100]training loss:	1.26377559318e-07	1.40890393972[sec/epoch]
+[39200]training loss:	1.44524872465e-07	1.62832532883[sec/epoch]
+[39300]training loss:	1.44755479899e-07	1.46671510935[sec/epoch]
+[39400]training loss:	1.41679724994e-07	1.48472656012[sec/epoch]
+[39500]training loss:	1.34609597973e-07	1.45820662975[sec/epoch]
+[39600]training loss:	1.37549388014e-07	1.51047379971[sec/epoch]
+[39700]training loss:	1.14066097012e-07	1.50079463959[sec/epoch]
+[39800]training loss:	1.48702301059e-07	1.52743603945[sec/epoch]
+[39900]training loss:	1.23199775643e-07	1.50050643921[sec/epoch]
+54396.3204689[sec]
+,predict price=100,real price=100
+0,predict price=100.465384871,real price=100.47860234,predict ratio=0.00465385,real ratio=0.00478602
+1,predict price=99.5640838828,real price=99.9625854607,predict ratio=-0.00897126,real ratio=-0.00513559
+2,predict price=100.994104662,real price=100.895917184,predict ratio=0.0143628,real ratio=0.00933681
+3,predict price=103.835519787,real price=100.138754863,predict ratio=0.0281345,real ratio=-0.00750439
+4,predict price=102.799779692,real price=99.3066695703,predict ratio=-0.00997481,real ratio=-0.00830932
+5,predict price=102.305394147,real price=100.007607601,predict ratio=-0.00480921,real ratio=0.00705832
+6,predict price=105.07593545,real price=99.8753247034,predict ratio=0.0270811,real ratio=-0.00132273
+7,predict price=103.178136969,real price=99.7186480538,predict ratio=-0.0180612,real ratio=-0.00156872
+8,predict price=104.950977157,real price=98.6644832031,predict ratio=0.0171823,real ratio=-0.0105714
+9,predict price=107.176273849,real price=98.2588059414,predict ratio=0.0212032,real ratio=-0.00411168
+10,predict price=106.942188104,real price=98.7057570134,predict ratio=-0.00218412,real ratio=0.00454871
+11,predict price=105.416530218,real price=98.5957674431,predict ratio=-0.0142662,real ratio=-0.00111432
+12,predict price=106.57139838,real price=99.4671115442,predict ratio=0.0109553,real ratio=0.00883754
+13,predict price=106.115643503,real price=99.1588214333,predict ratio=-0.00427652,real ratio=-0.00309942
+14,predict price=106.643276539,real price=98.9775802837,predict ratio=0.00497225,real ratio=-0.00182779
+15,predict price=106.6848361,real price=99.5634570322,predict ratio=0.000389706,real ratio=0.00591929
+16,predict price=105.021215023,real price=99.53557115,predict ratio=-0.0155938,real ratio=-0.000280081
+17,predict price=102.178411543,real price=99.734383994,predict ratio=-0.0270688,real ratio=0.0019974
+18,predict price=103.39854545,real price=99.5788429393,predict ratio=0.0119412,real ratio=-0.00155955
+19,predict price=100.799902344,real price=99.3257354504,predict ratio=-0.0251323,real ratio=-0.00254178
+20,predict price=98.5757244624,real price=100.545055438,predict ratio=-0.0220653,real ratio=0.012276
+21,predict price=92.7198340148,real price=100.462601684,predict ratio=-0.059405,real ratio=-0.000820068
+22,predict price=97.0538840121,real price=100.313267919,predict ratio=0.0467435,real ratio=-0.00148646
+23,predict price=99.7266726089,real price=101.014556004,predict ratio=0.0275392,real ratio=0.00699098
+24,predict price=98.0293887123,real price=101.70212313,predict ratio=-0.0170194,real ratio=0.00680661
+25,predict price=96.7213531042,real price=101.827063151,predict ratio=-0.0133433,real ratio=0.00122849
+26,predict price=94.4153738194,real price=101.435277614,predict ratio=-0.0238415,real ratio=-0.00384756
+27,predict price=96.5354570875,real price=101.269507751,predict ratio=0.0224549,real ratio=-0.00163424
+28,predict price=96.7413813946,real price=101.946231311,predict ratio=0.00213315,real ratio=0.0066824
+29,predict price=94.8164562386,real price=101.400569673,predict ratio=-0.0198976,real ratio=-0.00535245
+30,predict price=95.0075905388,real price=100.547847425,predict ratio=0.00201583,real ratio=-0.00840944
+31,predict price=91.9294960079,real price=100.818629077,predict ratio=-0.0323984,real ratio=0.00269306
+32,predict price=91.6999039927,real price=101.929880609,predict ratio=-0.00249748,real ratio=0.0110223
+33,predict price=88.6417181582,real price=102.649875955,predict ratio=-0.0333499,real ratio=0.00706363
+34,predict price=87.6442948809,real price=102.998995908,predict ratio=-0.0112523,real ratio=0.00340108
+35,predict price=91.7685325494,real price=103.289091036,predict ratio=0.0470565,real ratio=0.00281649
+36,predict price=93.310305206,real price=103.662860885,predict ratio=0.0168007,real ratio=0.00361868
+37,predict price=92.2362487052,real price=103.807908452,predict ratio=-0.0115106,real ratio=0.00139922
+38,predict price=94.2107092585,real price=104.265267633,predict ratio=0.0214066,real ratio=0.00440582
+39,predict price=95.9344915419,real price=103.929091638,predict ratio=0.0182971,real ratio=-0.00322424
+40,predict price=90.8215551095,real price=104.626622892,predict ratio=-0.0532961,real ratio=0.00671161
+41,predict price=90.4600437436,real price=103.736742206,predict ratio=-0.00398046,real ratio=-0.0085053
+42,predict price=94.03247628,real price=104.25240904,predict ratio=0.0394918,real ratio=0.00497092
+43,predict price=98.1686935322,real price=103.608566211,predict ratio=0.0439871,real ratio=-0.00617581
+44,predict price=99.4705987853,real price=103.353614466,predict ratio=0.0132619,real ratio=-0.00246072
+45,predict price=104.599727476,real price=103.809044012,predict ratio=0.0515643,real ratio=0.00440652
+46,predict price=107.784605203,real price=102.955015417,predict ratio=0.0304482,real ratio=-0.00822692
+47,predict price=113.493294782,real price=103.867010113,predict ratio=0.0529639,real ratio=0.00885819
+48,predict price=112.561040706,real price=103.536170514,predict ratio=-0.00821418,real ratio=-0.00318522
+49,predict price=110.19403618,real price=102.636940527,predict ratio=-0.0210286,real ratio=-0.00868518
+50,predict price=113.153841281,real price=102.69682772,predict ratio=0.0268599,real ratio=0.000583486
+51,predict price=114.284518902,real price=101.419020781,predict ratio=0.00999239,real ratio=-0.0124425
+52,predict price=112.788732997,real price=101.122274354,predict ratio=-0.0130883,real ratio=-0.00292594
+53,predict price=116.597012981,real price=102.023434047,predict ratio=0.0337647,real ratio=0.00891158
+54,predict price=118.049716516,real price=102.501507005,predict ratio=0.0124592,real ratio=0.00468591
+55,predict price=124.715495336,real price=102.011104845,predict ratio=0.0564659,real ratio=-0.00478434
+56,predict price=126.461257026,real price=102.944607379,predict ratio=0.013998,real ratio=0.00915099
+57,predict price=132.911385441,real price=103.40668823,predict ratio=0.0510048,real ratio=0.00448864
+58,predict price=130.134656502,real price=103.265312106,predict ratio=-0.0208916,real ratio=-0.00136719
+59,predict price=125.547256097,real price=103.822773569,predict ratio=-0.0352512,real ratio=0.00539834
+60,predict price=123.27545585,real price=102.6939418,predict ratio=-0.0180952,real ratio=-0.0108727
+61,predict price=122.867114604,real price=102.035233932,predict ratio=-0.00331243,real ratio=-0.00641428
+62,predict price=125.151825944,real price=101.748630932,predict ratio=0.018595,real ratio=-0.00280886
+63,predict price=125.850916138,real price=101.09858082,predict ratio=0.00558594,real ratio=-0.00638878
+64,predict price=124.372732162,real price=99.4157029202,predict ratio=-0.0117455,real ratio=-0.0166459
+65,predict price=126.219113088,real price=95.6364745485,predict ratio=0.0148455,real ratio=-0.0380144
+66,predict price=123.13888342,real price=96.7505266051,predict ratio=-0.0244038,real ratio=0.0116488
+67,predict price=126.939257778,real price=96.949168685,predict ratio=0.0308625,real ratio=0.00205314
+68,predict price=127.342807579,real price=96.0382156219,predict ratio=0.00317908,real ratio=-0.00939619
+69,predict price=126.124604332,real price=96.5764490063,predict ratio=-0.00956633,real ratio=0.00560437
+70,predict price=121.336103347,real price=96.819677757,predict ratio=-0.0379664,real ratio=0.00251851
+71,predict price=120.666090622,real price=96.4879672506,predict ratio=-0.00552196,real ratio=-0.00342606
+72,predict price=123.926750449,real price=96.2220865555,predict ratio=0.0270222,real ratio=-0.00275558
+73,predict price=123.292367613,real price=96.2525168317,predict ratio=-0.00511901,real ratio=0.00031625
+74,predict price=128.067700918,real price=96.1931504717,predict ratio=0.0387318,real ratio=-0.000616777
+75,predict price=131.620258127,real price=97.8548706612,predict ratio=0.0277397,real ratio=0.0172748
+76,predict price=136.639775092,real price=97.6725793078,predict ratio=0.0381364,real ratio=-0.00186287
+77,predict price=136.880231241,real price=97.5688824175,predict ratio=0.00175978,real ratio=-0.00106168
+78,predict price=136.801261167,real price=97.229999801,predict ratio=-0.000576928,real ratio=-0.00347327
+79,predict price=134.370713541,real price=96.8561445716,predict ratio=-0.017767,real ratio=-0.00384506
+80,predict price=134.533956899,real price=96.6040787417,predict ratio=0.00121487,real ratio=-0.00260248
+81,predict price=136.638886142,real price=95.713233274,predict ratio=0.0156461,real ratio=-0.00922161
+82,predict price=137.872422151,real price=94.6480540504,predict ratio=0.00902771,real ratio=-0.0111289
+83,predict price=137.095389991,real price=94.735664901,predict ratio=-0.00563588,real ratio=0.000925649
+84,predict price=140.39717952,real price=96.8493225697,predict ratio=0.0240839,real ratio=0.0223111
+85,predict price=137.757845691,real price=96.5007319864,predict ratio=-0.0187991,real ratio=-0.00359931
+86,predict price=140.424383193,real price=97.5618043267,predict ratio=0.0193567,real ratio=0.0109955
+87,predict price=135.88722355,real price=97.3432254685,predict ratio=-0.0323103,real ratio=-0.00224041
+88,predict price=139.204030477,real price=96.3008604711,predict ratio=0.0244085,real ratio=-0.0107081
+89,predict price=140.400453988,real price=96.4189869769,predict ratio=0.00859475,real ratio=0.00122664
+90,predict price=137.560811969,real price=97.8562711086,predict ratio=-0.0202253,real ratio=0.0149067
+91,predict price=135.940663669,real price=98.5929672523,predict ratio=-0.0117777,real ratio=0.00752835
+92,predict price=137.295105349,real price=99.0570545629,predict ratio=0.00996348,real ratio=0.0047071
+93,predict price=136.85160867,real price=98.6232182157,predict ratio=-0.00323024,real ratio=-0.00437966
+94,predict price=137.392893627,real price=98.798081303,predict ratio=0.00395527,real ratio=0.00177304
+95,predict price=138.454047516,real price=98.5407730023,predict ratio=0.0077235,real ratio=-0.00260439
+96,predict price=137.498586234,real price=98.0759001653,predict ratio=-0.00690093,real ratio=-0.00471757
+97,predict price=142.051741213,real price=98.631790608,predict ratio=0.0331142,real ratio=0.00566796
+98,predict price=144.02342553,real price=97.5812972254,predict ratio=0.01388,real ratio=-0.0106507
+99,predict price=145.579366405,real price=98.8346335892,predict ratio=0.0108034,real ratio=0.012844
+100,predict price=137.08696333,real price=98.8982776064,predict ratio=-0.0583352,real ratio=0.000643944
+101,predict price=135.791688683,real price=99.1116993658,predict ratio=-0.00944856,real ratio=0.00215799
+102,predict price=145.093175159,real price=99.8108016486,predict ratio=0.0684982,real ratio=0.00705368
+103,predict price=138.847588736,real price=99.8151732258,predict ratio=-0.0430453,real ratio=4.37986e-05
+104,predict price=136.213274767,real price=100.668945685,predict ratio=-0.0189727,real ratio=0.00855353
+105,predict price=125.957392412,real price=100.400699904,predict ratio=-0.0752928,real ratio=-0.00266463
+106,predict price=113.633695338,real price=100.447830973,predict ratio=-0.0978402,real ratio=0.00046943
+107,predict price=116.313617468,real price=100.959655602,predict ratio=0.0235839,real ratio=0.00509543
+108,predict price=118.974460647,real price=101.217313986,predict ratio=0.0228765,real ratio=0.00255209
+109,predict price=120.69937277,real price=100.870038272,predict ratio=0.0144982,real ratio=-0.00343099
+110,predict price=121.995771017,real price=99.7968160124,predict ratio=0.0107407,real ratio=-0.0106397
+111,predict price=123.223961418,real price=100.667195308,predict ratio=0.0100675,real ratio=0.00872151
+112,predict price=124.157199501,real price=101.223350428,predict ratio=0.00757351,real ratio=0.00552469
+113,predict price=122.197135594,real price=101.280787145,predict ratio=-0.015787,real ratio=0.000567426
+114,predict price=124.279933262,real price=101.684022444,predict ratio=0.0170446,real ratio=0.00398136
+115,predict price=122.793285554,real price=101.566604606,predict ratio=-0.0119621,real ratio=-0.00115473
+116,predict price=120.526467762,real price=101.451457942,predict ratio=-0.0184604,real ratio=-0.00113371
+117,predict price=119.207614511,real price=101.334381642,predict ratio=-0.0109424,real ratio=-0.00115401
+118,predict price=117.045496209,real price=101.123239576,predict ratio=-0.0181374,real ratio=-0.00208362
+119,predict price=114.361349973,real price=102.07449305,predict ratio=-0.0229325,real ratio=0.00940687
+120,predict price=115.48868306,real price=102.226183366,predict ratio=0.00985764,real ratio=0.00148607
+121,predict price=114.430729616,real price=101.943781182,predict ratio=-0.00916067,real ratio=-0.00276252
+122,predict price=114.824123559,real price=102.856740717,predict ratio=0.00343783,real ratio=0.00895552
+123,predict price=119.282090347,real price=102.807953232,predict ratio=0.0388243,real ratio=-0.000474325
+124,predict price=114.593881352,real price=102.861812431,predict ratio=-0.0393035,real ratio=0.000523882
+125,predict price=111.89640569,real price=103.076105107,predict ratio=-0.0235394,real ratio=0.00208331
+126,predict price=116.620511055,real price=103.053205556,predict ratio=0.0422186,real ratio=-0.000222162
+127,predict price=116.035049584,real price=102.251627338,predict ratio=-0.00502023,real ratio=-0.00777829
+128,predict price=115.65702175,real price=102.842669718,predict ratio=-0.00325788,real ratio=0.00578027
+129,predict price=115.03438057,real price=102.626797479,predict ratio=-0.00538351,real ratio=-0.00209905
+130,predict price=116.056931349,real price=103.475933623,predict ratio=0.00888909,real ratio=0.00827402
+131,predict price=114.420057978,real price=103.679032673,predict ratio=-0.0141041,real ratio=0.00196277
+132,predict price=119.147774127,real price=104.040037871,predict ratio=0.0413189,real ratio=0.00348195
+133,predict price=119.397662562,real price=104.45376666,predict ratio=0.0020973,real ratio=0.00397663
+134,predict price=126.3019426,real price=104.395015055,predict ratio=0.0578259,real ratio=-0.000562465
+135,predict price=128.384510755,real price=104.758726873,predict ratio=0.0164888,real ratio=0.003484
+136,predict price=131.178940865,real price=103.897611581,predict ratio=0.0217661,real ratio=-0.00821999
+137,predict price=130.071976179,real price=102.876156702,predict ratio=-0.00843859,real ratio=-0.00983136
+138,predict price=133.240083142,real price=102.985446133,predict ratio=0.0243566,real ratio=0.00106234
+139,predict price=129.563555546,real price=104.046339159,predict ratio=-0.0275933,real ratio=0.0103014
+140,predict price=129.091123225,real price=105.775383391,predict ratio=-0.00364634,real ratio=0.016618
+141,predict price=124.490560205,real price=107.220104279,predict ratio=-0.0356381,real ratio=0.0136584
+142,predict price=128.940877188,real price=107.20576004,predict ratio=0.0357482,real ratio=-0.000133783
+143,predict price=125.414710084,real price=107.16090868,predict ratio=-0.0273472,real ratio=-0.000418367
+144,predict price=122.418037352,real price=107.677804993,predict ratio=-0.0238941,real ratio=0.00482355
+145,predict price=119.349586243,real price=107.305785473,predict ratio=-0.0250654,real ratio=-0.00345493
+146,predict price=117.15477449,real price=107.605238526,predict ratio=-0.0183898,real ratio=0.00279065
+147,predict price=116.575784039,real price=107.46849866,predict ratio=-0.0049421,real ratio=-0.00127075
+148,predict price=116.361231935,real price=108.874216944,predict ratio=-0.00184045,real ratio=0.0130803
+149,predict price=116.897900742,real price=109.052751473,predict ratio=0.00461209,real ratio=0.00163982
+150,predict price=119.49619566,real price=109.309188876,predict ratio=0.022227,real ratio=0.0023515
+151,predict price=120.195008501,real price=108.460231973,predict ratio=0.00584799,real ratio=-0.00776656
+152,predict price=115.86275629,real price=108.76029978,predict ratio=-0.0360435,real ratio=0.00276662
+153,predict price=111.626700521,real price=107.626746382,predict ratio=-0.036561,real ratio=-0.0104225
+154,predict price=112.549720069,real price=108.879724102,predict ratio=0.00826881,real ratio=0.0116419
+155,predict price=112.119245951,real price=108.534019422,predict ratio=-0.00382475,real ratio=-0.00317511
+156,predict price=111.175271042,real price=109.350368801,predict ratio=-0.00841938,real ratio=0.0075216
+157,predict price=111.298306532,real price=110.163746868,predict ratio=0.00110668,real ratio=0.00743827
+158,predict price=112.64343613,real price=110.158760538,predict ratio=0.0120858,real ratio=-4.52629e-05
+159,predict price=116.120262712,real price=110.230106044,predict ratio=0.0308658,real ratio=0.000647661
+160,predict price=116.695630207,real price=109.58573387,predict ratio=0.00495493,real ratio=-0.0058457
+161,predict price=115.938450809,real price=110.968467132,predict ratio=-0.0064885,real ratio=0.0126178
+162,predict price=116.278455012,real price=112.755477456,predict ratio=0.00293263,real ratio=0.0161038
+163,predict price=116.640126698,real price=112.803744108,predict ratio=0.00311039,real ratio=0.000428065
+164,predict price=117.240596272,real price=112.211830857,predict ratio=0.00514805,real ratio=-0.00524728
+165,predict price=118.734800752,real price=113.545426605,predict ratio=0.0127448,real ratio=0.0118846
+166,predict price=119.799947106,real price=113.299738841,predict ratio=0.0089708,real ratio=-0.00216378
+167,predict price=115.830272692,real price=114.959981965,predict ratio=-0.0331359,real ratio=0.0146535
+168,predict price=116.043319816,real price=115.379653386,predict ratio=0.0018393,real ratio=0.00365059
+169,predict price=117.429053714,real price=115.054320958,predict ratio=0.0119415,real ratio=-0.00281967
+170,predict price=115.238842302,real price=117.093832617,predict ratio=-0.0186514,real ratio=0.0177265
+171,predict price=119.7516381,real price=116.371736852,predict ratio=0.0391604,real ratio=-0.00616681
+172,predict price=119.500005064,real price=117.472238743,predict ratio=-0.00210129,real ratio=0.00945678
+173,predict price=119.16352432,real price=119.057635691,predict ratio=-0.00281574,real ratio=0.0134959
+174,predict price=119.054242629,real price=118.682200891,predict ratio=-0.000917073,real ratio=-0.00315339
+175,predict price=118.612504174,real price=118.253615559,predict ratio=-0.0037104,real ratio=-0.0036112
+176,predict price=119.275308603,real price=120.120799906,predict ratio=0.00558798,real ratio=0.0157897
+177,predict price=117.772781518,real price=119.69282078,predict ratio=-0.0125971,real ratio=-0.00356291
+178,predict price=113.124909525,real price=116.80425849,predict ratio=-0.0394647,real ratio=-0.0241331
+179,predict price=115.800444473,real price=115.652177144,predict ratio=0.0236512,real ratio=-0.00986335
+180,predict price=111.488002437,real price=118.528410259,predict ratio=-0.0372403,real ratio=0.0248697
+181,predict price=115.469326582,real price=117.715561566,predict ratio=0.0357108,real ratio=-0.00685784
+182,predict price=116.9583454,real price=117.588785819,predict ratio=0.0128954,real ratio=-0.00107697
+183,predict price=116.146173495,real price=117.337855572,predict ratio=-0.00694411,real ratio=-0.00213396
+184,predict price=109.985616721,real price=117.160806699,predict ratio=-0.0530414,real ratio=-0.00150888
+185,predict price=108.82116506,real price=116.740699818,predict ratio=-0.0105873,real ratio=-0.00358573
+186,predict price=108.233146646,real price=114.793162219,predict ratio=-0.00540353,real ratio=-0.0166826
+187,predict price=110.513552495,real price=115.326229962,predict ratio=0.0210694,real ratio=0.00464372
+188,predict price=110.694254516,real price=115.409204548,predict ratio=0.00163511,real ratio=0.000719477
+189,predict price=110.735606287,real price=114.589354532,predict ratio=0.000373567,real ratio=-0.00710385
+190,predict price=109.911886749,real price=116.114514116,predict ratio=-0.00743861,real ratio=0.0133098
+191,predict price=111.012156361,real price=117.114725831,predict ratio=0.0100105,real ratio=0.00861401
+192,predict price=109.98458011,real price=117.307604605,predict ratio=-0.00925643,real ratio=0.00164692
+193,predict price=111.108248498,real price=116.690862129,predict ratio=0.0102166,real ratio=-0.00525748
+194,predict price=111.604484944,real price=118.963732264,predict ratio=0.00446624,real ratio=0.0194777
+195,predict price=109.03837942,real price=121.248846248,predict ratio=-0.0229929,real ratio=0.0192085
+196,predict price=112.147187772,real price=121.484211289,predict ratio=0.0285111,real ratio=0.00194117
+197,predict price=110.705976342,real price=123.06829329,predict ratio=-0.0128511,real ratio=0.0130394
+198,predict price=108.845372221,real price=122.94273852,predict ratio=-0.0168067,real ratio=-0.0010202
+199,predict price=108.764598862,real price=122.725303786,predict ratio=-0.000742093,real ratio=-0.00176859
+200,predict price=109.899895986,real price=123.035421075,predict ratio=0.0104381,real ratio=0.00252692
+201,predict price=109.143191851,real price=123.111308926,predict ratio=-0.00688539,real ratio=0.000616797
+202,predict price=110.079589426,real price=123.759873413,predict ratio=0.00857953,real ratio=0.00526811
+203,predict price=106.504113984,real price=123.418719621,predict ratio=-0.0324808,real ratio=-0.00275658
+204,predict price=108.714564461,real price=123.206518827,predict ratio=0.0207546,real ratio=-0.00171936
+205,predict price=106.367629026,real price=123.898107498,predict ratio=-0.021588,real ratio=0.00561325
+206,predict price=107.331466464,real price=126.004507676,predict ratio=0.00906138,real ratio=0.0170011
+207,predict price=104.575440111,real price=127.852199156,predict ratio=-0.0256777,real ratio=0.0146637
+208,predict price=104.239437711,real price=128.353265593,predict ratio=-0.00321301,real ratio=0.00391911
+209,predict price=105.774077688,real price=128.59711763,predict ratio=0.0147223,real ratio=0.00189985
+210,predict price=104.737897378,real price=129.261332699,predict ratio=-0.00979616,real ratio=0.00516509
+211,predict price=103.802892927,real price=131.033136424,predict ratio=-0.00892709,real ratio=0.0137071
+212,predict price=105.386772982,real price=130.515189885,predict ratio=0.0152585,real ratio=-0.00395279
+213,predict price=104.325265744,real price=130.029509355,predict ratio=-0.0100725,real ratio=-0.00372126
+214,predict price=103.19383551,real price=132.288300011,predict ratio=-0.0108452,real ratio=0.0173714
+215,predict price=109.130432789,real price=134.833428995,predict ratio=0.0575286,real ratio=0.0192393
+216,predict price=114.376302866,real price=135.967503236,predict ratio=0.0480697,real ratio=0.00841093
+217,predict price=113.505775346,real price=134.848994191,predict ratio=-0.00761108,real ratio=-0.0082263
+218,predict price=113.10792736,real price=135.384777092,predict ratio=-0.00350509,real ratio=0.00397321
+219,predict price=120.54228957,real price=132.750466455,predict ratio=0.065728,real ratio=-0.019458
+220,predict price=121.55073827,real price=134.6799885,predict ratio=0.00836593,real ratio=0.014535
+221,predict price=116.060505397,real price=137.605888531,predict ratio=-0.0451682,real ratio=0.0217248
+222,predict price=118.80633249,real price=137.957014976,predict ratio=0.0236586,real ratio=0.00255168
+223,predict price=118.955799906,real price=135.209214088,predict ratio=0.00125808,real ratio=-0.0199178
+224,predict price=121.109848102,real price=133.371930706,predict ratio=0.018108,real ratio=-0.0135884
+225,predict price=125.723821614,real price=132.660499164,predict ratio=0.0380974,real ratio=-0.00533419
+226,predict price=124.559230908,real price=134.570092866,predict ratio=-0.00926309,real ratio=0.0143946
+227,predict price=121.572528029,real price=136.753951939,predict ratio=-0.0239782,real ratio=0.0162284
+228,predict price=121.359542434,real price=139.519504068,predict ratio=-0.00175192,real ratio=0.0202228
+229,predict price=120.760059819,real price=139.37786326,predict ratio=-0.00493972,real ratio=-0.0010152
+230,predict price=123.831761845,real price=139.622936274,predict ratio=0.0254364,real ratio=0.00175834
+231,predict price=118.365239259,real price=141.591981726,predict ratio=-0.0441448,real ratio=0.0141026
+232,predict price=110.687845698,real price=142.899868809,predict ratio=-0.0648619,real ratio=0.00923701
+233,predict price=113.144440401,real price=140.864720294,predict ratio=0.0221939,real ratio=-0.0142418
+234,predict price=110.73083736,real price=143.051473765,predict ratio=-0.0213321,real ratio=0.0155238
+235,predict price=106.732373766,real price=143.609541465,predict ratio=-0.0361098,real ratio=0.00390117
+236,predict price=104.510613768,real price=143.634387735,predict ratio=-0.0208162,real ratio=0.000173013
+237,predict price=105.781286213,real price=140.977681256,predict ratio=0.0121583,real ratio=-0.0184963
+238,predict price=107.713409935,real price=143.069395546,predict ratio=0.0182653,real ratio=0.0148372
+239,predict price=106.282089802,real price=143.782833525,predict ratio=-0.0132882,real ratio=0.00498666
+240,predict price=106.31457926,real price=143.868164666,predict ratio=0.000305691,real ratio=0.000593472
+241,predict price=107.042622488,real price=138.193865647,predict ratio=0.00684801,real ratio=-0.039441
+242,predict price=107.486023971,real price=134.130305187,predict ratio=0.00414229,real ratio=-0.0294048
+243,predict price=110.134778858,real price=137.235004371,predict ratio=0.0246428,real ratio=0.0231469
+244,predict price=111.044637632,real price=137.23859043,predict ratio=0.00826132,real ratio=2.61308e-05
+245,predict price=112.519551962,real price=134.300540542,predict ratio=0.0132822,real ratio=-0.0214083
+246,predict price=108.127218804,real price=136.820661001,predict ratio=-0.0390362,real ratio=0.0187648
+247,predict price=109.21210252,real price=136.83911213,predict ratio=0.0100334,real ratio=0.000134856
+248,predict price=111.550423095,real price=138.937639973,predict ratio=0.0214108,real ratio=0.0153357
+249,predict price=114.692552173,real price=143.918266539,predict ratio=0.0281678,real ratio=0.0358479
+250,predict price=113.197688215,real price=144.709966047,predict ratio=-0.0130337,real ratio=0.00550104
+251,predict price=109.833327574,real price=145.571952298,predict ratio=-0.0297211,real ratio=0.00595665
+252,predict price=109.521250228,real price=144.087972585,predict ratio=-0.00284137,real ratio=-0.0101941
+253,predict price=108.860017542,real price=146.102928227,predict ratio=-0.00603748,real ratio=0.0139842
+254,predict price=107.076878601,real price=145.657812861,predict ratio=-0.0163801,real ratio=-0.00304659
+255,predict price=104.890044046,real price=146.428252108,predict ratio=-0.020423,real ratio=0.00528938
+256,predict price=105.258167287,real price=146.194201964,predict ratio=0.00350961,real ratio=-0.00159839
+257,predict price=107.512736857,real price=142.274553549,predict ratio=0.0214194,real ratio=-0.0268112
+258,predict price=106.514838239,real price=143.734574938,predict ratio=-0.00928168,real ratio=0.010262
+259,predict price=106.745509422,real price=142.144721091,predict ratio=0.00216562,real ratio=-0.011061
+260,predict price=105.078617906,real price=138.820836576,predict ratio=-0.0156156,real ratio=-0.0233838
+261,predict price=106.854720873,real price=141.506820624,predict ratio=0.0169026,real ratio=0.0193486
+262,predict price=108.016063743,real price=139.303195585,predict ratio=0.0108684,real ratio=-0.0155726
+263,predict price=109.055703764,real price=140.272285445,predict ratio=0.00962486,real ratio=0.0069567
+264,predict price=109.91517996,real price=137.385123434,predict ratio=0.00788108,real ratio=-0.0205826
+265,predict price=111.062727847,real price=138.971920578,predict ratio=0.0104403,real ratio=0.01155
+266,predict price=112.439840961,real price=137.982543824,predict ratio=0.0123994,real ratio=-0.00711926
+267,predict price=112.257850287,real price=140.730686389,predict ratio=-0.00161856,real ratio=0.0199166
+268,predict price=106.967479902,real price=140.781488899,predict ratio=-0.047127,real ratio=0.000360991
+269,predict price=99.8473036204,real price=141.577466025,predict ratio=-0.0665639,real ratio=0.00565399
+270,predict price=102.705601583,real price=141.68657615,predict ratio=0.0286267,real ratio=0.000770674
+271,predict price=102.053486686,real price=139.579740562,predict ratio=-0.00634936,real ratio=-0.0148697
+272,predict price=102.09191431,real price=139.101488307,predict ratio=0.000376544,real ratio=-0.00342637
+273,predict price=100.208652856,real price=136.947000816,predict ratio=-0.0184467,real ratio=-0.0154886
+274,predict price=101.387908117,real price=139.026300531,predict ratio=0.011768,real ratio=0.0151832
+275,predict price=101.467979538,real price=137.49501895,predict ratio=0.000789753,real ratio=-0.0110143
+276,predict price=99.554498583,real price=136.633562079,predict ratio=-0.018858,real ratio=-0.00626537
+277,predict price=100.652232069,real price=140.213183792,predict ratio=0.0110265,real ratio=0.0261987
+278,predict price=100.200273812,real price=140.901442502,predict ratio=-0.0044903,real ratio=0.00490866
+279,predict price=100.800988149,real price=143.051208353,predict ratio=0.00599514,real ratio=0.0152572
+280,predict price=100.007624492,real price=141.974493977,predict ratio=-0.00787059,real ratio=-0.00752678
+281,predict price=98.6620085154,real price=142.679888928,predict ratio=-0.0134551,real ratio=0.00496846
+282,predict price=95.7127029213,real price=140.731651068,predict ratio=-0.029893,real ratio=-0.0136546
+283,predict price=95.5951597851,real price=142.860788467,predict ratio=-0.00122808,real ratio=0.0151291
+284,predict price=92.5396173203,real price=145.353202197,predict ratio=-0.0319634,real ratio=0.0174465
+285,predict price=90.8250102402,real price=144.222534718,predict ratio=-0.0185284,real ratio=-0.00777876
+286,predict price=90.0569158679,real price=144.169102431,predict ratio=-0.00845686,real ratio=-0.000370485
+287,predict price=91.0414808404,real price=144.79423798,predict ratio=0.0109327,real ratio=0.00433613
+288,predict price=90.5725187226,real price=145.574393724,predict ratio=-0.00515108,real ratio=0.00538803
+289,predict price=89.797285614,real price=145.925349416,predict ratio=-0.00855925,real ratio=0.00241083
+290,predict price=90.3407294601,real price=148.095137331,predict ratio=0.0060519,real ratio=0.0148692
+291,predict price=90.6624286216,real price=149.030040122,predict ratio=0.00356095,real ratio=0.00631285
+292,predict price=93.7793522637,real price=149.155244829,predict ratio=0.0343794,real ratio=0.000840131
+293,predict price=94.5325720966,real price=151.547812357,predict ratio=0.00803183,real ratio=0.0160408
+294,predict price=93.1051902611,real price=151.194585484,predict ratio=-0.0150994,real ratio=-0.00233079
+295,predict price=93.6259478788,real price=150.766785648,predict ratio=0.00559322,real ratio=-0.00282947
+296,predict price=91.5921889862,real price=152.911915178,predict ratio=-0.0217222,real ratio=0.0142281
+297,predict price=89.2936351555,real price=153.559250111,predict ratio=-0.0250955,real ratio=0.00423338
+298,predict price=92.8357252058,real price=152.625576804,predict ratio=0.0396679,real ratio=-0.00608022
+299,predict price=92.0071886459,real price=152.289409357,predict ratio=-0.00892476,real ratio=-0.00220256
+300,predict price=92.516858797,real price=150.054833209,predict ratio=0.00553946,real ratio=-0.0146732
+301,predict price=93.6912156986,real price=150.374829237,predict ratio=0.0126934,real ratio=0.00213253
+302,predict price=93.4413668314,real price=150.669552107,predict ratio=-0.00266673,real ratio=0.00195992
+303,predict price=92.9626433313,real price=151.694772376,predict ratio=-0.00512325,real ratio=0.00680443
+304,predict price=92.1244729434,real price=151.409834339,predict ratio=-0.00901621,real ratio=-0.00187836
+305,predict price=91.0426360595,real price=152.165519561,predict ratio=-0.0117432,real ratio=0.00499099
+306,predict price=90.2452974472,real price=147.885215948,predict ratio=-0.00875786,real ratio=-0.0281293
+307,predict price=91.2758823019,real price=148.373859245,predict ratio=0.0114198,real ratio=0.00330421
+308,predict price=92.8336478563,real price=149.122628463,predict ratio=0.0170666,real ratio=0.0050465
+309,predict price=91.7649648749,real price=149.635059276,predict ratio=-0.0115118,real ratio=0.0034363
+310,predict price=92.6832028289,real price=147.813785017,predict ratio=0.0100064,real ratio=-0.0121714
+311,predict price=91.8083193861,real price=149.978057278,predict ratio=-0.0094395,real ratio=0.0146419
+312,predict price=92.606025396,real price=151.183741703,predict ratio=0.00868882,real ratio=0.00803907
+313,predict price=94.2529719532,real price=150.302783495,predict ratio=0.0177844,real ratio=-0.00582707
+314,predict price=94.5683090284,real price=148.213340387,predict ratio=0.00334565,real ratio=-0.0139016
+315,predict price=94.8360216856,real price=147.428300763,predict ratio=0.00283089,real ratio=-0.00529669
+316,predict price=96.2446740819,real price=145.151921403,predict ratio=0.0148536,real ratio=-0.0154406
+317,predict price=92.3625616554,real price=144.147602779,predict ratio=-0.0403359,real ratio=-0.00691909
+318,predict price=85.8808696046,real price=141.275561921,predict ratio=-0.0701766,real ratio=-0.0199243
+319,predict price=92.6559342646,real price=142.58047768,predict ratio=0.0788891,real ratio=0.00923667
+320,predict price=94.0449906603,real price=140.652697528,predict ratio=0.0149916,real ratio=-0.0135206
+321,predict price=93.6833555545,real price=141.249597146,predict ratio=-0.00384534,real ratio=0.00424378
+322,predict price=95.1834232081,real price=138.64780856,predict ratio=0.0160121,real ratio=-0.0184198
+323,predict price=94.4785043451,real price=136.386217353,predict ratio=-0.0074059,real ratio=-0.0163118
+324,predict price=94.732863269,real price=139.079109065,predict ratio=0.00269224,real ratio=0.0197446
+325,predict price=93.6422565403,real price=137.212881048,predict ratio=-0.0115124,real ratio=-0.0134185
+326,predict price=95.6073129406,real price=139.634820125,predict ratio=0.0209847,real ratio=0.017651
+327,predict price=94.952677049,real price=138.661623365,predict ratio=-0.00684713,real ratio=-0.00696959
+328,predict price=95.1571511819,real price=135.233256646,predict ratio=0.00215343,real ratio=-0.0247247
+329,predict price=95.331001497,real price=135.551596267,predict ratio=0.00182698,real ratio=0.002354
+330,predict price=92.6988311984,real price=138.048373047,predict ratio=-0.0276109,real ratio=0.0184194
+331,predict price=93.7353930619,real price=136.990451357,predict ratio=0.011182,real ratio=-0.00766341
+332,predict price=95.84769605,real price=134.512211112,predict ratio=0.0225347,real ratio=-0.0180906
+333,predict price=94.7590980552,real price=131.986745695,predict ratio=-0.0113576,real ratio=-0.018775
+334,predict price=94.8369577533,real price=127.938844437,predict ratio=0.000821659,real ratio=-0.030669
+335,predict price=96.8296340005,real price=128.968871682,predict ratio=0.0210116,real ratio=0.00805093
+336,predict price=95.3731865396,real price=129.687295985,predict ratio=-0.0150413,real ratio=0.00557052
+337,predict price=99.8782929314,real price=124.315413189,predict ratio=0.0472366,real ratio=-0.0414218
+338,predict price=98.6400516332,real price=125.110690153,predict ratio=-0.0123975,real ratio=0.00639725
+339,predict price=95.9128582791,real price=126.520088335,predict ratio=-0.0276479,real ratio=0.0112652
+340,predict price=94.5860291317,real price=130.092367193,predict ratio=-0.0138337,real ratio=0.0282349
+341,predict price=91.7079538288,real price=129.926332644,predict ratio=-0.0304281,real ratio=-0.00127628
+342,predict price=89.4970048315,real price=128.073313232,predict ratio=-0.0241086,real ratio=-0.0142621
+343,predict price=87.7705192387,real price=128.037025727,predict ratio=-0.019291,real ratio=-0.000283334
+344,predict price=89.98970788,real price=132.33367982,predict ratio=0.025284,real ratio=0.0335579
+345,predict price=90.1047081853,real price=132.231818653,predict ratio=0.00127793,real ratio=-0.00076973
+346,predict price=90.1954855833,real price=132.479777583,predict ratio=0.00100747,real ratio=0.00187518
+347,predict price=88.6247206064,real price=132.649475045,predict ratio=-0.0174151,real ratio=0.00128093
+348,predict price=89.8440729135,real price=130.151562699,predict ratio=0.0137586,real ratio=-0.0188309
+349,predict price=88.8223838571,real price=132.206554127,predict ratio=-0.0113718,real ratio=0.0157892
+350,predict price=89.0240957119,real price=135.564181684,predict ratio=0.00227096,real ratio=0.0253968
+351,predict price=89.9014507536,real price=136.145080614,predict ratio=0.00985525,real ratio=0.00428505
+352,predict price=88.6758947978,real price=135.72820973,predict ratio=-0.0136322,real ratio=-0.00306196
+353,predict price=90.6844467337,real price=133.957370929,predict ratio=0.0226505,real ratio=-0.0130469
+354,predict price=91.5164461928,real price=133.83680249,predict ratio=0.00917467,real ratio=-0.000900051
+355,predict price=90.4693932535,real price=135.980617028,predict ratio=-0.0114411,real ratio=0.0160181
+356,predict price=91.7852894661,real price=135.29000177,predict ratio=0.0145452,real ratio=-0.00507878
+357,predict price=91.7211662146,real price=133.327163569,predict ratio=-0.000698622,real ratio=-0.0145084
+358,predict price=93.3295239529,real price=132.00371125,predict ratio=0.0175353,real ratio=-0.00992635
+359,predict price=92.5492701535,real price=129.794229031,predict ratio=-0.0083602,real ratio=-0.016738
+360,predict price=93.7387919885,real price=126.227022015,predict ratio=0.0128528,real ratio=-0.0274836
+361,predict price=90.7156588366,real price=126.77801154,predict ratio=-0.0322506,real ratio=0.00436507
+362,predict price=94.1809546197,real price=130.682530103,predict ratio=0.0381995,real ratio=0.0307981
+363,predict price=91.9623279203,real price=129.584564063,predict ratio=-0.0235571,real ratio=-0.00840178
+364,predict price=88.4721809913,real price=129.350599297,predict ratio=-0.0379519,real ratio=-0.0018055
+365,predict price=89.2081842592,real price=131.193133738,predict ratio=0.00831904,real ratio=0.0142445
+366,predict price=89.5364213664,real price=130.133726363,predict ratio=0.00367945,real ratio=-0.00807517
+367,predict price=90.1720858504,real price=132.719164269,predict ratio=0.00709951,real ratio=0.0198675
+368,predict price=86.0633949442,real price=134.145083995,predict ratio=-0.045565,real ratio=0.0107439
+369,predict price=84.4480069859,real price=135.141274212,predict ratio=-0.0187697,real ratio=0.00742621
+370,predict price=82.4796433247,real price=135.002263173,predict ratio=-0.0233086,real ratio=-0.00102863
+371,predict price=87.076916899,real price=135.206677094,predict ratio=0.0557383,real ratio=0.00151415
+372,predict price=86.1321968055,real price=135.259836157,predict ratio=-0.0108493,real ratio=0.000393169
+373,predict price=88.1209113619,real price=135.511722673,predict ratio=0.0230891,real ratio=0.00186224
+374,predict price=85.9981873109,real price=132.494284053,predict ratio=-0.0240888,real ratio=-0.022267
+375,predict price=84.9557869957,real price=135.209913006,predict ratio=-0.0121212,real ratio=0.0204962
+376,predict price=83.1045021558,real price=136.887983872,predict ratio=-0.0217912,real ratio=0.0124109
+377,predict price=81.2216499279,real price=136.663462395,predict ratio=-0.0226564,real ratio=-0.00164018
+378,predict price=77.7534412914,real price=136.087370509,predict ratio=-0.0427005,real ratio=-0.00421541
+379,predict price=79.7166082907,real price=138.64116569,predict ratio=0.0252486,real ratio=0.0187658
+380,predict price=81.1843433209,real price=138.283396484,predict ratio=0.0184119,real ratio=-0.00258054
+381,predict price=82.0302646859,real price=140.514386546,predict ratio=0.0104198,real ratio=0.0161335
+382,predict price=81.9805376563,real price=140.072677926,predict ratio=-0.000606203,real ratio=-0.00314351
+383,predict price=82.4079857165,real price=140.817075593,predict ratio=0.00521402,real ratio=0.00531437
+384,predict price=83.2324727824,real price=139.619784291,predict ratio=0.0100049,real ratio=-0.00850246
+385,predict price=82.640773337,real price=141.474468619,predict ratio=-0.007109,real ratio=0.0132838
+386,predict price=83.7264924176,real price=141.315870876,predict ratio=0.0131378,real ratio=-0.00112103
+387,predict price=78.4805140586,real price=139.5461676,predict ratio=-0.0626561,real ratio=-0.012523
+388,predict price=83.7088893905,real price=139.35416827,predict ratio=0.06662,real ratio=-0.00137588
+389,predict price=84.5093845535,real price=137.814758325,predict ratio=0.00956285,real ratio=-0.0110467
+390,predict price=81.4591731426,real price=138.933617452,predict ratio=-0.0360932,real ratio=0.00811857
+391,predict price=80.3785285473,real price=138.771519018,predict ratio=-0.0132661,real ratio=-0.00116673
+392,predict price=82.1634239629,real price=141.121156431,predict ratio=0.0222061,real ratio=0.0169317
+393,predict price=80.2788011212,real price=141.064240546,predict ratio=-0.0229375,real ratio=-0.000403312
+394,predict price=81.1961635928,real price=143.264988203,predict ratio=0.0114272,real ratio=0.015601
+395,predict price=80.425421734,real price=142.374313497,predict ratio=-0.00949234,real ratio=-0.00621697
+396,predict price=80.0910392337,real price=139.998976065,predict ratio=-0.00415767,real ratio=-0.0166837
+397,predict price=80.5927095292,real price=140.593945995,predict ratio=0.00626375,real ratio=0.00424982
+398,predict price=80.8290427036,real price=138.092703627,predict ratio=0.00293244,real ratio=-0.0177905
+399,predict price=80.5906068425,real price=137.436616949,predict ratio=-0.00294988,real ratio=-0.00475106
+400,predict price=81.6178429917,real price=137.70511888,predict ratio=0.0127464,real ratio=0.00195364
+401,predict price=80.5533110895,real price=139.386775824,predict ratio=-0.0130429,real ratio=0.012212
+402,predict price=80.6998247054,real price=138.727017719,predict ratio=0.00181884,real ratio=-0.00473329
+403,predict price=81.4560060464,real price=138.791285029,predict ratio=0.0093703,real ratio=0.000463265
+404,predict price=80.1568690877,real price=137.430759704,predict ratio=-0.0159489,real ratio=-0.00980267
+405,predict price=80.9988553454,real price=138.441123401,predict ratio=0.0105042,real ratio=0.0073518
+406,predict price=78.7987366325,real price=136.696334735,predict ratio=-0.0271623,real ratio=-0.0126031
+407,predict price=79.142487116,real price=136.688812548,predict ratio=0.00436239,real ratio=-5.50284e-05
+408,predict price=78.7051209164,real price=136.021190725,predict ratio=-0.00552631,real ratio=-0.00488425
+409,predict price=81.0205865444,real price=139.434692536,predict ratio=0.0294195,real ratio=0.0250954
+410,predict price=79.6900275543,real price=140.107736098,predict ratio=-0.0164225,real ratio=0.00482694
+411,predict price=81.4305250387,real price=141.005924473,predict ratio=0.0218408,real ratio=0.0064107
+412,predict price=81.9154828293,real price=142.113769215,predict ratio=0.00595548,real ratio=0.00785672
+413,predict price=81.6077007294,real price=142.007101025,predict ratio=-0.00375731,real ratio=-0.000750583
+414,predict price=81.0745986118,real price=140.612217768,predict ratio=-0.0065325,real ratio=-0.00982263
+415,predict price=80.1404780243,real price=143.819034407,predict ratio=-0.0115217,real ratio=0.0228061
+416,predict price=79.395838305,real price=143.703016843,predict ratio=-0.00929168,real ratio=-0.000806691
+417,predict price=77.4216476572,real price=144.063142591,predict ratio=-0.0248652,real ratio=0.00250604
+418,predict price=77.7494636122,real price=143.392720214,predict ratio=0.00423416,real ratio=-0.00465367
+419,predict price=81.4146867508,real price=143.115031136,predict ratio=0.0471415,real ratio=-0.00193656
+420,predict price=81.7939368783,real price=144.581516003,predict ratio=0.00465825,real ratio=0.0102469
+421,predict price=89.7828277877,real price=145.947377718,predict ratio=0.0976709,real ratio=0.009447
+422,predict price=87.2980580085,real price=145.23769658,predict ratio=-0.0276753,real ratio=-0.00486258
+423,predict price=86.9948854594,real price=145.599751959,predict ratio=-0.00347284,real ratio=0.00249285
+424,predict price=86.126304409,real price=144.711092243,predict ratio=-0.00998428,real ratio=-0.00610344
+425,predict price=86.8652628991,real price=145.587781289,predict ratio=0.00857994,real ratio=0.0060582
+426,predict price=86.6450560213,real price=146.787249883,predict ratio=-0.00253504,real ratio=0.0082388
+427,predict price=86.0221816573,real price=146.714247961,predict ratio=-0.0071888,real ratio=-0.000497331
+428,predict price=91.3116272234,real price=146.004566781,predict ratio=0.0614893,real ratio=-0.00483717
+429,predict price=91.8306991047,real price=146.986412782,predict ratio=0.00568462,real ratio=0.00672476
+430,predict price=92.315366025,real price=145.740257072,predict ratio=0.00527783,real ratio=-0.00847803
+431,predict price=95.0808100019,real price=142.966747351,predict ratio=0.0299565,real ratio=-0.0190305
+432,predict price=96.7336822404,real price=143.382405779,predict ratio=0.0173839,real ratio=0.00290738
+433,predict price=98.1823938336,real price=143.171425943,predict ratio=0.0149763,real ratio=-0.00147145
+434,predict price=98.7389931709,real price=142.950746677,predict ratio=0.00566903,real ratio=-0.00154136
+435,predict price=104.452262504,real price=143.079622824,predict ratio=0.0578623,real ratio=0.000901542
+436,predict price=107.700088286,real price=143.330117608,predict ratio=0.0310939,real ratio=0.00175074
+437,predict price=107.45223166,real price=141.776722064,predict ratio=-0.00230136,real ratio=-0.0108379
+438,predict price=104.110023606,real price=141.626602793,predict ratio=-0.0311041,real ratio=-0.00105884
+439,predict price=104.924690283,real price=140.873462001,predict ratio=0.00782506,real ratio=-0.00531779
+440,predict price=104.680055931,real price=140.087107499,predict ratio=-0.00233152,real ratio=-0.00558199
+441,predict price=109.250018264,real price=142.42205061,predict ratio=0.0436565,real ratio=0.0166678
+442,predict price=107.75779257,real price=142.019165372,predict ratio=-0.0136588,real ratio=-0.00282881
+443,predict price=103.890429028,real price=141.323213719,predict ratio=-0.0358894,real ratio=-0.00490041
+444,predict price=103.563443809,real price=140.692485618,predict ratio=-0.0031474,real ratio=-0.00446302
+445,predict price=101.018727245,real price=137.494326818,predict ratio=-0.0245716,real ratio=-0.0227316
+446,predict price=103.813609827,real price=137.566013856,predict ratio=0.027667,real ratio=0.000521382
+447,predict price=105.210645554,real price=139.140575756,predict ratio=0.0134572,real ratio=0.0114459
+448,predict price=104.560762654,real price=137.570035428,predict ratio=-0.00617697,real ratio=-0.0112874
+449,predict price=106.108100681,real price=138.888330653,predict ratio=0.0147985,real ratio=0.00958272
+450,predict price=110.077417201,real price=138.624985815,predict ratio=0.0374082,real ratio=-0.00189609
+451,predict price=111.831388899,real price=140.5567021,predict ratio=0.015934,real ratio=0.0139348
+452,predict price=110.635465595,real price=142.288982296,predict ratio=-0.010694,real ratio=0.0123244
+453,predict price=111.291803965,real price=142.70384669,predict ratio=0.00593244,real ratio=0.00291565
+454,predict price=112.08161788,real price=142.544804949,predict ratio=0.00709678,real ratio=-0.00111449
+455,predict price=113.21505512,real price=142.214050725,predict ratio=0.0101126,real ratio=-0.00232035
+456,predict price=112.787225797,real price=143.136632845,predict ratio=-0.00377891,real ratio=0.00648728
+457,predict price=111.306964618,real price=144.029126174,predict ratio=-0.0131244,real ratio=0.00623525
+458,predict price=111.626302403,real price=143.543539562,predict ratio=0.00286898,real ratio=-0.00337145
+459,predict price=111.931075873,real price=144.50677224,predict ratio=0.0027303,real ratio=0.00671039
+460,predict price=110.905698309,real price=145.466674952,predict ratio=-0.00916079,real ratio=0.00664261
+461,predict price=109.502697232,real price=145.948863328,predict ratio=-0.0126504,real ratio=0.00331477
+462,predict price=109.091883224,real price=147.140288957,predict ratio=-0.00375163,real ratio=0.00816331
+463,predict price=107.898919269,real price=147.884430444,predict ratio=-0.0109354,real ratio=0.00505736
+464,predict price=104.942049342,real price=148.302342976,predict ratio=-0.0274041,real ratio=0.00282594
+465,predict price=105.847338982,real price=146.682861462,predict ratio=0.00862657,real ratio=-0.0109201
+466,predict price=103.342458577,real price=148.730142761,predict ratio=-0.023665,real ratio=0.0139572
+467,predict price=102.658911944,real price=149.051812287,predict ratio=-0.00661438,real ratio=0.00216277
+468,predict price=103.318027619,real price=149.551316234,predict ratio=0.00642044,real ratio=0.00335121
+469,predict price=106.077605746,real price=150.584664852,predict ratio=0.0267096,real ratio=0.00690966
+470,predict price=104.537401321,real price=150.599179855,predict ratio=-0.0145196,real ratio=9.6391e-05
+471,predict price=103.984379021,real price=150.608093774,predict ratio=-0.00529019,real ratio=5.91897e-05
+472,predict price=102.434849966,real price=151.725817302,predict ratio=-0.0149016,real ratio=0.0074214
+473,predict price=103.197918946,real price=149.434410632,predict ratio=0.00744931,real ratio=-0.0151023
+474,predict price=103.111201663,real price=150.712482255,predict ratio=-0.000840301,real ratio=0.00855273
+475,predict price=104.151007329,real price=148.130024173,predict ratio=0.0100843,real ratio=-0.017135
+476,predict price=103.456733708,real price=147.21872105,predict ratio=-0.00666603,real ratio=-0.00615205
+477,predict price=102.40991182,real price=149.132071559,predict ratio=-0.0101185,real ratio=0.0129967
+478,predict price=98.2127492317,real price=150.403773576,predict ratio=-0.0409839,real ratio=0.00852735
+479,predict price=100.133811454,real price=150.918646348,predict ratio=0.0195602,real ratio=0.00342327
+480,predict price=95.5993031404,real price=151.876721895,predict ratio=-0.0452845,real ratio=0.00634829
+481,predict price=93.4673698283,real price=151.347846417,predict ratio=-0.0223007,real ratio=-0.00348227
+482,predict price=91.3423268808,real price=152.342294828,predict ratio=-0.0227357,real ratio=0.00657061
+483,predict price=89.8512279855,real price=152.205819646,predict ratio=-0.0163243,real ratio=-0.000895846
+484,predict price=84.3949753686,real price=153.069906283,predict ratio=-0.0607254,real ratio=0.00567709
+485,predict price=93.9585781759,real price=152.640620797,predict ratio=0.11332,real ratio=-0.00280451
+486,predict price=96.5828849171,real price=152.322622721,predict ratio=0.0279305,real ratio=-0.00208331
+487,predict price=94.1100661114,real price=152.746938935,predict ratio=-0.0256031,real ratio=0.00278564
+488,predict price=90.9998857773,real price=152.919428387,predict ratio=-0.0330483,real ratio=0.00112925
+489,predict price=90.973810499,real price=151.985925892,predict ratio=-0.000286542,real ratio=-0.00610454
+490,predict price=91.22809328,real price=153.175695075,predict ratio=0.00279512,real ratio=0.00782815
+491,predict price=89.9617365978,real price=153.417088114,predict ratio=-0.0138812,real ratio=0.00157592
+492,predict price=88.9268048779,real price=151.648272849,predict ratio=-0.0115041,real ratio=-0.0115295
+493,predict price=92.4685510719,real price=152.190860731,predict ratio=0.0398277,real ratio=0.00357794
+494,predict price=92.8037450817,real price=151.189428029,predict ratio=0.00362495,real ratio=-0.00658011
+495,predict price=94.6384027055,real price=151.1908283,predict ratio=0.0197692,real ratio=9.2617e-06
+496,predict price=95.7692952344,real price=153.043062197,predict ratio=0.0119496,real ratio=0.012251
+497,predict price=95.6659089176,real price=154.067052938,predict ratio=-0.00107954,real ratio=0.00669087
+498,predict price=95.4643224958,real price=155.214079653,predict ratio=-0.00210719,real ratio=0.00744498
+499,predict price=94.3838464438,real price=156.47825104,predict ratio=-0.0113181,real ratio=0.0081447
+500,predict price=96.0978219764,real price=156.289573083,predict ratio=0.0181596,real ratio=-0.00120578
+501,predict price=97.882305398,real price=156.844490188,predict ratio=0.0185694,real ratio=0.00355057
+502,predict price=102.896591865,real price=156.617970765,predict ratio=0.0512277,real ratio=-0.00144423
+503,predict price=97.9584634966,real price=158.327940468,predict ratio=-0.0479912,real ratio=0.0109181
+504,predict price=96.9841151739,real price=159.024165369,predict ratio=-0.00994655,real ratio=0.00439736
+505,predict price=97.5695271314,real price=159.259615786,predict ratio=0.00603616,real ratio=0.0014806
+506,predict price=100.19012801,real price=158.425259319,predict ratio=0.0268588,real ratio=-0.00523897
+507,predict price=99.7000328949,real price=153.915533377,predict ratio=-0.00489165,real ratio=-0.028466
+508,predict price=99.8412556429,real price=152.598732278,predict ratio=0.00141648,real ratio=-0.00855535
+509,predict price=99.104790063,real price=150.539019274,predict ratio=-0.00737637,real ratio=-0.0134976
+510,predict price=98.657554037,real price=145.50576257,predict ratio=-0.00451276,real ratio=-0.0334349
+511,predict price=96.589076153,real price=147.274065593,predict ratio=-0.0209662,real ratio=0.0121528
+512,predict price=93.51442765,real price=146.575654903,predict ratio=-0.0318323,real ratio=-0.00474225
+513,predict price=94.4437504956,real price=149.423225143,predict ratio=0.00993775,real ratio=0.0194273
+514,predict price=94.1817130282,real price=150.067844975,predict ratio=-0.00277453,real ratio=0.00431405
+515,predict price=94.9435961286,real price=151.190042486,predict ratio=0.0080895,real ratio=0.00747793
+516,predict price=94.20739695,real price=150.197250494,predict ratio=-0.00775407,real ratio=-0.00656652
+517,predict price=94.2222128266,real price=145.808630927,predict ratio=0.000157269,real ratio=-0.029219
+518,predict price=93.8912597748,real price=147.412999782,predict ratio=-0.00351247,real ratio=0.0110033
+519,predict price=94.5675390753,real price=146.396693462,predict ratio=0.00720279,real ratio=-0.00689428
+520,predict price=91.246756622,real price=148.717130149,predict ratio=-0.0351155,real ratio=0.0158503
+521,predict price=90.1345693739,real price=150.060502111,predict ratio=-0.0121888,real ratio=0.00903307
+522,predict price=94.644336024,real price=152.29874963,predict ratio=0.0500337,real ratio=0.0149156
+523,predict price=93.7912049981,real price=152.83566812,predict ratio=-0.00901407,real ratio=0.00352543
+524,predict price=98.183338673,real price=153.197211208,predict ratio=0.0468288,real ratio=0.00236557
+525,predict price=91.7632700492,real price=151.825321483,predict ratio=-0.0653886,real ratio=-0.00895506
+526,predict price=93.0862875274,real price=150.860773916,predict ratio=0.0144177,real ratio=-0.00635301
+527,predict price=96.2175761287,real price=150.941289486,predict ratio=0.0336386,real ratio=0.000533708
+528,predict price=83.2404126809,real price=151.148597873,predict ratio=-0.134873,real ratio=0.00137344
+529,predict price=81.0023590575,real price=148.882020431,predict ratio=-0.0268866,real ratio=-0.0149957
+530,predict price=81.1612360877,real price=150.767399739,predict ratio=0.00196139,real ratio=0.0126636
+531,predict price=79.6436766909,real price=153.390687661,predict ratio=-0.0186981,real ratio=0.0173996
+532,predict price=78.1467145657,real price=152.930186382,predict ratio=-0.0187957,real ratio=-0.00300215
+533,predict price=78.3507232575,real price=154.445108605,predict ratio=0.00261059,real ratio=0.00990597
+534,predict price=79.320737553,real price=154.492154292,predict ratio=0.0123804,real ratio=0.000304611
+535,predict price=76.8638684973,real price=153.358600934,predict ratio=-0.0309739,real ratio=-0.00733729
+536,predict price=76.9209870725,real price=151.815690257,predict ratio=0.000743113,real ratio=-0.0100608
+537,predict price=75.5745985705,real price=154.126956852,predict ratio=-0.0175035,real ratio=0.0152242
+538,predict price=76.540568948,real price=153.245196098,predict ratio=0.0127817,real ratio=-0.005721
+539,predict price=75.9252161535,real price=154.468196127,predict ratio=-0.00803956,real ratio=0.00798067
+540,predict price=77.0621613473,real price=151.885823556,predict ratio=0.0149745,real ratio=-0.0167178
+541,predict price=77.6839947469,real price=152.590945299,predict ratio=0.00806924,real ratio=0.00464245
+542,predict price=78.2087527344,real price=152.614988974,predict ratio=0.00675503,real ratio=0.000157569
+543,predict price=78.6056138081,real price=152.583517034,predict ratio=0.00507438,real ratio=-0.000206218
+544,predict price=77.9963092557,real price=150.698410951,predict ratio=-0.00775141,real ratio=-0.0123546
+545,predict price=74.7372638453,real price=152.385925168,predict ratio=-0.0417846,real ratio=0.011198
+546,predict price=77.0192724677,real price=152.134474095,predict ratio=0.0305337,real ratio=-0.00165009
+547,predict price=75.2528429662,real price=152.086472128,predict ratio=-0.0229349,real ratio=-0.000315523
+548,predict price=76.2229413921,real price=154.490054129,predict ratio=0.0128912,real ratio=0.015804
+549,predict price=75.2587566828,real price=154.376478507,predict ratio=-0.0126495,real ratio=-0.000735165
+550,predict price=75.8926746908,real price=155.174547502,predict ratio=0.00842318,real ratio=0.00516963
+551,predict price=74.7124382403,real price=155.076989605,predict ratio=-0.0155514,real ratio=-0.000628698
+552,predict price=75.0330931769,real price=153.474891938,predict ratio=0.00429185,real ratio=-0.010331
+553,predict price=75.8078940461,real price=154.560955651,predict ratio=0.0103261,real ratio=0.00707649
+554,predict price=76.5089696589,real price=153.11869382,predict ratio=0.00924806,real ratio=-0.00933135
+555,predict price=75.0411451397,real price=153.25875506,predict ratio=-0.019185,real ratio=0.000914723
+556,predict price=73.3483996996,real price=152.992959749,predict ratio=-0.0225576,real ratio=-0.00173429
+557,predict price=74.2150308761,real price=152.127216687,predict ratio=0.0118153,real ratio=-0.00565871
+558,predict price=71.4062504619,real price=153.502419227,predict ratio=-0.0378465,real ratio=0.00903982
+559,predict price=70.9783019465,real price=154.57941534,predict ratio=-0.00599315,real ratio=0.00701615
+560,predict price=71.3971361473,real price=154.798591887,predict ratio=0.00590088,real ratio=0.00141789
+561,predict price=72.1523408082,real price=154.727348838,predict ratio=0.0105775,real ratio=-0.000460231
+562,predict price=71.7025723149,real price=152.84092789,predict ratio=-0.0062336,real ratio=-0.0121919
+563,predict price=71.2463243882,real price=154.513927105,predict ratio=-0.00636306,real ratio=0.010946
+564,predict price=70.2316039166,real price=153.776872361,predict ratio=-0.0142424,real ratio=-0.00477015
+565,predict price=69.0459373311,real price=156.290443831,predict ratio=-0.0168822,real ratio=0.0163456
+566,predict price=69.7866941517,real price=157.017269796,predict ratio=0.0107285,real ratio=0.00465048
+567,predict price=69.8023366292,real price=157.144387065,predict ratio=0.000224147,real ratio=0.000809575
+568,predict price=70.7466185829,real price=157.847254733,predict ratio=0.0135279,real ratio=0.00447275
+569,predict price=71.8116868427,real price=157.73463539,predict ratio=0.0150547,real ratio=-0.00071347
+570,predict price=72.7089832269,real price=157.843497907,predict ratio=0.0124951,real ratio=0.000690162
+571,predict price=71.35622573,real price=155.445329241,predict ratio=-0.0186051,real ratio=-0.0151933
+572,predict price=73.4883192051,real price=155.929618021,predict ratio=0.0298796,real ratio=0.00311549
+573,predict price=73.3303813897,real price=155.286381411,predict ratio=-0.00214916,real ratio=-0.00412517
+574,predict price=77.7113391204,real price=155.040343578,predict ratio=0.0597427,real ratio=-0.00158441
+575,predict price=76.6582634607,real price=155.997889778,predict ratio=-0.0135511,real ratio=0.00617611
+576,predict price=75.7044503458,real price=157.127515601,predict ratio=-0.0124424,real ratio=0.00724129
+577,predict price=74.7730270239,real price=158.684053183,predict ratio=-0.0123034,real ratio=0.00990621
+578,predict price=75.9881748801,real price=158.807242861,predict ratio=0.0162512,real ratio=0.00077632
+579,predict price=76.4167893115,real price=159.227529041,predict ratio=0.00564054,real ratio=0.00264652
+580,predict price=76.3230311218,real price=159.477767685,predict ratio=-0.00122693,real ratio=0.00157158
+581,predict price=75.7675190482,real price=159.026009587,predict ratio=-0.00727843,real ratio=-0.00283273
+582,predict price=75.4407298213,real price=158.141636072,predict ratio=-0.00431305,real ratio=-0.00556119
+583,predict price=77.7759820039,real price=157.954785299,predict ratio=0.0309548,real ratio=-0.00118154
+584,predict price=78.9341830854,real price=156.05900643,predict ratio=0.0148915,real ratio=-0.012002
+585,predict price=78.9092641735,real price=156.784602837,predict ratio=-0.000315692,real ratio=0.0046495
+586,predict price=78.1460996959,real price=158.586478225,predict ratio=-0.00967142,real ratio=0.0114927
+587,predict price=78.1205803878,real price=158.655911168,predict ratio=-0.000326559,real ratio=0.000437824
+588,predict price=78.1263161372,real price=158.68738311,predict ratio=7.34217e-05,real ratio=0.000198366
+589,predict price=81.1736718182,real price=159.31321877,predict ratio=0.0390055,real ratio=0.00394383
+590,predict price=79.7084035749,real price=158.609036221,predict ratio=-0.018051,real ratio=-0.00442011
+591,predict price=78.6166430469,real price=159.667316488,predict ratio=-0.0136969,real ratio=0.00667226
+592,predict price=80.269686255,real price=159.585912935,predict ratio=0.0210266,real ratio=-0.000509832
+593,predict price=79.9852868156,real price=157.809652241,predict ratio=-0.00354305,real ratio=-0.0111304
+594,predict price=80.9169128443,real price=157.23811975,predict ratio=0.0116475,real ratio=-0.00362166
+595,predict price=77.000264496,real price=159.465950681,predict ratio=-0.0484033,real ratio=0.0141685
+596,predict price=78.5129075754,real price=159.276401826,predict ratio=0.0196446,real ratio=-0.00118865
+597,predict price=80.3019017221,real price=157.512999786,predict ratio=0.022786,real ratio=-0.0110713
+598,predict price=80.0540911952,real price=158.395973043,predict ratio=-0.00308599,real ratio=0.00560572
+599,predict price=82.8928646584,real price=158.757584436,predict ratio=0.0354607,real ratio=0.00228296
+600,predict price=83.1297035929,real price=157.05888516,predict ratio=0.00285717,real ratio=-0.0107
+601,predict price=87.5428166546,real price=157.394523248,predict ratio=0.0530871,real ratio=0.00213702
+602,predict price=90.7441365902,real price=156.138924329,predict ratio=0.0365686,real ratio=-0.0079774
+603,predict price=90.1052213379,real price=154.772106278,predict ratio=-0.00704084,real ratio=-0.00875386
+604,predict price=87.1806696555,real price=151.115025808,predict ratio=-0.0324571,real ratio=-0.0236288
+605,predict price=87.027032072,real price=151.163027774,predict ratio=-0.00176229,real ratio=0.000317652
+606,predict price=90.2233831371,real price=150.809715522,predict ratio=0.0367283,real ratio=-0.00233729
+607,predict price=89.1173206524,real price=147.505588613,predict ratio=-0.0122592,real ratio=-0.0219092
+608,predict price=89.8154596463,real price=148.494692104,predict ratio=0.00783393,real ratio=0.00670553
+609,predict price=90.6838881951,real price=148.4575337,predict ratio=0.00966903,real ratio=-0.000250234
+610,predict price=89.6769842321,real price=147.885745069,predict ratio=-0.0111034,real ratio=-0.00385153
+611,predict price=89.9695790538,real price=147.949645234,predict ratio=0.00326276,real ratio=0.000432091
+612,predict price=89.3902059125,real price=148.889619718,predict ratio=-0.00643966,real ratio=0.00635334
+613,predict price=91.1297957725,real price=150.125204975,predict ratio=0.0194606,real ratio=0.00829867
+614,predict price=91.4525390166,real price=146.571027335,predict ratio=0.00354158,real ratio=-0.0236748
+615,predict price=91.0031621345,real price=146.885439359,predict ratio=-0.00491377,real ratio=0.00214512
+616,predict price=92.3129374176,real price=147.275022045,predict ratio=0.0143926,real ratio=0.00265229
+617,predict price=91.1977716197,real price=144.04879791,predict ratio=-0.0120803,real ratio=-0.0219061
+618,predict price=90.3614739995,real price=141.188744702,predict ratio=-0.00917015,real ratio=-0.0198548
+619,predict price=89.0104679892,real price=133.540141014,predict ratio=-0.0149511,real ratio=-0.0541729
+620,predict price=88.565657471,real price=137.551507212,predict ratio=-0.00499728,real ratio=0.0300387
+621,predict price=90.6792223957,real price=139.027870855,predict ratio=0.0238644,real ratio=0.0107332
+622,predict price=87.2324709268,real price=139.021748939,predict ratio=-0.0380104,real ratio=-4.40337e-05
+623,predict price=88.1806006626,real price=142.656109262,predict ratio=0.010869,real ratio=0.0261424
+624,predict price=81.9297897829,real price=142.06725271,predict ratio=-0.0708865,real ratio=-0.0041278
+625,predict price=77.8832451655,real price=142.5255682,predict ratio=-0.0493904,real ratio=0.00322605
+626,predict price=79.4740278014,real price=142.40404348,predict ratio=0.0204252,real ratio=-0.000852652
+627,predict price=80.2574539086,real price=140.002647275,predict ratio=0.00985764,real ratio=-0.0168633
+628,predict price=80.2307056054,real price=141.235346624,predict ratio=-0.000333281,real ratio=0.00880483
+629,predict price=79.5872116668,real price=144.866112214,predict ratio=-0.00802054,real ratio=0.0257072
+630,predict price=79.3310986254,real price=143.566712049,predict ratio=-0.00321802,real ratio=-0.00896966
+631,predict price=80.0772685721,real price=141.275826353,predict ratio=0.00940577,real ratio=-0.0159569
+632,predict price=77.7607885354,real price=142.137462502,predict ratio=-0.0289281,real ratio=0.00609896
+633,predict price=77.0637100998,real price=140.958536884,predict ratio=-0.0089644,real ratio=-0.00829426
+634,predict price=75.1994200077,real price=137.835565857,predict ratio=-0.0241915,real ratio=-0.0221552
+635,predict price=72.8881018891,real price=138.820921085,predict ratio=-0.0307359,real ratio=0.00714877
+636,predict price=72.4964851703,real price=138.12085397,predict ratio=-0.00537285,real ratio=-0.00504295
+637,predict price=72.1869576943,real price=138.327112151,predict ratio=-0.00426955,real ratio=0.00149332
+638,predict price=71.729291923,real price=141.004523972,predict ratio=-0.00634001,real ratio=0.0193557
+639,predict price=73.46039415,real price=138.157576897,predict ratio=0.0241338,real ratio=-0.0201905
+640,predict price=70.3019082472,real price=143.226335527,predict ratio=-0.0429958,real ratio=0.0366882
+641,predict price=71.4181278554,real price=143.508293705,predict ratio=0.0158775,real ratio=0.00196862
+642,predict price=71.0372606429,real price=142.623672577,predict ratio=-0.00533292,real ratio=-0.00616425
+643,predict price=69.9848955691,real price=143.402863546,predict ratio=-0.0148143,real ratio=0.00546327
+644,predict price=67.4703906577,real price=143.700216171,predict ratio=-0.0359293,real ratio=0.00207355
+645,predict price=66.5238730565,real price=147.166706119,predict ratio=-0.0140286,real ratio=0.0241231
+646,predict price=66.5341527227,real price=146.759876201,predict ratio=0.000154526,real ratio=-0.00276442
+647,predict price=66.7998442844,real price=147.286839096,predict ratio=0.00399331,real ratio=0.00359065
+648,predict price=65.5466911888,real price=149.042625027,predict ratio=-0.0187598,real ratio=0.0119209
+649,predict price=67.3069775732,real price=150.38130103,predict ratio=0.0268555,real ratio=0.00898183
+650,predict price=68.1742885072,real price=149.442282855,predict ratio=0.0128859,real ratio=-0.00624425
+651,predict price=68.5805731542,real price=149.202273015,predict ratio=0.0059595,real ratio=-0.00160604
+652,predict price=65.7758352024,real price=150.031660271,predict ratio=-0.040897,real ratio=0.00555881
+653,predict price=66.0770401607,real price=150.188951675,predict ratio=0.00457926,real ratio=0.00104839
+654,predict price=66.1611694427,real price=152.646563503,predict ratio=0.0012732,real ratio=0.0163635
+655,predict price=64.097034917,real price=151.529096141,predict ratio=-0.0311986,real ratio=-0.00732062
+656,predict price=63.9375011817,real price=151.764990549,predict ratio=-0.00248894,real ratio=0.00155676
+657,predict price=62.8468348046,real price=149.839481474,predict ratio=-0.0170583,real ratio=-0.0126874
+658,predict price=63.1323822679,real price=148.242899534,predict ratio=0.00454355,real ratio=-0.0106553
+659,predict price=62.8578793449,real price=149.56118622,predict ratio=-0.00434805,real ratio=0.00889275
+660,predict price=62.8718411302,real price=147.010627007,predict ratio=0.000222117,real ratio=-0.0170536
+661,predict price=64.718498862,real price=143.72408895,predict ratio=0.0293718,real ratio=-0.0223558
+662,predict price=65.4569443952,real price=143.829963085,predict ratio=0.0114101,real ratio=0.000736649
+663,predict price=64.1970870812,real price=143.023927941,predict ratio=-0.0192471,real ratio=-0.00560408
+664,predict price=61.3231383117,real price=142.375013415,predict ratio=-0.0447676,real ratio=-0.0045371
+665,predict price=64.668873116,real price=144.311280607,predict ratio=0.0545591,real ratio=0.0135998
+666,predict price=64.7864029048,real price=145.99389387,predict ratio=0.00181741,real ratio=0.0116596
+667,predict price=64.6503691875,real price=145.582350843,predict ratio=-0.00209973,real ratio=-0.00281891
+668,predict price=66.143866646,real price=146.339692472,predict ratio=0.0231011,real ratio=0.00520215
+669,predict price=65.7231718185,real price=147.500516952,predict ratio=-0.0063603,real ratio=0.0079324
+670,predict price=65.7628229483,real price=144.414883471,predict ratio=0.000603305,real ratio=-0.0209195
+671,predict price=65.6672849314,real price=142.24168015,predict ratio=-0.00145277,real ratio=-0.0150483
+672,predict price=66.0418032161,real price=142.073024363,predict ratio=0.00570327,real ratio=-0.0011857
+673,predict price=66.7141267469,real price=140.735757115,predict ratio=0.0101803,real ratio=-0.00941253
+674,predict price=66.5431633114,real price=137.89327556,predict ratio=-0.00256263,real ratio=-0.0201973
+675,predict price=67.3508022384,real price=136.24824769,predict ratio=0.0121371,real ratio=-0.0119297
+676,predict price=63.964186553,real price=132.870504129,predict ratio=-0.0502832,real ratio=-0.0247911
+677,predict price=64.413301485,real price=132.254461788,predict ratio=0.00702135,real ratio=-0.00463641
+678,predict price=64.6271822696,real price=135.515043714,predict ratio=0.00332044,real ratio=0.0246539
+679,predict price=64.4645776565,real price=134.612227604,predict ratio=-0.00251604,real ratio=-0.00666211
+680,predict price=65.1052075226,real price=132.499099291,predict ratio=0.0099377,real ratio=-0.0156979
+681,predict price=65.3674055764,real price=131.519421997,predict ratio=0.0040273,real ratio=-0.00739384
+682,predict price=67.067947061,real price=132.996665027,predict ratio=0.0260151,real ratio=0.0112321
+683,predict price=67.5873254476,real price=129.727954812,predict ratio=0.00774406,real ratio=-0.0245774
+684,predict price=66.8030564826,real price=132.329478799,predict ratio=-0.0116038,real ratio=0.0200537
+685,predict price=66.101664279,real price=133.095725802,predict ratio=-0.0104994,real ratio=0.00579045
+686,predict price=66.736450705,real price=132.491841942,predict ratio=0.00960318,real ratio=-0.00453721
+687,predict price=69.8552631148,real price=135.639027578,predict ratio=0.0467333,real ratio=0.0237538
+688,predict price=68.5972693808,real price=137.098519681,predict ratio=-0.0180086,real ratio=0.0107601
+689,predict price=69.5572349597,real price=136.646496897,predict ratio=0.0139942,real ratio=-0.00329707
+690,predict price=74.2356616388,real price=135.345696461,predict ratio=0.0672601,real ratio=-0.00951946
+691,predict price=71.3740375105,real price=136.470848204,predict ratio=-0.0385478,real ratio=0.00831317
+692,predict price=70.7646097969,real price=138.789534486,predict ratio=-0.00853851,real ratio=0.0169903
+693,predict price=74.1534325878,real price=139.509009012,predict ratio=0.0478887,real ratio=0.00518392
+694,predict price=73.2169701235,real price=139.229398835,predict ratio=-0.0126287,real ratio=-0.00200424
+695,predict price=70.2687485263,real price=140.281463277,predict ratio=-0.0402669,real ratio=0.00755634
+696,predict price=71.8124890675,real price=139.29820848,predict ratio=0.0219691,real ratio=-0.00700916
+697,predict price=71.5866777163,real price=135.83819055,predict ratio=-0.00314446,real ratio=-0.0248389
+698,predict price=69.3089136941,real price=135.64575577,predict ratio=-0.0318183,real ratio=-0.00141665
+699,predict price=70.757201717,real price=133.331270232,predict ratio=0.0208961,real ratio=-0.0170627
+700,predict price=70.4127851285,real price=132.964672508,predict ratio=-0.00486758,real ratio=-0.00274953
+701,predict price=76.124543251,real price=131.414068979,predict ratio=0.0811182,real ratio=-0.0116618
+702,predict price=75.0135517612,real price=131.423597651,predict ratio=-0.0145944,real ratio=7.25088e-05
+703,predict price=74.2486249773,real price=133.394308127,predict ratio=-0.0101972,real ratio=0.0149951
+704,predict price=72.5691584251,real price=136.084493082,predict ratio=-0.0226195,real ratio=0.0201672
+705,predict price=72.5003367242,real price=133.838287832,predict ratio=-0.00094836,real ratio=-0.016506
+706,predict price=70.6617271489,real price=128.449268549,predict ratio=-0.02536,real ratio=-0.0402652
+707,predict price=71.0312358784,real price=126.780547021,predict ratio=0.00522926,real ratio=-0.0129913
+708,predict price=70.8796025006,real price=127.026405552,predict ratio=-0.00213474,real ratio=0.00193924
+709,predict price=71.9552572268,real price=127.642712553,predict ratio=0.0151758,real ratio=0.0048518
+710,predict price=71.8988185445,real price=125.797471556,predict ratio=-0.000784358,real ratio=-0.0144563
+711,predict price=72.3953886784,real price=123.372817338,predict ratio=0.00690651,real ratio=-0.0192743
+712,predict price=73.2337153911,real price=122.164861697,predict ratio=0.0115798,real ratio=-0.0097911
+713,predict price=73.2682023736,real price=118.072015152,predict ratio=0.000470917,real ratio=-0.0335026
+714,predict price=74.0632959904,real price=120.51083448,predict ratio=0.0108518,real ratio=0.0206554
+715,predict price=74.9148871149,real price=121.191400287,predict ratio=0.0114982,real ratio=0.00564734
+716,predict price=73.8102116509,real price=109.928116821,predict ratio=-0.0147457,real ratio=-0.092938
+717,predict price=72.0158757642,real price=112.166449689,predict ratio=-0.0243101,real ratio=0.0203618
+718,predict price=70.3829584283,real price=114.472200586,predict ratio=-0.0226744,real ratio=0.0205565
+719,predict price=68.778104372,real price=119.161852598,predict ratio=-0.0228017,real ratio=0.0409676
+720,predict price=69.1449174017,real price=114.429620235,predict ratio=0.00533328,real ratio=-0.0397126
+721,predict price=69.4428890266,real price=117.847758289,predict ratio=0.00430938,real ratio=0.0298711
+722,predict price=69.5726280218,real price=116.67766124,predict ratio=0.00186828,real ratio=-0.00992889
+723,predict price=70.2791839842,real price=118.841062694,predict ratio=0.0101557,real ratio=0.0185417
+724,predict price=69.325687008,real price=118.007756376,predict ratio=-0.0135673,real ratio=-0.00701194
+725,predict price=69.6244674018,real price=121.17749995,predict ratio=0.00430981,real ratio=0.0268605
+726,predict price=68.6913665097,real price=120.179030037,predict ratio=-0.0134019,real ratio=-0.00823973
+727,predict price=67.427252009,real price=114.528680851,predict ratio=-0.0184028,real ratio=-0.0470161
+728,predict price=67.7975707601,real price=115.472156056,predict ratio=0.00549212,real ratio=0.00823789
+729,predict price=68.9998273703,real price=113.811742207,predict ratio=0.017733,real ratio=-0.0143793
+730,predict price=69.7680137759,real price=113.853007506,predict ratio=0.0111332,real ratio=0.000362575
+731,predict price=70.1636680596,real price=114.258163927,predict ratio=0.005671,real ratio=0.00355859
+732,predict price=69.4751878279,real price=119.138158914,predict ratio=-0.00981249,real ratio=0.0427103
+733,predict price=68.9601779753,real price=119.104142578,predict ratio=-0.00741286,real ratio=-0.00028552
+734,predict price=70.013742738,real price=120.287533634,predict ratio=0.0152779,real ratio=0.00993577
+735,predict price=69.2024214173,real price=116.37462201,predict ratio=-0.011588,real ratio=-0.0325297
+736,predict price=70.6069086437,real price=119.678748935,predict ratio=0.0202953,real ratio=0.0283922
+737,predict price=68.1966237925,real price=118.036606901,predict ratio=-0.0341367,real ratio=-0.0137212
+738,predict price=70.9035217535,real price=121.657237739,predict ratio=0.0396926,real ratio=0.0306738
+739,predict price=70.3476994159,real price=120.871660183,predict ratio=-0.00783914,real ratio=-0.0064573
+740,predict price=72.3286168755,real price=122.677821753,predict ratio=0.028159,real ratio=0.0149428
+741,predict price=76.3683543698,real price=121.752883116,predict ratio=0.0558525,real ratio=-0.00753957
+742,predict price=76.3791256081,real price=118.933301179,predict ratio=0.000141043,real ratio=-0.0231582
+743,predict price=79.7910915997,real price=113.592634144,predict ratio=0.0446714,real ratio=-0.0449047
+744,predict price=80.2848391415,real price=113.593513582,predict ratio=0.006188,real ratio=7.74204e-06
+745,predict price=80.7041415429,real price=113.416720845,predict ratio=0.00522268,real ratio=-0.00155636
+746,predict price=80.4714145061,real price=115.544457968,predict ratio=-0.00288371,real ratio=0.0187603
+747,predict price=81.404515373,real price=111.761993338,predict ratio=0.0115954,real ratio=-0.032736
+748,predict price=82.139025853,real price=109.570347432,predict ratio=0.00902297,real ratio=-0.0196099
+749,predict price=80.2806056665,real price=110.673299774,predict ratio=-0.0226253,real ratio=0.0100662
+750,predict price=78.2389785426,real price=112.446845306,predict ratio=-0.0254311,real ratio=0.0160251
+751,predict price=77.6925739039,real price=108.707490432,predict ratio=-0.00698379,real ratio=-0.0332544
+752,predict price=78.5137677622,real price=107.030196457,predict ratio=0.0105698,real ratio=-0.0154294
+753,predict price=76.3607532998,real price=103.060018671,predict ratio=-0.0274221,real ratio=-0.037094
+754,predict price=77.0280398549,real price=104.6045003,predict ratio=0.00873861,real ratio=0.0149862
+755,predict price=77.0430987989,real price=107.194924535,predict ratio=0.0001955,real ratio=0.024764
+756,predict price=73.818429766,real price=111.433424658,predict ratio=-0.0418554,real ratio=0.0395401
+757,predict price=74.0132560117,real price=111.096027702,predict ratio=0.00263926,real ratio=-0.00302779
+758,predict price=75.1068188641,real price=110.203790525,predict ratio=0.0147752,real ratio=-0.00803122
+759,predict price=75.4100239206,real price=112.091347095,predict ratio=0.00403698,real ratio=0.0171279
+760,predict price=74.3613441623,real price=109.51273124,predict ratio=-0.0139064,real ratio=-0.0230046
+761,predict price=76.7571211283,real price=110.657034223,predict ratio=0.032218,real ratio=0.010449
+762,predict price=77.0081417367,real price=115.316614761,predict ratio=0.00327032,real ratio=0.0421083
+763,predict price=76.562697004,real price=117.069967327,predict ratio=-0.00578438,real ratio=0.0152047
+764,predict price=74.3138844085,real price=116.224673368,predict ratio=-0.0293722,real ratio=-0.00722042
+765,predict price=74.8085402147,real price=117.597442528,predict ratio=0.0066563,real ratio=0.0118113
+766,predict price=74.100655625,real price=115.850553416,predict ratio=-0.00946262,real ratio=-0.0148548
+767,predict price=73.3332340622,real price=114.639276405,predict ratio=-0.0103565,real ratio=-0.0104555
+768,predict price=73.7471669354,real price=113.182755665,predict ratio=0.00564455,real ratio=-0.0127053
+769,predict price=72.2780069626,real price=116.491433408,predict ratio=-0.0199216,real ratio=0.0292331
+770,predict price=72.0924877132,real price=112.939782995,predict ratio=-0.00256675,real ratio=-0.0304885
+771,predict price=73.0720676858,real price=113.578648006,predict ratio=0.0135878,real ratio=0.00565669
+772,predict price=72.531691088,real price=114.938643963,predict ratio=-0.00739512,real ratio=0.011974
+773,predict price=70.3013394989,real price=117.14340456,predict ratio=-0.03075,real ratio=0.0191821
+774,predict price=70.0149528058,real price=117.826685504,predict ratio=-0.0040737,real ratio=0.00583286
+775,predict price=71.5261871378,real price=119.751050303,predict ratio=0.0215845,real ratio=0.0163322
+776,predict price=74.5489311366,real price=118.45068541,predict ratio=0.0422607,real ratio=-0.0108589
+777,predict price=71.7946911384,real price=118.724694517,predict ratio=-0.0369454,real ratio=0.00231328
+778,predict price=74.5613149945,real price=118.389918791,predict ratio=0.0385352,real ratio=-0.00281976
+779,predict price=76.1078121185,real price=121.210457062,predict ratio=0.0207413,real ratio=0.0238241
+780,predict price=77.6453364451,real price=121.480623964,predict ratio=0.0202019,real ratio=0.00222891
+781,predict price=77.0548487647,real price=121.092603808,predict ratio=-0.00760493,real ratio=-0.00319409
+782,predict price=78.300540247,real price=122.834848062,predict ratio=0.0161663,real ratio=0.0143877
+783,predict price=79.2136637077,real price=123.300164881,predict ratio=0.0116618,real ratio=0.00378815
+784,predict price=77.6310542083,real price=121.908073659,predict ratio=-0.019979,real ratio=-0.0112903
+785,predict price=77.527781671,real price=119.390745358,predict ratio=-0.0013303,real ratio=-0.0206494
+786,predict price=76.5769781934,real price=120.16032228,predict ratio=-0.012264,real ratio=0.00644587
+787,predict price=81.4976224243,real price=121.999620686,predict ratio=0.0642575,real ratio=0.015307
+788,predict price=80.7037219864,real price=123.440661637,predict ratio=-0.00974139,real ratio=0.0118118
+789,predict price=80.8510632641,real price=124.605166193,predict ratio=0.00182571,real ratio=0.00943372
+790,predict price=81.228245702,real price=124.323114087,predict ratio=0.00466515,real ratio=-0.00226357
+791,predict price=80.2432919176,real price=124.761407404,predict ratio=-0.0121258,real ratio=0.00352544
+792,predict price=80.6985398109,real price=123.80385268,predict ratio=0.00567335,real ratio=-0.00767509
+793,predict price=81.7163016868,real price=121.759790368,predict ratio=0.0126119,real ratio=-0.0165105
+794,predict price=81.7691698539,real price=122.21583466,predict ratio=0.000646972,real ratio=0.00374544
+795,predict price=81.7575217232,real price=122.510830732,predict ratio=-0.000142451,real ratio=0.00241373
+796,predict price=82.4962076036,real price=121.471351592,predict ratio=0.00903508,real ratio=-0.00848479
+797,predict price=82.304820169,real price=119.863755299,predict ratio=-0.00231995,real ratio=-0.0132344
+798,predict price=82.1000367053,real price=123.492420654,predict ratio=-0.00248811,real ratio=0.0302732
+799,predict price=83.57238773,real price=125.364070506,predict ratio=0.0179336,real ratio=0.015156
+800,predict price=82.0642619772,real price=126.252371581,predict ratio=-0.0180457,real ratio=0.00708577
+801,predict price=82.7626808239,real price=124.23296754,predict ratio=0.00851063,real ratio=-0.015995
+802,predict price=83.7815839346,real price=126.212421107,predict ratio=0.0123111,real ratio=0.0159334
+803,predict price=83.4073667685,real price=125.386628488,predict ratio=-0.00446658,real ratio=-0.00654288
+804,predict price=83.0534297383,real price=126.683415893,predict ratio=-0.00424347,real ratio=0.0103423
+805,predict price=81.5615954638,real price=123.989994941,predict ratio=-0.0179623,real ratio=-0.021261
+806,predict price=81.8108328862,real price=122.589254492,predict ratio=0.00305582,real ratio=-0.0112972
+807,predict price=81.7743712251,real price=124.008360677,predict ratio=-0.000445683,real ratio=0.0115761
+808,predict price=82.9669736997,real price=121.430171714,predict ratio=0.0145841,real ratio=-0.0207904
+809,predict price=81.7274535144,real price=122.174483944,predict ratio=-0.0149399,real ratio=0.00612955
+810,predict price=82.7581525953,real price=125.502475096,predict ratio=0.0126114,real ratio=0.0272397
+811,predict price=84.9630836492,real price=125.45001617,predict ratio=0.0266431,real ratio=-0.000417991
+812,predict price=88.1783410029,real price=126.363240357,predict ratio=0.037843,real ratio=0.00727959
+813,predict price=89.185860315,real price=123.542258244,predict ratio=0.0114259,real ratio=-0.0223244
+814,predict price=94.0970560066,real price=121.897759679,predict ratio=0.055067,real ratio=-0.0133112
+815,predict price=98.7751662682,real price=121.157998291,predict ratio=0.0497158,real ratio=-0.0060687
+816,predict price=103.966490378,real price=121.088838572,predict ratio=0.052557,real ratio=-0.000570823
+817,predict price=103.81067995,real price=120.917126088,predict ratio=-0.00149866,real ratio=-0.00141807
+818,predict price=99.3038983485,real price=120.85068153,predict ratio=-0.0434135,real ratio=-0.000549505
+819,predict price=100.562672681,real price=118.42043466,predict ratio=0.012676,real ratio=-0.0201095
+820,predict price=97.8060894265,real price=117.869786696,predict ratio=-0.0274116,real ratio=-0.00464994
+821,predict price=99.5543722636,real price=117.710838874,predict ratio=0.017875,real ratio=-0.0013485
+822,predict price=96.9614357846,real price=116.16478614,predict ratio=-0.0260454,real ratio=-0.0131343
+823,predict price=97.5421197826,real price=115.98144458,predict ratio=0.00598881,real ratio=-0.00157829
+824,predict price=97.6226780594,real price=116.808893669,predict ratio=0.000825882,real ratio=0.00713432
+825,predict price=96.9259705903,real price=113.950402983,predict ratio=-0.00713674,real ratio=-0.0244715
+826,predict price=95.8863826014,real price=114.116787598,predict ratio=-0.0107256,real ratio=0.00146015
+827,predict price=93.613369999,real price=114.248635046,predict ratio=-0.0237053,real ratio=0.00115537
+828,predict price=92.7286943792,real price=114.008027531,predict ratio=-0.00945031,real ratio=-0.002106
+829,predict price=88.8866913426,real price=113.7498398,predict ratio=-0.0414327,real ratio=-0.00226465
+830,predict price=92.7817791109,real price=111.515084374,predict ratio=0.0438208,real ratio=-0.0196462
+831,predict price=91.2173873388,real price=111.569643706,predict ratio=-0.016861,real ratio=0.000489255
+832,predict price=91.6524515026,real price=112.681339167,predict ratio=0.00476953,real ratio=0.00996414
+833,predict price=90.7292100166,real price=111.944728429,predict ratio=-0.0100733,real ratio=-0.00653711
+834,predict price=88.6007151869,real price=115.278141399,predict ratio=-0.0234599,real ratio=0.0297773
+835,predict price=90.3752930534,real price=116.397000533,predict ratio=0.0200289,real ratio=0.00970574
+836,predict price=91.5410524774,real price=118.93583666,predict ratio=0.0128991,real ratio=0.0218119
+837,predict price=93.6058432,real price=116.5878642,predict ratio=0.0225559,real ratio=-0.0197415
+838,predict price=91.886752414,real price=116.754163437,predict ratio=-0.0183652,real ratio=0.00142639
+839,predict price=88.8771303267,real price=115.05510553,predict ratio=-0.0327536,real ratio=-0.0145524
+840,predict price=89.2483210487,real price=116.876652972,predict ratio=0.00417645,real ratio=0.015832
+841,predict price=90.6376434307,real price=116.955512128,predict ratio=0.0155669,real ratio=0.000674721
+842,predict price=90.0874603467,real price=114.488021441,predict ratio=-0.00607014,real ratio=-0.0210977
+843,predict price=86.4171127913,real price=113.076787467,predict ratio=-0.040742,real ratio=-0.0123265
+844,predict price=87.926081113,real price=112.914868343,predict ratio=0.0174615,real ratio=-0.00143194
+845,predict price=87.4638023422,real price=115.889547417,predict ratio=-0.00525758,real ratio=0.0263444
+846,predict price=87.1983303508,real price=114.753816779,predict ratio=-0.00303522,real ratio=-0.00980011
+847,predict price=88.3025264854,real price=115.133443864,predict ratio=0.012663,real ratio=0.00330819
+848,predict price=83.7694396864,real price=117.428521921,predict ratio=-0.0513359,real ratio=0.0199341
+849,predict price=82.7044678624,real price=116.315426121,predict ratio=-0.0127131,real ratio=-0.00947892
+850,predict price=82.4487923031,real price=113.862535821,predict ratio=-0.00309144,real ratio=-0.0210883
+851,predict price=83.6409981713,real price=113.283301848,predict ratio=0.01446,real ratio=-0.00508713
+852,predict price=83.9770606407,real price=113.830713825,predict ratio=0.00401792,real ratio=0.00483224
+853,predict price=81.3250990714,real price=115.107564493,predict ratio=-0.0315796,real ratio=0.0112171
+854,predict price=78.1138402879,real price=112.481117587,predict ratio=-0.0394867,real ratio=-0.0228173
+855,predict price=79.1854583035,real price=112.364314512,predict ratio=0.0137187,real ratio=-0.00103842
+856,predict price=80.4569362231,real price=111.494541382,predict ratio=0.016057,real ratio=-0.00774065
+857,predict price=80.4616957133,real price=110.741144471,predict ratio=5.91557e-05,real ratio=-0.00675725
+858,predict price=79.706947046,real price=112.600115015,predict ratio=-0.00938022,real ratio=0.0167866
+859,predict price=79.8761521346,real price=111.726235044,predict ratio=0.00212284,real ratio=-0.00776092
+860,predict price=79.6399655368,real price=111.501098827,predict ratio=-0.00295691,real ratio=-0.00201507
+861,predict price=79.4800141883,real price=111.634782004,predict ratio=-0.00200843,real ratio=0.00119894
+862,predict price=78.2633598789,real price=114.298122793,predict ratio=-0.0153077,real ratio=0.0238576
+863,predict price=77.06553716,real price=110.246541714,predict ratio=-0.015305,real ratio=-0.0354475
+864,predict price=79.0454219037,real price=110.947044282,predict ratio=0.0256909,real ratio=0.00635396
+865,predict price=78.4994807033,real price=109.793562658,predict ratio=-0.00690668,real ratio=-0.0103967
+866,predict price=78.3966403733,real price=106.773417585,predict ratio=-0.00131008,real ratio=-0.0275075
+867,predict price=77.2774569649,real price=110.377603691,predict ratio=-0.0142759,real ratio=0.0337555
+868,predict price=78.2823402919,real price=108.420802091,predict ratio=0.0130036,real ratio=-0.0177282
+869,predict price=78.5697548443,real price=107.94849244,predict ratio=0.00367151,real ratio=-0.00435626
+870,predict price=83.1687521966,real price=105.814027209,predict ratio=0.0585339,real ratio=-0.019773
+871,predict price=85.151299199,real price=106.795531699,predict ratio=0.0238376,real ratio=0.00927575
+872,predict price=84.4758223243,real price=101.505573105,predict ratio=-0.00793267,real ratio=-0.0495335
+873,predict price=85.8698403318,real price=102.730229515,predict ratio=0.016502,real ratio=0.0120649
+874,predict price=87.4810607831,real price=100.45272312,predict ratio=0.0187635,real ratio=-0.0221698
+875,predict price=88.1252982178,real price=104.225923592,predict ratio=0.00736431,real ratio=0.037562
+876,predict price=88.3494358587,real price=105.709894807,predict ratio=0.0025434,real ratio=0.014238
+877,predict price=85.4990065287,real price=105.92358127,predict ratio=-0.0322631,real ratio=0.00202144
+878,predict price=86.3891228202,real price=104.97494899,predict ratio=0.0104108,real ratio=-0.00895582
+879,predict price=86.6073,real price=103.983736542,predict ratio=0.00252552,real ratio=-0.00944237
+880,predict price=87.3357857412,real price=102.676199494,predict ratio=0.00841137,real ratio=-0.0125744
+881,predict price=86.6163817925,real price=98.446698488,predict ratio=-0.00823722,real ratio=-0.0411926
+882,predict price=87.1098449859,real price=99.3944513145,predict ratio=0.00569711,real ratio=0.00962707
+883,predict price=88.189756249,real price=97.5277879221,predict ratio=0.0123971,real ratio=-0.0187804
+884,predict price=88.551459874,real price=95.6338448057,predict ratio=0.00410142,real ratio=-0.0194195
+885,predict price=88.0396802473,real price=91.5678423605,predict ratio=-0.00577946,real ratio=-0.0425164
+886,predict price=88.0909262498,real price=88.7946059701,predict ratio=0.000582078,real ratio=-0.0302861
+887,predict price=90.675692948,real price=80.4660509353,predict ratio=0.029342,real ratio=-0.0937957
+888,predict price=89.9755825974,real price=80.0653514932,predict ratio=-0.00772104,real ratio=-0.00497973
+889,predict price=89.4301056118,real price=72.3621033264,predict ratio=-0.0060625,real ratio=-0.096212
+890,predict price=91.8132928599,real price=82.6015671097,predict ratio=0.0266486,real ratio=0.141503
+891,predict price=90.686195154,real price=83.4750031542,predict ratio=-0.012276,real ratio=0.0105741
+892,predict price=90.2617607658,real price=73.953537092,predict ratio=-0.00468025,real ratio=-0.114064
+893,predict price=90.0304736979,real price=76.0114143615,predict ratio=-0.0025624,real ratio=0.0278266
+894,predict price=92.461541553,real price=78.7372636881,predict ratio=0.0270027,real ratio=0.0358611
+895,predict price=95.3167911972,real price=81.3659818278,predict ratio=0.0308804,real ratio=0.0333859
+896,predict price=93.5652118268,real price=75.8441589535,predict ratio=-0.0183764,real ratio=-0.067864
+897,predict price=90.6022249558,real price=73.9756596807,predict ratio=-0.0316676,real ratio=-0.024636
+898,predict price=90.7383905683,real price=66.8770888574,predict ratio=0.00150289,real ratio=-0.0959582
+899,predict price=91.6879024015,real price=62.6263406257,predict ratio=0.0104643,real ratio=-0.0635606
+900,predict price=90.0439450491,real price=66.6396236359,predict ratio=-0.0179299,real ratio=0.064083
+901,predict price=90.5278077864,real price=71.7979142297,predict ratio=0.00537363,real ratio=0.0774058
+902,predict price=88.6187883671,real price=78.9485849057,predict ratio=-0.0210877,real ratio=0.0995944
+903,predict price=89.1939694954,real price=74.9898654452,predict ratio=0.00649051,real ratio=-0.050143
+904,predict price=86.9041988652,real price=79.6903524639,predict ratio=-0.0256718,real ratio=0.0626816
+905,predict price=84.4643568218,real price=83.2456743445,predict ratio=-0.0280751,real ratio=0.0446142
+906,predict price=84.8996148979,real price=77.806552914,predict ratio=0.00515316,real ratio=-0.0653382
+907,predict price=83.7879430917,real price=75.0424949981,predict ratio=-0.013094,real ratio=-0.0355247
+908,predict price=85.0303488573,real price=79.4003426954,predict ratio=0.014828,real ratio=0.0580717
+909,predict price=85.0968523222,real price=77.0210691106,predict ratio=0.000782114,real ratio=-0.0299655
+910,predict price=83.280441562,real price=76.0261852452,predict ratio=-0.0213452,real ratio=-0.012917
+911,predict price=82.8667374764,real price=72.0316991938,predict ratio=-0.0049676,real ratio=-0.0525409
+912,predict price=80.9713004075,real price=73.9879800575,predict ratio=-0.0228733,real ratio=0.0271586
+913,predict price=80.4248015406,real price=74.5142342963,predict ratio=-0.00674929,real ratio=0.0071127
+914,predict price=80.3133450621,real price=72.8165766335,predict ratio=-0.00138585,real ratio=-0.022783
+915,predict price=77.9833820925,real price=72.3340381725,predict ratio=-0.0290109,real ratio=-0.00662677
+916,predict price=75.8469240104,real price=67.3488688574,predict ratio=-0.0273963,real ratio=-0.0689187
+917,predict price=77.3474648449,real price=69.1652592578,predict ratio=0.0197838,real ratio=0.0269699
+918,predict price=77.2339173977,real price=72.7774028924,predict ratio=-0.00146802,real ratio=0.0522248
+919,predict price=74.9446614794,real price=71.8094486079,predict ratio=-0.0296406,real ratio=-0.0133002
+920,predict price=72.9080800931,real price=74.4240873566,predict ratio=-0.0271745,real ratio=0.0364108
+921,predict price=71.3510360132,real price=73.4181891702,predict ratio=-0.0213563,real ratio=-0.0135158
+922,predict price=72.8325426614,real price=68.7534558572,predict ratio=0.0207636,real ratio=-0.0635365
+923,predict price=67.631719451,real price=69.9810834996,predict ratio=-0.071408,real ratio=0.0178555
+924,predict price=66.9184315791,real price=69.2828563667,predict ratio=-0.0105466,real ratio=-0.00997737
+925,predict price=70.7123430955,real price=69.2240108391,predict ratio=0.0566946,real ratio=-0.000849352
+926,predict price=67.9162821984,real price=72.8221689333,predict ratio=-0.0395413,real ratio=0.0519785
+927,predict price=67.0100878422,real price=73.4063892744,predict ratio=-0.0133428,real ratio=0.00802256
+928,predict price=66.5745258819,real price=75.7178179626,predict ratio=-0.00649995,real ratio=0.0314881
+929,predict price=68.9915459802,real price=76.2451138454,predict ratio=0.0363055,real ratio=0.00696396
+930,predict price=70.7764379135,real price=72.0074844501,predict ratio=0.0258712,real ratio=-0.055579
+931,predict price=71.2333525875,real price=75.7564621142,predict ratio=0.00645575,real ratio=0.0520637
+932,predict price=71.9336772735,real price=74.9115182301,predict ratio=0.00983142,real ratio=-0.0111534
+933,predict price=71.3672656784,real price=75.3005885954,predict ratio=-0.00787408,real ratio=0.00519373
+934,predict price=67.9570418412,real price=75.7789347824,predict ratio=-0.0477841,real ratio=0.00635249
+935,predict price=68.2624364989,real price=75.0907529294,predict ratio=0.00449394,real ratio=-0.00908144
+936,predict price=68.4965939829,real price=76.2733584571,predict ratio=0.00343025,real ratio=0.015749
+937,predict price=67.9186802944,real price=74.4663174179,predict ratio=-0.00843712,real ratio=-0.0236916
+938,predict price=68.1827391279,real price=76.4109691139,predict ratio=0.00388787,real ratio=0.0261145
+939,predict price=70.0304653594,real price=76.4778576596,predict ratio=0.0270996,real ratio=0.000875379
+940,predict price=73.5860631111,real price=77.4604977425,predict ratio=0.0507722,real ratio=0.0128487
+941,predict price=73.9143394288,real price=79.0653959625,predict ratio=0.00446112,real ratio=0.0207189
+942,predict price=76.6941774695,real price=79.3951853763,predict ratio=0.0376089,real ratio=0.0041711
+943,predict price=77.1601218413,real price=80.7801043854,predict ratio=0.00607536,real ratio=0.0174434
+944,predict price=80.6127795554,real price=77.6079104191,predict ratio=0.0447467,real ratio=-0.0392695
+945,predict price=79.280807103,real price=77.2615056051,predict ratio=-0.0165231,real ratio=-0.00446352
+946,predict price=81.9185242642,real price=73.5641161743,predict ratio=0.0332706,real ratio=-0.0478555
+947,predict price=76.4987793698,real price=73.7786735219,predict ratio=-0.0661602,real ratio=0.0029166
+948,predict price=78.3759949843,real price=70.1490391254,predict ratio=0.0245392,real ratio=-0.0491963
+949,predict price=84.4568920732,real price=71.957476113,predict ratio=0.0775862,real ratio=0.0257799
+950,predict price=84.849429302,real price=70.5204482035,predict ratio=0.00464778,real ratio=-0.0199705
+951,predict price=90.5745236739,real price=69.085260282,predict ratio=0.0674736,real ratio=-0.0203514
+952,predict price=92.5849279884,real price=70.3976086676,predict ratio=0.0221961,real ratio=0.0189961
+953,predict price=92.5973593395,real price=67.7179173033,predict ratio=0.00013427,real ratio=-0.0380651
+954,predict price=91.5159619315,real price=67.1661379885,predict ratio=-0.0116785,real ratio=-0.0081482
+955,predict price=90.5291006605,real price=70.4791788386,predict ratio=-0.0107835,real ratio=0.0493261
+956,predict price=90.0681250777,real price=70.87454615,predict ratio=-0.00509202,real ratio=0.0056097
+957,predict price=90.844064759,real price=72.1418680646,predict ratio=0.00861503,real ratio=0.0178812
+958,predict price=92.1237097097,real price=69.8932123966,predict ratio=0.0140862,real ratio=-0.0311699
+959,predict price=90.4262607862,real price=68.8434233893,predict ratio=-0.0184258,real ratio=-0.0150199
+960,predict price=91.8640089412,real price=68.4196408213,predict ratio=0.0158997,real ratio=-0.00615575
+961,predict price=88.811028169,real price=70.2856938588,predict ratio=-0.0332337,real ratio=0.0272736
+962,predict price=90.0652113849,real price=69.5050172668,predict ratio=0.0141219,real ratio=-0.0111072
+963,predict price=86.7471402829,real price=70.6151375233,predict ratio=-0.0368408,real ratio=0.0159718
+964,predict price=86.595760826,real price=69.6744586,predict ratio=-0.00174507,real ratio=-0.0133212
+965,predict price=86.5213418586,real price=69.4725805344,predict ratio=-0.000859383,real ratio=-0.00289745
+966,predict price=88.2638305693,real price=67.3691517862,predict ratio=0.0201394,real ratio=-0.0302771
+967,predict price=89.7503673897,real price=68.0164953033,predict ratio=0.016842,real ratio=0.0096089
+968,predict price=89.1928449792,real price=66.8458731916,predict ratio=-0.00621192,real ratio=-0.0172109
+969,predict price=87.5331039715,real price=65.8747725297,predict ratio=-0.0186085,real ratio=-0.0145275
+970,predict price=90.7419991446,real price=66.0777007978,predict ratio=0.0366592,real ratio=0.00308052
+971,predict price=93.1352393742,real price=64.8425551325,predict ratio=0.0263741,real ratio=-0.0186923
+972,predict price=94.3599543286,real price=64.4909078514,predict ratio=0.0131499,real ratio=-0.00542309
+973,predict price=93.0004247365,real price=63.5501436013,predict ratio=-0.0144079,real ratio=-0.0145875
+974,predict price=93.6001914893,real price=65.2346010569,predict ratio=0.00644908,real ratio=0.026506
+975,predict price=93.0817970359,real price=65.2058357373,predict ratio=-0.00553839,real ratio=-0.000440952
+976,predict price=95.8851832569,real price=66.1718646802,predict ratio=0.0301174,real ratio=0.0148151
+977,predict price=90.7650103258,real price=63.6514753607,predict ratio=-0.053399,real ratio=-0.0380885
+978,predict price=91.4873475736,real price=63.2105607974,predict ratio=0.00795832,real ratio=-0.00692701
+979,predict price=94.7114961648,real price=63.7459893777,predict ratio=0.0352415,real ratio=0.00847056
+980,predict price=97.2589625817,real price=64.992153614,predict ratio=0.0268971,real ratio=0.0195489
+981,predict price=95.3953048942,real price=62.7155223014,predict ratio=-0.0191618,real ratio=-0.0350293
+982,predict price=99.8915709655,real price=61.9542530956,predict ratio=0.047133,real ratio=-0.0121384
+983,predict price=98.9094407251,real price=61.6827798679,predict ratio=-0.00983196,real ratio=-0.00438183
+984,predict price=100.671513278,real price=64.4905577281,predict ratio=0.017815,real ratio=0.0455196
+985,predict price=100.052137472,real price=62.9354117785,predict ratio=-0.00615244,real ratio=-0.0241143
+986,predict price=96.7116384526,real price=66.1793825093,predict ratio=-0.0333876,real ratio=0.0515444
+987,predict price=98.9972584229,real price=67.3585727981,predict ratio=0.0236333,real ratio=0.0178181
+988,predict price=96.2212142027,real price=69.5004706495,predict ratio=-0.0280416,real ratio=0.0317984
+989,predict price=97.1999097364,real price=69.7019132699,predict ratio=0.0101713,real ratio=0.00289844
+990,predict price=98.742130778,real price=69.4727555389,predict ratio=0.0158665,real ratio=-0.00328768
+991,predict price=97.1700580109,real price=71.8296503851,predict ratio=-0.015921,real ratio=0.0339255
+992,predict price=99.3969048294,real price=74.2145164924,predict ratio=0.022917,real ratio=0.0332017
+993,predict price=100.680390755,real price=74.1418646361,predict ratio=0.0129127,real ratio=-0.000978944
+994,predict price=100.667162634,real price=75.5087680635,predict ratio=-0.000131387,real ratio=0.0184363
+995,predict price=94.69999681,real price=75.4269290597,predict ratio=-0.0592762,real ratio=-0.00108383
+996,predict price=104.810443189,real price=72.0093204364,predict ratio=0.106763,real ratio=-0.0453102
+997,predict price=102.48454748,real price=70.9028716849,predict ratio=-0.0221914,real ratio=-0.0153654
+998,predict price=99.7642242786,real price=73.0220407741,predict ratio=-0.0265437,real ratio=0.0298883
+999,predict price=97.9134907747,real price=76.2383861499,predict ratio=-0.0185511,real ratio=0.0440462
+1000,predict price=95.01231826,real price=76.5012016245,predict ratio=-0.02963,real ratio=0.00344729
+1001,predict price=96.8099796985,real price=77.446247846,predict ratio=0.0189203,real ratio=0.0123534
+1002,predict price=88.6768126937,real price=77.2269688552,predict ratio=-0.0840117,real ratio=-0.00283137
+1003,predict price=82.7360197566,real price=75.1474984102,predict ratio=-0.0669938,real ratio=-0.0269267
+1004,predict price=73.2020232158,real price=77.954486393,predict ratio=-0.115234,real ratio=0.037353
+1005,predict price=75.112531828,real price=78.0276676228,predict ratio=0.0260991,real ratio=0.000938769
+1006,predict price=74.8618631539,real price=77.3129147199,predict ratio=-0.00333724,real ratio=-0.00916025
+1007,predict price=74.8068245022,real price=76.4410497478,predict ratio=-0.000735203,real ratio=-0.0112771
+1008,predict price=74.4262408483,real price=76.548588841,predict ratio=-0.00508755,real ratio=0.00140682
+1009,predict price=79.2055133628,real price=77.8803488053,predict ratio=0.0642149,real ratio=0.0173976
+1010,predict price=79.3255255853,real price=78.0304680832,predict ratio=0.0015152,real ratio=0.00192756
+1011,predict price=85.7006209115,real price=76.1645047331,predict ratio=0.0803663,real ratio=-0.0239133
+1012,predict price=81.9499634814,real price=76.304130522,predict ratio=-0.0437646,real ratio=0.00183321
+1013,predict price=82.052790919,real price=77.3507732029,predict ratio=0.00125476,real ratio=0.0137167
+1014,predict price=82.3407661217,real price=76.1353039736,predict ratio=0.00350963,real ratio=-0.0157137
+1015,predict price=85.7299150096,real price=76.2957374368,predict ratio=0.04116,real ratio=0.00210722
+1016,predict price=85.4907464065,real price=74.2623393325,predict ratio=-0.00278979,real ratio=-0.0266515
+1017,predict price=86.2811654312,real price=77.1868391511,predict ratio=0.00924567,real ratio=0.0393807
+1018,predict price=85.6893144768,real price=78.4905339646,predict ratio=-0.00685956,real ratio=0.0168901
+1019,predict price=84.0520529772,real price=82.0606268617,predict ratio=-0.019107,real ratio=0.0454844
+1020,predict price=84.7549788188,real price=82.4726907022,predict ratio=0.00836298,real ratio=0.00502146
+1021,predict price=87.7377074279,real price=82.6401255184,predict ratio=0.0351924,real ratio=0.00203018
+1022,predict price=91.5083250521,real price=81.2991868953,predict ratio=0.042976,real ratio=-0.0162262
+1023,predict price=91.2552131857,real price=81.6653491824,predict ratio=-0.002766,real ratio=0.00450389
+1024,predict price=87.0770012429,real price=79.5078903726,predict ratio=-0.045786,real ratio=-0.0264183
+1025,predict price=85.5217295245,real price=81.0054970714,predict ratio=-0.0178609,real ratio=0.018836
+1026,predict price=84.9755959865,real price=79.0266668207,predict ratio=-0.0063859,real ratio=-0.0244283
+1027,predict price=79.2935776459,real price=81.2264410913,predict ratio=-0.0668665,real ratio=0.0278358
+1028,predict price=81.4032827355,real price=81.7016281272,predict ratio=0.0266063,real ratio=0.00585015
+1029,predict price=80.2795798527,real price=80.9978980929,predict ratio=-0.0138041,real ratio=-0.00861342
+1030,predict price=78.9790642328,real price=80.6626783748,predict ratio=-0.0161998,real ratio=-0.00413862
+1031,predict price=81.2656465872,real price=81.4058465113,predict ratio=0.0289518,real ratio=0.00921328
+1032,predict price=81.2862609343,real price=82.5246201844,predict ratio=0.000253666,real ratio=0.0137432
+1033,predict price=79.807192954,real price=82.6349598139,predict ratio=-0.0181958,real ratio=0.00133705
+1034,predict price=77.4872352278,real price=83.256688591,predict ratio=-0.0290695,real ratio=0.0075238
+1035,predict price=77.3477763384,real price=84.6140632514,predict ratio=-0.00179977,real ratio=0.0163035
+1036,predict price=72.8301681828,real price=84.846277668,predict ratio=-0.0584064,real ratio=0.0027444
+1037,predict price=73.8166162509,real price=85.1729249899,predict ratio=0.0135445,real ratio=0.00384987
+1038,predict price=71.2510890295,real price=84.5372105767,predict ratio=-0.0347554,real ratio=-0.00746381
+1039,predict price=72.9004180147,real price=85.4032183243,predict ratio=0.0231481,real ratio=0.0102441
+1040,predict price=72.9896853327,real price=86.2567260947,predict ratio=0.00122451,real ratio=0.00999386
+1041,predict price=71.190677203,real price=85.5676818763,predict ratio=-0.0246474,real ratio=-0.0079883
+1042,predict price=74.692734359,real price=87.3571426488,predict ratio=0.0491926,real ratio=0.0209128
+1043,predict price=76.3206876129,real price=87.268310833,predict ratio=0.0217953,real ratio=-0.00101688
+1044,predict price=76.2234748939,real price=88.6190428436,predict ratio=-0.00127374,real ratio=0.0154779
+1045,predict price=78.3410583024,real price=87.7783851015,predict ratio=0.0277812,real ratio=-0.0094862
+1046,predict price=77.9499747186,real price=85.2709354614,predict ratio=-0.00499206,real ratio=-0.0285657
+1047,predict price=78.0160162549,real price=86.0400683994,predict ratio=0.00084723,real ratio=0.00901987
+1048,predict price=78.0013439735,real price=84.8411206654,predict ratio=-0.000188068,real ratio=-0.0139348
+1049,predict price=73.819988253,real price=85.5627809796,predict ratio=-0.0536062,real ratio=0.00850602
+1050,predict price=72.0763503599,real price=85.9125925405,predict ratio=-0.0236201,real ratio=0.00408836
+1051,predict price=70.8189114438,real price=83.4937186212,predict ratio=-0.0174459,real ratio=-0.0281551
+1052,predict price=66.5195732981,real price=83.8496520796,predict ratio=-0.0607089,real ratio=0.004263
+1053,predict price=64.7712725812,real price=85.6486414582,predict ratio=-0.0262825,real ratio=0.0214549
+1054,predict price=60.5239231717,real price=86.3595435973,predict ratio=-0.0655746,real ratio=0.00830022
+1055,predict price=62.0004155624,real price=85.5383872122,predict ratio=0.0243952,real ratio=-0.00950858
+1056,predict price=62.7323894674,real price=87.0681830712,predict ratio=0.011806,real ratio=0.0178843
+1057,predict price=61.7928208396,real price=86.9063407976,predict ratio=-0.0149774,real ratio=-0.0018588
+1058,predict price=60.2553731344,real price=86.3487085616,predict ratio=-0.0248807,real ratio=-0.00641647
+1059,predict price=59.5863306484,real price=84.6413430331,predict ratio=-0.0111034,real ratio=-0.0197729
+1060,predict price=58.2380103812,real price=84.3521187997,predict ratio=-0.022628,real ratio=-0.00341706
+1061,predict price=60.4416799271,real price=82.3670726703,predict ratio=0.037839,real ratio=-0.0235329
+1062,predict price=60.5885386507,real price=81.2331691888,predict ratio=0.00242976,real ratio=-0.0137665
+1063,predict price=59.2901673065,real price=81.2001262132,predict ratio=-0.0214293,real ratio=-0.000406767
+1064,predict price=59.5465655081,real price=79.128434055,predict ratio=0.00432446,real ratio=-0.0255134
+1065,predict price=58.5790893557,real price=80.9774319171,predict ratio=-0.0162474,real ratio=0.023367
+1066,predict price=57.5728191255,real price=81.0424847415,predict ratio=-0.017178,real ratio=0.000803345
+1067,predict price=58.7344858012,real price=81.697435805,predict ratio=0.0201773,real ratio=0.00808158
+1068,predict price=58.5474323113,real price=82.1447369518,predict ratio=-0.00318473,real ratio=0.00547509
+1069,predict price=59.8598655389,real price=84.389097894,predict ratio=0.0224166,real ratio=0.027322
+1070,predict price=58.7960689949,real price=85.0110913857,predict ratio=-0.0177714,real ratio=0.00737054
+1071,predict price=59.3137969245,real price=85.6211910832,predict ratio=0.00880549,real ratio=0.00717671
+1072,predict price=61.8427315451,real price=86.9467353099,predict ratio=0.0426365,real ratio=0.0154815
+1073,predict price=62.4819167372,real price=88.2067143984,predict ratio=0.0103357,real ratio=0.0144914
+1074,predict price=62.7310646881,real price=88.1944705663,predict ratio=0.00398752,real ratio=-0.000138808
+1075,predict price=62.3103097009,real price=88.4216218264,predict ratio=-0.00670728,real ratio=0.00257557
+1076,predict price=60.8395579266,real price=88.8760011697,predict ratio=-0.0236037,real ratio=0.00513878
+1077,predict price=61.4805271404,real price=90.5513654928,predict ratio=0.0105354,real ratio=0.0188506
+1078,predict price=60.5020705705,real price=90.5132422659,predict ratio=-0.0159149,real ratio=-0.000421012
+1079,predict price=61.5201566234,real price=90.710313307,predict ratio=0.0168273,real ratio=0.00217726
+1080,predict price=61.4170736667,real price=89.6394561976,predict ratio=-0.0016756,real ratio=-0.0118052
+1081,predict price=60.3732519646,real price=90.8246744807,predict ratio=-0.0169956,real ratio=0.0132221
+1082,predict price=60.5206188673,real price=91.0345101954,predict ratio=0.00244093,real ratio=0.00231034
+1083,predict price=60.1205905097,real price=92.0152291561,predict ratio=-0.00660979,real ratio=0.010773
+1084,predict price=61.264894481,real price=92.5503119214,predict ratio=0.0190335,real ratio=0.00581515
+1085,predict price=60.9583612425,real price=91.2348172412,predict ratio=-0.00500341,real ratio=-0.0142138
+1086,predict price=59.5286693137,real price=91.9534208464,predict ratio=-0.0234536,real ratio=0.00787642
+1087,predict price=59.6455178157,real price=92.6540941638,predict ratio=0.00196289,real ratio=0.00761987
+1088,predict price=60.7550538809,real price=89.780046776,predict ratio=0.0186022,real ratio=-0.0310191
+1089,predict price=61.3938079867,real price=89.9229939409,predict ratio=0.0105136,real ratio=0.00159219
+1090,predict price=61.2923745232,real price=89.2151484926,predict ratio=-0.00165218,real ratio=-0.00787168
+1091,predict price=61.0812171888,real price=90.783759249,predict ratio=-0.00344508,real ratio=0.0175823
+1092,predict price=60.3450329365,real price=89.5141661658,predict ratio=-0.0120525,real ratio=-0.0139848
+1093,predict price=61.2232262897,real price=92.5117533536,predict ratio=0.0145529,real ratio=0.0334873
+1094,predict price=59.5381844628,real price=91.7800435266,predict ratio=-0.0275229,real ratio=-0.00790937
+1095,predict price=57.7690473625,real price=93.0246281741,predict ratio=-0.0297143,real ratio=0.0135605
+1096,predict price=57.7337919155,real price=91.5755356654,predict ratio=-0.000610283,real ratio=-0.0155775
+1097,predict price=55.9814425202,real price=92.1016105699,predict ratio=-0.0303522,real ratio=0.00574471
+1098,predict price=55.0292528445,real price=91.7378133859,predict ratio=-0.017009,real ratio=-0.00394995
+1099,predict price=56.9777190708,real price=92.0659378215,predict ratio=0.0354078,real ratio=0.00357676
+1100,predict price=57.5042156173,real price=89.8836498912,predict ratio=0.00924039,real ratio=-0.0237035
+1101,predict price=58.9677730199,real price=89.3081727132,predict ratio=0.0254513,real ratio=-0.00640247
+1102,predict price=58.8036103225,real price=89.0674798239,predict ratio=-0.00278394,real ratio=-0.00269508
+1103,predict price=59.559288499,real price=90.8696197758,predict ratio=0.0128509,real ratio=0.0202334
+1104,predict price=60.5373391716,real price=90.1606302238,predict ratio=0.0164215,real ratio=-0.00780227
+1105,predict price=59.6739050053,real price=91.9226405567,predict ratio=-0.0142628,real ratio=0.019543
+1106,predict price=60.1457658791,real price=91.3163915939,predict ratio=0.00790732,real ratio=-0.00659521
+1107,predict price=59.2297839539,real price=89.1981831815,predict ratio=-0.0152294,real ratio=-0.0231964
+1108,predict price=59.9847780097,real price=89.3342314463,predict ratio=0.0127469,real ratio=0.00152524
+1109,predict price=58.1576356358,real price=89.7989249915,predict ratio=-0.0304601,real ratio=0.00520174
+1110,predict price=58.5382402462,real price=91.3117553953,predict ratio=0.00654436,real ratio=0.0168469
+1111,predict price=59.5927832582,real price=90.671233952,predict ratio=0.0180146,real ratio=-0.00701467
+1112,predict price=56.9005604432,real price=92.1897422348,predict ratio=-0.045177,real ratio=0.0167474
+1113,predict price=56.8405095588,real price=89.7570533332,predict ratio=-0.00105537,real ratio=-0.0263878
+1114,predict price=58.894471397,real price=87.5147757503,predict ratio=0.0361355,real ratio=-0.0249816
+1115,predict price=59.7741553193,real price=88.3076108035,predict ratio=0.0149366,real ratio=0.00905944
+1116,predict price=59.302283995,real price=88.5963995942,predict ratio=-0.00789424,real ratio=0.00327026
+1117,predict price=59.4436570773,real price=87.2447882087,predict ratio=0.00238394,real ratio=-0.0152558
+1118,predict price=59.425957431,real price=85.0872440408,predict ratio=-0.000297755,real ratio=-0.0247298
+1119,predict price=57.9015103744,real price=84.5855628583,predict ratio=-0.0256529,real ratio=-0.00589608
+1120,predict price=58.0581714576,real price=84.7369031015,predict ratio=0.00270565,real ratio=0.0017892
+1121,predict price=57.186026455,real price=85.6794134204,predict ratio=-0.0150219,real ratio=0.0111228
+1122,predict price=57.1902412903,real price=85.9668019361,predict ratio=7.37039e-05,real ratio=0.00335423
+1123,predict price=56.2943737197,real price=87.5748422854,predict ratio=-0.0156647,real ratio=0.0187054
+1124,predict price=56.1327688663,real price=88.1009171977,predict ratio=-0.00287071,real ratio=0.00600715
+1125,predict price=55.8658534921,real price=87.9579700326,predict ratio=-0.00475507,real ratio=-0.00162254
+1126,predict price=56.7857873124,real price=89.5181022771,predict ratio=0.0164668,real ratio=0.0177372
+1127,predict price=56.5685801146,real price=89.6834281517,predict ratio=-0.00382503,real ratio=0.00184684
+1128,predict price=56.8939994147,real price=89.4993864582,predict ratio=0.00575265,real ratio=-0.00205213
+1129,predict price=57.0319620157,real price=90.3765878143,predict ratio=0.00242491,real ratio=0.0098012
+1130,predict price=56.9264615105,real price=90.3464222232,predict ratio=-0.00184985,real ratio=-0.000333777
+1131,predict price=57.4068422219,real price=89.7674529091,predict ratio=0.00843862,real ratio=-0.00640833
+1132,predict price=57.548039589,real price=89.9057723459,predict ratio=0.00245959,real ratio=0.00154086
+1133,predict price=55.5820212997,real price=90.6019887321,predict ratio=-0.0341631,real ratio=0.00774385
+1134,predict price=56.4018591212,real price=89.2891152901,predict ratio=0.0147501,real ratio=-0.0144906
+1135,predict price=55.9172942561,real price=88.087717042,predict ratio=-0.00859129,real ratio=-0.0134551
+1136,predict price=55.3826598183,real price=86.4794120147,predict ratio=-0.00956116,real ratio=-0.018258
+1137,predict price=54.9635020888,real price=87.7352841762,predict ratio=-0.00756839,real ratio=0.0145222
+1138,predict price=55.1247101546,real price=85.7087081237,predict ratio=0.002933,real ratio=-0.0230988
+1139,predict price=54.7930024183,real price=86.0703195287,predict ratio=-0.00601741,real ratio=0.00421907
+1140,predict price=53.2796264876,real price=84.9610830559,predict ratio=-0.0276199,real ratio=-0.0128876
+1141,predict price=53.6537676813,real price=85.5897961389,predict ratio=0.00702222,real ratio=0.00740001
+1142,predict price=52.9114719096,real price=85.7615171612,predict ratio=-0.0138349,real ratio=0.00200633
+1143,predict price=52.722754877,real price=86.3013215526,predict ratio=-0.00356666,real ratio=0.00629425
+1144,predict price=52.7258021404,real price=86.3096207186,predict ratio=5.77979e-05,real ratio=9.6165e-05
+1145,predict price=52.5631528385,real price=85.7221729519,predict ratio=-0.00308481,real ratio=-0.00680628
+1146,predict price=52.9741926275,real price=85.4233261168,predict ratio=0.00781992,real ratio=-0.00348623
+1147,predict price=54.4659065334,real price=85.6057967826,predict ratio=0.0281593,real ratio=0.00213608
+1148,predict price=53.4696961874,real price=85.0702785575,predict ratio=-0.0182905,real ratio=-0.00625563
+1149,predict price=53.7161184932,real price=84.6057557661,predict ratio=0.00460863,real ratio=-0.00546046
+1150,predict price=56.169624727,real price=83.4924891929,predict ratio=0.0456754,real ratio=-0.0131583
+1151,predict price=54.8392862477,real price=83.0396808798,predict ratio=-0.0236843,real ratio=-0.00542334
+1152,predict price=54.001377249,real price=82.1994671198,predict ratio=-0.0152794,real ratio=-0.0101182
+1153,predict price=55.6169781876,real price=82.5497141182,predict ratio=0.0299178,real ratio=0.00426094
+1154,predict price=55.193328927,real price=79.4011281891,predict ratio=-0.00761726,real ratio=-0.0381417
+1155,predict price=55.2700480585,real price=81.7095857292,predict ratio=0.00139001,real ratio=0.0290734
+1156,predict price=55.7333207793,real price=83.6912251158,predict ratio=0.00838199,real ratio=0.0242522
+1157,predict price=55.28162731,real price=84.0124506569,predict ratio=-0.00810455,real ratio=0.00383822
+1158,predict price=55.3035816069,real price=87.2363096396,predict ratio=0.000397136,real ratio=0.0383736
+1159,predict price=56.8146911288,real price=87.6290514711,predict ratio=0.0273239,real ratio=0.00450205
+1160,predict price=58.1164648538,real price=88.8968942373,predict ratio=0.0229126,real ratio=0.0144683
+1161,predict price=58.2540913195,real price=88.6596934742,predict ratio=0.00236811,real ratio=-0.00266827
+1162,predict price=57.3690151833,real price=87.4728102695,predict ratio=-0.0151934,real ratio=-0.013387
+1163,predict price=58.132036963,real price=86.2321617553,predict ratio=0.0133002,real ratio=-0.0141832
+1164,predict price=57.2750190651,real price=88.3746700357,predict ratio=-0.0147426,real ratio=0.0248458
+1165,predict price=58.9028573255,real price=88.355518771,predict ratio=0.0284214,real ratio=-0.000216705
+1166,predict price=59.5749395194,real price=88.1614275787,predict ratio=0.01141,real ratio=-0.00219671
+1167,predict price=59.2987275233,real price=88.9826693326,predict ratio=-0.00463638,real ratio=0.0093152
+1168,predict price=60.9994921515,real price=88.8636719236,predict ratio=0.0286813,real ratio=-0.00133731
+1169,predict price=61.1258425901,real price=88.6735083212,predict ratio=0.00207134,real ratio=-0.00213995
+1170,predict price=61.0108576146,real price=89.0356491033,predict ratio=-0.00188112,real ratio=0.00408398
+1171,predict price=61.4560871913,real price=90.7367219844,predict ratio=0.00729755,real ratio=0.0191055
+1172,predict price=61.6275474029,real price=92.9767198002,predict ratio=0.00278996,real ratio=0.0246868
+1173,predict price=60.4949774146,real price=93.0101982254,predict ratio=-0.0183777,real ratio=0.000360073
+1174,predict price=60.4008263995,real price=92.2091578946,predict ratio=-0.00155634,real ratio=-0.00861239
+1175,predict price=61.6025040141,real price=93.1564752367,predict ratio=0.0198951,real ratio=0.0102736
+1176,predict price=59.1901663553,real price=93.3928904723,predict ratio=-0.0391597,real ratio=0.00253783
+1177,predict price=58.4968755742,real price=93.826726823,predict ratio=-0.0117129,real ratio=0.00464528
+1178,predict price=58.3270729013,real price=93.391404808,predict ratio=-0.00290276,real ratio=-0.00463964
+1179,predict price=59.0655846057,real price=94.411382573,predict ratio=0.0126616,real ratio=0.0109215
+1180,predict price=59.1645184942,real price=95.1179985268,predict ratio=0.00167498,real ratio=0.00748444
+1181,predict price=59.7573676283,real price=93.8580279758,predict ratio=0.0100203,real ratio=-0.0132464
+1182,predict price=59.377596606,real price=95.3675284794,predict ratio=-0.00635522,real ratio=0.0160828
+1183,predict price=60.1463237651,real price=96.0181933737,predict ratio=0.0129464,real ratio=0.00682271
+1184,predict price=61.2115269389,real price=94.1191870196,predict ratio=0.0177102,real ratio=-0.0197776
+1185,predict price=59.0618620771,real price=93.8797919379,predict ratio=-0.0351186,real ratio=-0.00254353
+1186,predict price=59.1380600776,real price=95.0241888893,predict ratio=0.00129014,real ratio=0.01219
+1187,predict price=58.9009416109,real price=92.5948129962,predict ratio=-0.00400957,real ratio=-0.0255659
+1188,predict price=58.7191056827,real price=91.9140764457,predict ratio=-0.00308715,real ratio=-0.00735178
+1189,predict price=60.0890852664,real price=90.2755205665,predict ratio=0.0233311,real ratio=-0.017827
+1190,predict price=61.4815440055,real price=89.6355199699,predict ratio=0.0231732,real ratio=-0.00708941
+1191,predict price=64.3800985956,real price=91.0537467624,predict ratio=0.0471451,real ratio=0.0158222
+1192,predict price=64.6496863679,real price=89.1630395377,predict ratio=0.00418744,real ratio=-0.0207647
+1193,predict price=65.3731696433,real price=89.2240623147,predict ratio=0.0111908,real ratio=0.000684395
+1194,predict price=65.8492203546,real price=90.6760406553,predict ratio=0.00728205,real ratio=0.0162734
+1195,predict price=65.6155569022,real price=90.9666651521,predict ratio=-0.00354846,real ratio=0.00320509
+1196,predict price=66.9600334754,real price=90.5439370658,predict ratio=0.0204902,real ratio=-0.00464707
+1197,predict price=66.8296087424,real price=87.9306902108,predict ratio=-0.0019478,real ratio=-0.0288616
+1198,predict price=66.5062872786,real price=87.0103024522,predict ratio=-0.004838,real ratio=-0.0104672
+1199,predict price=67.3612994854,real price=86.8448826551,predict ratio=0.0128561,real ratio=-0.00190115
+1200,predict price=65.7532686634,real price=87.1167059522,predict ratio=-0.0238717,real ratio=0.00312999
+1201,predict price=64.6148911534,real price=88.2375800535,predict ratio=-0.0173129,real ratio=0.0128664
+1202,predict price=60.6792194661,real price=87.7309979419,predict ratio=-0.0609097,real ratio=-0.00574112
+1203,predict price=63.7490623936,real price=90.11420767,predict ratio=0.0505913,real ratio=0.027165
+1204,predict price=62.1872359353,real price=90.3665381849,predict ratio=-0.0244996,real ratio=0.00280012
+1205,predict price=63.6134292593,real price=88.5120246183,predict ratio=0.0229339,real ratio=-0.0205221
+1206,predict price=63.7441615245,real price=90.9329136545,predict ratio=0.0020551,real ratio=0.027351
+1207,predict price=62.5506292558,real price=90.5100062451,predict ratio=-0.0187238,real ratio=-0.00465076
+1208,predict price=62.1436368976,real price=89.1699470776,predict ratio=-0.00650661,real ratio=-0.0148056
+1209,predict price=62.619565691,real price=88.3229967065,predict ratio=0.00765853,real ratio=-0.00949816
+1210,predict price=61.3055400706,real price=88.5334471686,predict ratio=-0.0209843,real ratio=0.00238274
+1211,predict price=60.6145548286,real price=88.9358884064,predict ratio=-0.0112712,real ratio=0.00454564
+1212,predict price=59.7941938219,real price=89.3711250323,predict ratio=-0.0135341,real ratio=0.00489382
+1213,predict price=58.9446314472,real price=89.6447840603,predict ratio=-0.0142081,real ratio=0.00306205
+1214,predict price=57.5566338142,real price=88.705595118,predict ratio=-0.0235475,real ratio=-0.0104768
+1215,predict price=56.6836708613,real price=90.6574189132,predict ratio=-0.015167,real ratio=0.0220034
+1216,predict price=56.9160669182,real price=92.554333402,predict ratio=0.00409988,real ratio=0.020924
+1217,predict price=55.7889814393,real price=92.3946000638,predict ratio=-0.0198026,real ratio=-0.00172583
+1218,predict price=54.4109218471,real price=92.361984,predict ratio=-0.0247013,real ratio=-0.000353008
+1219,predict price=53.0465554266,real price=93.2453072799,predict ratio=-0.0250752,real ratio=0.00956371
+1220,predict price=52.815442015,real price=93.999925175,predict ratio=-0.0043568,real ratio=0.00809282
+1221,predict price=52.5874506123,real price=94.0062263935,predict ratio=-0.00431676,real ratio=6.70343e-05
+1222,predict price=53.5666633844,real price=93.7415666683,predict ratio=0.0186207,real ratio=-0.00281534
+1223,predict price=53.8494481816,real price=94.8368260679,predict ratio=0.00527912,real ratio=0.0116838
+1224,predict price=54.0510373763,real price=93.9367165607,predict ratio=0.00374357,real ratio=-0.00949114
+1225,predict price=50.7082021967,real price=94.6421969096,predict ratio=-0.0618459,real ratio=0.00751017
+1226,predict price=52.5947749532,real price=94.2000613812,predict ratio=0.0372045,real ratio=-0.00467165
+1227,predict price=52.2729637004,real price=94.5574805198,predict ratio=-0.00611869,real ratio=0.00379426
+1228,predict price=53.8397244121,real price=94.6783051061,predict ratio=0.0299727,real ratio=0.00127779
+1229,predict price=51.4562952971,real price=96.1429627892,predict ratio=-0.044269,real ratio=0.0154698
+1230,predict price=51.9830102114,real price=96.0564021472,predict ratio=0.0102362,real ratio=-0.000900333
+1231,predict price=52.424021694,real price=97.0240063411,predict ratio=0.00848376,real ratio=0.0100733
+1232,predict price=52.3724332321,real price=96.9610624583,predict ratio=-0.000984062,real ratio=-0.000648745
+1233,predict price=52.7835964721,real price=98.3115298038,predict ratio=0.00785076,real ratio=0.0139279
+1234,predict price=53.2471066861,real price=98.6430695477,predict ratio=0.00878133,real ratio=0.00337234
+1235,predict price=52.8544720531,real price=98.7349580524,predict ratio=-0.00737382,real ratio=0.000931525
+1236,predict price=52.8571167905,real price=97.6452997237,predict ratio=5.00381e-05,real ratio=-0.0110362
+1237,predict price=53.0970971643,real price=97.9612742488,predict ratio=0.00454017,real ratio=0.00323594
+1238,predict price=53.4933055527,real price=98.3771034777,predict ratio=0.00746196,real ratio=0.00424483
+1239,predict price=53.1343342675,real price=97.5843623271,predict ratio=-0.00671058,real ratio=-0.00805819
+1240,predict price=53.7229952225,real price=97.9661751963,predict ratio=0.0110787,real ratio=0.00391264
+1241,predict price=52.216361913,real price=98.5684880535,predict ratio=-0.0280445,real ratio=0.00614817
+1242,predict price=51.5286988728,real price=97.0680721984,predict ratio=-0.0131695,real ratio=-0.0152221
+1243,predict price=51.6651728131,real price=95.3770572965,predict ratio=0.0026485,real ratio=-0.0174209
+1244,predict price=51.8138484854,real price=95.3063265423,predict ratio=0.00287768,real ratio=-0.000741591
+1245,predict price=52.657859774,real price=96.9620186725,predict ratio=0.0162893,real ratio=0.0173723
+1246,predict price=52.320595715,real price=95.7295839685,predict ratio=-0.00640482,real ratio=-0.0127105
+1247,predict price=51.4154335023,real price=95.4268095614,predict ratio=-0.0173003,real ratio=-0.00316281
+1248,predict price=51.5512568976,real price=97.6242273247,predict ratio=0.00264169,real ratio=0.0230273
+1249,predict price=50.0373002517,real price=98.0340199928,predict ratio=-0.029368,real ratio=0.00419765
+1250,predict price=50.0545768709,real price=95.5171270292,predict ratio=0.000345275,real ratio=-0.0256737
+1251,predict price=49.3983315012,real price=96.676559796,predict ratio=-0.0131106,real ratio=0.0121385
+1252,predict price=49.7007353225,real price=93.5140738802,predict ratio=0.00612174,real ratio=-0.032712
+1253,predict price=49.1192896415,real price=90.6192102225,predict ratio=-0.0116989,real ratio=-0.0309564
+1254,predict price=47.7479742137,real price=92.0715386305,predict ratio=-0.0279181,real ratio=0.0160267
+1255,predict price=47.5684691015,real price=91.0258522311,predict ratio=-0.00375943,real ratio=-0.0113573
+1256,predict price=47.7667571666,real price=90.8766123873,predict ratio=0.00416848,real ratio=-0.00163953
+1257,predict price=47.9285177911,real price=92.8571075963,predict ratio=0.00338647,real ratio=0.0217932
+1258,predict price=47.9197239626,real price=91.475339123,predict ratio=-0.000183478,real ratio=-0.0148806
+1259,predict price=48.3265939231,real price=89.4928289039,predict ratio=0.00849066,real ratio=-0.0216726
+1260,predict price=46.7129352639,real price=89.5529807844,predict ratio=-0.0333907,real ratio=0.000672142
+1261,predict price=46.1426975181,real price=89.0651144901,predict ratio=-0.0122073,real ratio=-0.0054478
+1262,predict price=45.4858704374,real price=87.696546151,predict ratio=-0.0142347,real ratio=-0.0153659
+1263,predict price=45.5497809125,real price=85.547745116,predict ratio=0.00140506,real ratio=-0.0245027
+1264,predict price=45.3067092258,real price=85.3192021265,predict ratio=-0.0053364,real ratio=-0.00267153
+1265,predict price=46.1771175911,real price=82.7092766406,predict ratio=0.0192115,real ratio=-0.0305901
+1266,predict price=45.9302391434,real price=83.2580888946,predict ratio=-0.00534634,real ratio=0.00663544
+1267,predict price=45.7646460565,real price=84.2815587738,predict ratio=-0.00360532,real ratio=0.0122927
+1268,predict price=46.218191324,real price=85.3592465239,predict ratio=0.00991039,real ratio=0.0127868
+1269,predict price=47.2426855645,real price=84.9120307428,predict ratio=0.0221665,real ratio=-0.00523922
+1270,predict price=47.3958832659,real price=83.9626129839,predict ratio=0.00324278,real ratio=-0.0111812
+1271,predict price=45.8862416239,real price=86.6812986002,predict ratio=-0.0318517,real ratio=0.0323797
+1272,predict price=46.9420640707,real price=86.5676375934,predict ratio=0.0230096,real ratio=-0.00131125
+1273,predict price=46.2925353697,real price=83.2418235116,predict ratio=-0.0138368,real ratio=-0.0384187
+1274,predict price=48.0848875148,real price=83.3916866422,predict ratio=0.038718,real ratio=0.00180033
+1275,predict price=48.2052448935,real price=82.5277707707,predict ratio=0.00250302,real ratio=-0.0103597
+1276,predict price=48.278752896,real price=83.4328665458,predict ratio=0.0015249,real ratio=0.0109672
+1277,predict price=48.3691395929,real price=84.8545000657,predict ratio=0.00187218,real ratio=0.0170393
+1278,predict price=47.3321209483,real price=86.3810513766,predict ratio=-0.0214397,real ratio=0.0179902
+1279,predict price=46.8642521867,real price=86.4513466796,predict ratio=-0.0098848,real ratio=0.000813782
+1280,predict price=45.9761710971,real price=88.0186510395,predict ratio=-0.0189501,real ratio=0.0181293
+1281,predict price=48.0172888532,real price=87.4263023206,predict ratio=0.0443951,real ratio=-0.00672981
+1282,predict price=45.9612368821,real price=87.3879997899,predict ratio=-0.042819,real ratio=-0.000438112
+1283,predict price=45.3843161715,real price=89.5125008889,predict ratio=-0.0125523,real ratio=0.0243111
+1284,predict price=45.6652625074,real price=88.4185563468,predict ratio=0.00619038,real ratio=-0.0122211
+1285,predict price=45.4685848601,real price=86.7644437377,predict ratio=-0.00430694,real ratio=-0.0187078
+1286,predict price=47.0023996292,real price=86.8050089012,predict ratio=0.0337335,real ratio=0.000467532
+1287,predict price=46.4990022191,real price=85.1362958317,predict ratio=-0.01071,real ratio=-0.0192237
+1288,predict price=44.0159957489,real price=84.7556185634,predict ratio=-0.0533991,real ratio=-0.00447139
+1289,predict price=44.4731172026,real price=83.6778454395,predict ratio=0.0103853,real ratio=-0.0127162
+1290,predict price=43.4652494123,real price=82.033867772,predict ratio=-0.0226624,real ratio=-0.0196465
+1291,predict price=43.2926427856,real price=80.3635752184,predict ratio=-0.00397114,real ratio=-0.020361
+1292,predict price=43.8088369011,real price=80.4694578884,predict ratio=0.0119234,real ratio=0.00131755
+1293,predict price=44.9825259293,real price=81.6439264943,predict ratio=0.0267911,real ratio=0.0145952
+1294,predict price=44.108393945,real price=81.1334167642,predict ratio=-0.0194327,real ratio=-0.00625288
+1295,predict price=44.5082823955,real price=83.3724498396,predict ratio=0.00906604,real ratio=0.0275969
+1296,predict price=45.0586578715,real price=83.8059361096,predict ratio=0.0123657,real ratio=0.00519939
+1297,predict price=46.1252566908,real price=83.4806036714,predict ratio=0.0236713,real ratio=-0.00388197
+1298,predict price=46.3807218935,real price=83.3854791802,predict ratio=0.00553851,real ratio=-0.00113948
+1299,predict price=48.2980892305,real price=85.6412983504,predict ratio=0.0413397,real ratio=0.0270529
+1300,predict price=48.7962800214,real price=84.6820872094,predict ratio=0.0103149,real ratio=-0.0112003
+1301,predict price=47.8525397371,real price=82.2587477888,predict ratio=-0.0193404,real ratio=-0.0286169
+1302,predict price=49.2186462708,real price=81.3153579854,predict ratio=0.0285483,real ratio=-0.0114686
+1303,predict price=47.9632915666,real price=81.1262445697,predict ratio=-0.0255057,real ratio=-0.00232568
+1304,predict price=48.0723102449,real price=80.6195770738,predict ratio=0.00227296,real ratio=-0.00624542
+1305,predict price=48.6352577823,real price=82.4563396575,predict ratio=0.0117104,real ratio=0.0227831
+1306,predict price=48.4051993713,real price=83.0919686852,predict ratio=-0.00473028,real ratio=0.00770867
+1307,predict price=48.751520146,real price=83.0324230229,predict ratio=0.00715462,real ratio=-0.000716624
+1308,predict price=47.8832816285,real price=85.2743419621,predict ratio=-0.0178095,real ratio=0.0270005
+1309,predict price=47.9401927747,real price=84.7737963868,predict ratio=0.00118854,real ratio=-0.00586983
+1310,predict price=48.4536220625,real price=83.386085315,predict ratio=0.0107098,real ratio=-0.0163696
+1311,predict price=47.6261036174,real price=83.6746947915,predict ratio=-0.0170786,real ratio=0.00346112
+1312,predict price=45.8440681987,real price=84.756224738,predict ratio=-0.0374172,real ratio=0.0129254
+1313,predict price=46.1563748857,real price=82.9667639705,predict ratio=0.00681237,real ratio=-0.021113
+1314,predict price=44.3819398407,real price=84.4057130838,predict ratio=-0.038444,real ratio=0.0173437
+1315,predict price=43.79062844,real price=84.302545573,predict ratio=-0.0133232,real ratio=-0.00122228
+1316,predict price=42.9377089696,real price=83.6937607529,predict ratio=-0.0194772,real ratio=-0.00722143
+1317,predict price=43.3139606124,real price=83.5063037549,predict ratio=0.00876273,real ratio=-0.0022398
+1318,predict price=42.4735998841,real price=81.2488195737,predict ratio=-0.0194016,real ratio=-0.0270337
+1319,predict price=43.6295631395,real price=80.5470960785,predict ratio=0.027216,real ratio=-0.00863672
+1320,predict price=44.3008424902,real price=80.9044298348,predict ratio=0.0153859,real ratio=0.00443633
+1321,predict price=44.1506404695,real price=80.4079057542,predict ratio=-0.0033905,real ratio=-0.00613717
+1322,predict price=44.6831974652,real price=80.1019807357,predict ratio=0.0120623,real ratio=-0.00380466
+1323,predict price=43.7841869087,real price=80.7914689977,predict ratio=-0.0201197,real ratio=0.00860763
+1324,predict price=43.8226006638,real price=81.8593548015,predict ratio=0.000877343,real ratio=0.0132178
+1325,predict price=43.2451487045,real price=80.2567362484,predict ratio=-0.013177,real ratio=-0.0195777
+1326,predict price=43.5408902208,real price=79.7086326812,predict ratio=0.00683872,real ratio=-0.00682938
+1327,predict price=43.6034827293,real price=78.645895427,predict ratio=0.00143756,real ratio=-0.0133328
+1328,predict price=43.2500049279,real price=77.3366080734,predict ratio=-0.00810664,real ratio=-0.0166479
+1329,predict price=43.1805582035,real price=77.8707345522,predict ratio=-0.0016057,real ratio=0.00690652
+1330,predict price=43.5845433408,real price=78.610222725,predict ratio=0.00935572,real ratio=0.00949636
+1331,predict price=41.8572573832,real price=79.9933914553,predict ratio=-0.0396307,real ratio=0.0175953
+1332,predict price=43.4972590063,real price=77.1501158401,predict ratio=0.0391808,real ratio=-0.0355439
+1333,predict price=43.2224099779,real price=78.0503106773,predict ratio=-0.00631877,real ratio=0.0116681
+1334,predict price=41.5759457712,real price=79.237808657,predict ratio=-0.0380928,real ratio=0.0152145
+1335,predict price=40.148892016,real price=79.6862453786,predict ratio=-0.034324,real ratio=0.00565938
+1336,predict price=38.8559667752,real price=80.6643430641,predict ratio=-0.0322033,real ratio=0.0122744
+1337,predict price=40.1956894575,real price=78.9034684027,predict ratio=0.0344792,real ratio=-0.0218297
+1338,predict price=41.8621588675,real price=79.5486261376,predict ratio=0.0414589,real ratio=0.00817654
+1339,predict price=42.7172866123,real price=80.7794897908,predict ratio=0.0204272,real ratio=0.0154731
+1340,predict price=41.3434781887,real price=81.5021149429,predict ratio=-0.0321605,real ratio=0.00894565
+1341,predict price=40.0881169908,real price=81.3053000497,predict ratio=-0.0303642,real ratio=-0.00241484
+1342,predict price=40.8839984578,real price=83.2047503432,predict ratio=0.0198533,real ratio=0.0233619
+1343,predict price=41.1705434963,real price=83.1430274271,predict ratio=0.00700873,real ratio=-0.00074182
+1344,predict price=40.0239758303,real price=84.1623904637,predict ratio=-0.0278492,real ratio=0.0122604
+1345,predict price=40.3350536342,real price=83.9527340625,predict ratio=0.00777229,real ratio=-0.00249109
+1346,predict price=39.8955889191,real price=83.6398162277,predict ratio=-0.0108954,real ratio=-0.00372731
+1347,predict price=41.3526042352,real price=82.8122732615,predict ratio=0.0365207,real ratio=-0.00989413
+1348,predict price=40.6700827684,real price=83.9617334113,predict ratio=-0.0165049,real ratio=0.0138803
+1349,predict price=42.9233654578,real price=83.0228945052,predict ratio=0.0554039,real ratio=-0.0111817
+1350,predict price=43.8521050382,real price=83.5791350074,predict ratio=0.0216372,real ratio=0.00669984
+1351,predict price=43.4592347235,real price=81.9176709651,predict ratio=-0.00895898,real ratio=-0.0198789
+1352,predict price=42.0920464507,real price=82.2226397114,predict ratio=-0.0314591,real ratio=0.00372287
+1353,predict price=41.4234873983,real price=82.0200529752,predict ratio=-0.0158833,real ratio=-0.00246388
+1354,predict price=42.0041242733,real price=83.2239870449,predict ratio=0.0140171,real ratio=0.0146785
+1355,predict price=42.6074486076,real price=84.7336668613,predict ratio=0.0143635,real ratio=0.01814
+1356,predict price=41.7569970609,real price=84.6757861548,predict ratio=-0.0199602,real ratio=-0.00068309
+1357,predict price=40.9896897625,real price=83.8370580431,predict ratio=-0.0183755,real ratio=-0.00990517
+1358,predict price=40.121422765,real price=82.0863267464,predict ratio=-0.0211826,real ratio=-0.0208825
+1359,predict price=41.2402133184,real price=82.2163384783,predict ratio=0.0278851,real ratio=0.00158384
+1360,predict price=40.1198101829,real price=83.7901063251,predict ratio=-0.0271677,real ratio=0.0191418
+1361,predict price=40.2084133332,real price=83.0621533298,predict ratio=0.00220846,real ratio=-0.00868782
+1362,predict price=39.8689198523,real price=83.046767427,predict ratio=-0.00844334,real ratio=-0.000185234
+1363,predict price=42.7663266535,real price=83.4048866866,predict ratio=0.0726733,real ratio=0.00431226
+1364,predict price=42.9372078974,real price=82.0247746828,predict ratio=0.0039957,real ratio=-0.0165471
+1365,predict price=43.0914671145,real price=81.9800172468,predict ratio=0.00359267,real ratio=-0.000545658
+1366,predict price=43.9309802854,real price=82.4191814543,predict ratio=0.0194821,real ratio=0.00535697
+1367,predict price=44.5029725912,real price=82.195795563,predict ratio=0.0130202,real ratio=-0.00271036
+1368,predict price=44.2186742884,real price=81.9878809493,predict ratio=-0.0063883,real ratio=-0.0025295
+1369,predict price=46.1780864302,real price=82.0722558068,predict ratio=0.0443119,real ratio=0.00102911
+1370,predict price=47.3945915052,real price=81.8886495621,predict ratio=0.0263438,real ratio=-0.00223713
+1371,predict price=49.5506009769,real price=80.4584436264,predict ratio=0.0454906,real ratio=-0.0174653
+1372,predict price=45.4669753436,real price=80.0411287467,predict ratio=-0.0824132,real ratio=-0.00518671
+1373,predict price=45.8516583557,real price=80.0871242284,predict ratio=0.00846071,real ratio=0.000574648
+1374,predict price=45.4154735783,real price=81.825261589,predict ratio=-0.00951296,real ratio=0.0217031
+1375,predict price=44.396648902,real price=84.1615194977,predict ratio=-0.0224334,real ratio=0.0285518
+1376,predict price=44.928874069,real price=85.0964222462,predict ratio=0.011988,real ratio=0.0111084
+1377,predict price=44.3850366096,real price=84.7604255686,predict ratio=-0.0121044,real ratio=-0.00394842
+1378,predict price=45.0087983434,real price=85.949750684,predict ratio=0.0140534,real ratio=0.0140316
+1379,predict price=46.3653259431,real price=86.2202676472,predict ratio=0.0301392,real ratio=0.00314739
+1380,predict price=46.5993929313,real price=85.0255121502,predict ratio=0.00504832,real ratio=-0.013857
+1381,predict price=47.0358300027,real price=85.9234358278,predict ratio=0.00936572,real ratio=0.0105606
+1382,predict price=47.6024477034,real price=85.6575551443,predict ratio=0.0120465,real ratio=-0.00309439
+1383,predict price=47.9487364574,real price=85.7848602524,predict ratio=0.0072746,real ratio=0.00148621
+1384,predict price=47.6460464503,real price=87.5507127235,predict ratio=-0.00631278,real ratio=0.0205847
+1385,predict price=48.132821603,real price=87.6273007082,predict ratio=0.0102165,real ratio=0.000874784
+1386,predict price=47.9372970843,real price=88.4386722809,predict ratio=-0.00406219,real ratio=0.00925935
+1387,predict price=48.234729261,real price=87.694804023,predict ratio=0.00620461,real ratio=-0.00841112
+1388,predict price=47.5562061242,real price=87.7774200025,predict ratio=-0.0140671,real ratio=0.000942085
+1389,predict price=47.3677380823,real price=88.5330966809,predict ratio=-0.00396306,real ratio=0.00860901
+1390,predict price=48.4482071723,real price=86.8810758939,predict ratio=0.0228102,real ratio=-0.0186599
+1391,predict price=47.5225966638,real price=87.3270621644,predict ratio=-0.0191052,real ratio=0.0051333
+1392,predict price=46.2344205621,real price=88.9049368682,predict ratio=-0.0271066,real ratio=0.0180686
+1393,predict price=46.734468434,real price=88.9906266138,predict ratio=0.0108155,real ratio=0.000963836
+1394,predict price=47.0952140096,real price=88.8936663921,predict ratio=0.00771905,real ratio=-0.00108956
+1395,predict price=47.3191076118,real price=88.6652002513,predict ratio=0.00475406,real ratio=-0.00257011
+1396,predict price=45.3317957255,real price=89.4628423474,predict ratio=-0.0419981,real ratio=0.00899611
+1397,predict price=44.9602329382,real price=89.9310365648,predict ratio=-0.00819652,real ratio=0.00523339
+1398,predict price=45.8860256805,real price=89.2846578978,predict ratio=0.0205914,real ratio=-0.00718749
+1399,predict price=45.2210970417,real price=90.0010672331,predict ratio=-0.0144909,real ratio=0.00802388
+1400,predict price=45.1201364203,real price=90.2011095918,predict ratio=-0.0022326,real ratio=0.00222267
+1401,predict price=45.2829411132,real price=90.1400014292,predict ratio=0.00360825,real ratio=-0.000677466
+1402,predict price=45.556439677,real price=90.1532015439,predict ratio=0.00603977,real ratio=0.00014644
+1403,predict price=45.6044358889,real price=90.0879779557,predict ratio=0.00105355,real ratio=-0.000723475
+1404,predict price=46.4461317825,real price=89.323652055,predict ratio=0.0184564,real ratio=-0.00848422
+1405,predict price=46.9950441553,real price=90.6711480606,predict ratio=0.0118183,real ratio=0.0150855
+1406,predict price=46.459641986,real price=90.4608769005,predict ratio=-0.0113927,real ratio=-0.00231905
+1407,predict price=47.2606104089,real price=90.5440222528,predict ratio=0.0172401,real ratio=0.000919131
+1408,predict price=47.4831178299,real price=89.9900529258,predict ratio=0.00470809,real ratio=-0.00611823
+1409,predict price=47.2974340099,real price=90.4439114394,predict ratio=-0.00391052,real ratio=0.00504343
+1410,predict price=45.2053311088,real price=89.4330268634,predict ratio=-0.0442329,real ratio=-0.0111769
+1411,predict price=44.0562209033,real price=90.9121910099,predict ratio=-0.0254198,real ratio=0.0165394
+1412,predict price=45.335692888,real price=90.7606714605,predict ratio=0.0290418,real ratio=-0.00166666
+1413,predict price=44.186348428,real price=92.0633160661,predict ratio=-0.0253519,real ratio=0.0143525
+1414,predict price=42.5784154792,real price=92.1619412359,predict ratio=-0.0363898,real ratio=0.00107128
+1415,predict price=42.2706427473,real price=91.8964960009,predict ratio=-0.00722837,real ratio=-0.0028802
+1416,predict price=42.8161998279,real price=91.9150325131,predict ratio=0.0129063,real ratio=0.000201711
+1417,predict price=42.2288333356,real price=92.5879053238,predict ratio=-0.0137183,real ratio=0.0073206
+1418,predict price=40.3737579049,real price=91.7947287284,predict ratio=-0.0439291,real ratio=-0.00856674
+1419,predict price=38.7593323843,real price=91.969070986,predict ratio=-0.039987,real ratio=0.00189926
+1420,predict price=39.7653971658,real price=92.3023525207,predict ratio=0.0259567,real ratio=0.00362384
+1421,predict price=34.8661633823,real price=91.2550097166,predict ratio=-0.123203,real ratio=-0.0113469
+1422,predict price=39.6125754314,real price=89.8317112986,predict ratio=0.136132,real ratio=-0.0155969
+1423,predict price=39.830843915,real price=90.4488977535,predict ratio=0.00551008,real ratio=0.00687047
+1424,predict price=36.0931951539,real price=91.4920397144,predict ratio=-0.0938381,real ratio=0.0115329
+1425,predict price=36.832961133,real price=90.9454218036,predict ratio=0.020496,real ratio=-0.00597449
+1426,predict price=35.9104702903,real price=91.616544287,predict ratio=-0.0250453,real ratio=0.0073794
+1427,predict price=35.4921036209,real price=90.5820515384,predict ratio=-0.0116503,real ratio=-0.0112915
+1428,predict price=35.0684645309,real price=89.511715238,predict ratio=-0.0119362,real ratio=-0.0118162
+1429,predict price=35.2117824595,real price=89.8315405101,predict ratio=0.0040868,real ratio=0.003573
+1430,predict price=35.2920183514,real price=91.4303168409,predict ratio=0.00227867,real ratio=0.0177975
+1431,predict price=34.355279046,real price=91.202994819,predict ratio=-0.0265425,real ratio=-0.00248629
+1432,predict price=35.206718609,real price=92.183619859,predict ratio=0.0247834,real ratio=0.0107521
+1433,predict price=33.8296742881,real price=92.607842149,predict ratio=-0.0391131,real ratio=0.00460193
+1434,predict price=35.190488032,real price=92.9920200935,predict ratio=0.0402254,real ratio=0.00414844
+1435,predict price=33.0577281028,real price=92.8333284251,predict ratio=-0.0606061,real ratio=-0.00170651
+1436,predict price=30.5895404828,real price=92.7268395407,predict ratio=-0.074663,real ratio=-0.0011471
+1437,predict price=31.8173953842,real price=93.7750532195,predict ratio=0.0401397,real ratio=0.0113043
+1438,predict price=32.2242065282,real price=93.9597950399,predict ratio=0.0127858,real ratio=0.00197005
+1439,predict price=31.985187077,real price=94.4985492497,predict ratio=-0.00741739,real ratio=0.00573388
+1440,predict price=31.4362585231,real price=94.7464142531,predict ratio=-0.017162,real ratio=0.00262295
+1441,predict price=32.0000615657,real price=94.8002734499,predict ratio=0.0179348,real ratio=0.000568456
+1442,predict price=32.4613729591,real price=93.2431209927,predict ratio=0.014416,real ratio=-0.0164256
+1443,predict price=32.9564489899,real price=92.4947018474,predict ratio=0.0152512,real ratio=-0.00802653
+1444,predict price=32.8013941546,real price=91.3896576149,predict ratio=-0.00470484,real ratio=-0.0119471
+1445,predict price=32.0539318909,real price=92.0370864977,predict ratio=-0.0227875,real ratio=0.00708427
+1446,predict price=32.2099187805,real price=92.8880584076,predict ratio=0.00486639,real ratio=0.00924597
+1447,predict price=32.2667687976,real price=94.0241476599,predict ratio=0.00176498,real ratio=0.0122307
+1448,predict price=31.7840376727,real price=91.7364978156,predict ratio=-0.0149606,real ratio=-0.0243305
+1449,predict price=30.660612768,real price=92.5552037011,predict ratio=-0.0353456,real ratio=0.00892454
+1450,predict price=30.4059920799,real price=93.4963223498,predict ratio=-0.00830449,real ratio=0.0101682
+1451,predict price=30.0596464608,real price=91.8470081943,predict ratio=-0.0113907,real ratio=-0.0176404
+1452,predict price=30.7793436778,real price=92.0233654694,predict ratio=0.0239423,real ratio=0.00192012
+1453,predict price=29.9042963409,real price=92.5856339708,predict ratio=-0.0284297,real ratio=0.00611006
+1454,predict price=29.5749028615,real price=91.2293947868,predict ratio=-0.0110149,real ratio=-0.0146485
+1455,predict price=29.6145795587,real price=89.6560624574,predict ratio=0.00134157,real ratio=-0.0172459
+1456,predict price=29.8127517948,real price=84.1134317889,predict ratio=0.00669171,real ratio=-0.061821
+1457,predict price=29.71344091,real price=75.2361584887,predict ratio=-0.00333115,real ratio=-0.105539
+1458,predict price=29.7696523884,real price=79.5077956457,predict ratio=0.00189179,real ratio=0.0567764
+1459,predict price=31.3477526936,real price=78.362006983,predict ratio=0.0530104,real ratio=-0.014411
+1460,predict price=30.515565894,real price=80.4960368121,predict ratio=-0.0265469,real ratio=0.027233
+1461,predict price=30.768778613,real price=84.0070281662,predict ratio=0.00829782,real ratio=0.0436169
+1462,predict price=31.6978864606,real price=82.6181729527,predict ratio=0.0301964,real ratio=-0.0165326
+1463,predict price=30.9517337572,real price=82.4917472862,predict ratio=-0.0235395,real ratio=-0.00153024
+1464,predict price=31.9950893495,real price=83.3758561218,predict ratio=0.0337091,real ratio=0.0107175
+1465,predict price=33.0769565796,real price=82.8722538465,predict ratio=0.0338135,real ratio=-0.00604015
+1466,predict price=33.1764050128,real price=82.7021977799,predict ratio=0.00300658,real ratio=-0.00205203
+1467,predict price=32.1239600474,real price=84.8854506027,predict ratio=-0.0317227,real ratio=0.026399
+1468,predict price=32.489556563,real price=85.2903423436,predict ratio=0.0113808,real ratio=0.00476986
+1469,predict price=32.4811727261,real price=84.8819499317,predict ratio=-0.000258047,real ratio=-0.00478826
+1470,predict price=33.4675776259,real price=84.9737530485,predict ratio=0.0303685,real ratio=0.00108154
+1471,predict price=33.3581959285,real price=84.0702368516,predict ratio=-0.00326829,real ratio=-0.0106329
+1472,predict price=33.587064409,real price=83.797628019,predict ratio=0.00686094,real ratio=-0.00324263
+1473,predict price=33.153984889,real price=83.8549793573,predict ratio=-0.0128942,real ratio=0.000684403
+1474,predict price=32.8774895727,real price=85.4038325654,predict ratio=-0.00833973,real ratio=0.0184706
+1475,predict price=33.9587243655,real price=84.9808397712,predict ratio=0.0328868,real ratio=-0.00495285
+1476,predict price=32.6113589344,real price=83.5431117776,predict ratio=-0.0396766,real ratio=-0.0169183
+1477,predict price=32.9903852934,real price=84.2943229204,predict ratio=0.0116225,real ratio=0.0089919
+1478,predict price=32.527866248,real price=84.4057127598,predict ratio=-0.0140198,real ratio=0.00132144
+1479,predict price=33.2246278698,real price=83.8601364907,predict ratio=0.0214205,real ratio=-0.00646374
+1480,predict price=33.7207168818,real price=83.5552702006,predict ratio=0.0149314,real ratio=-0.00363541
+1481,predict price=33.6768282063,real price=82.5443856708,predict ratio=-0.00130153,real ratio=-0.0120984
+1482,predict price=34.1450880031,real price=83.9939136355,predict ratio=0.0139045,real ratio=0.0175606
+1483,predict price=33.0733774815,real price=84.684178879,predict ratio=-0.031387,real ratio=0.00821804
+1484,predict price=31.401805731,real price=83.5731066572,predict ratio=-0.0505413,real ratio=-0.0131202
+1485,predict price=32.3608808284,real price=84.7372525104,predict ratio=0.030542,real ratio=0.0139297
+1486,predict price=33.5979288665,real price=86.1178000517,predict ratio=0.0382266,real ratio=0.0162921
+1487,predict price=32.0696792246,real price=87.4682673682,predict ratio=-0.0454864,real ratio=0.0156816
+1488,predict price=31.6199279305,real price=86.2005099581,predict ratio=-0.0140242,real ratio=-0.0144939
+1489,predict price=31.0354477455,real price=85.6337759646,predict ratio=-0.0184846,real ratio=-0.0065746
+1490,predict price=31.0630180986,real price=85.8469330357,predict ratio=0.00088835,real ratio=0.00248917
+1491,predict price=31.4219110958,real price=86.2447465551,predict ratio=0.0115537,real ratio=0.00463399
+1492,predict price=31.4799531848,real price=84.9541749993,predict ratio=0.00184719,real ratio=-0.0149641
+1493,predict price=31.4015297282,real price=84.3606821564,predict ratio=-0.00249122,real ratio=-0.00698604
+1494,predict price=31.3187782078,real price=83.5696913645,predict ratio=-0.00263527,real ratio=-0.0093763
+1495,predict price=30.2765280011,real price=83.6459292813,predict ratio=-0.0332788,real ratio=0.000912268
+1496,predict price=29.0429461317,real price=84.4770583119,predict ratio=-0.0407438,real ratio=0.00993628
+1497,predict price=28.7541140443,real price=84.1163177952,predict ratio=-0.009945,real ratio=-0.00427028
+1498,predict price=28.6596203569,real price=83.996184805,predict ratio=-0.00328627,real ratio=-0.00142818
+1499,predict price=30.5504497844,real price=82.7157481658,predict ratio=0.0659754,real ratio=-0.015244
+1500,predict price=29.8269653531,real price=82.860360285,predict ratio=-0.0236816,real ratio=0.0017483
+1501,predict price=30.6578977394,real price=82.3856940968,predict ratio=0.0278584,real ratio=-0.00572851
+1502,predict price=29.9493370048,real price=83.6024781833,predict ratio=-0.0231119,real ratio=0.0147694
+1503,predict price=30.8091799106,real price=83.2517957211,predict ratio=0.0287099,real ratio=-0.00419464
+1504,predict price=30.4499929533,real price=84.7537825968,predict ratio=-0.0116584,real ratio=0.0180415
+1505,predict price=30.6177272545,real price=84.9800544038,predict ratio=0.00550852,real ratio=0.00266975
+1506,predict price=30.2236382467,real price=83.5411906869,predict ratio=-0.0128713,real ratio=-0.0169318
+1507,predict price=30.208376312,real price=82.991857602,predict ratio=-0.000504967,real ratio=-0.0065756
+1508,predict price=30.6600906736,real price=82.0138452753,predict ratio=0.0149533,real ratio=-0.0117844
+1509,predict price=30.8110792138,real price=82.5611718468,predict ratio=0.0049246,real ratio=0.00667359
+1510,predict price=30.2691035694,real price=82.6180877318,predict ratio=-0.0175903,real ratio=0.000689378
+1511,predict price=30.1308112066,real price=82.772757895,predict ratio=-0.00456876,real ratio=0.00187211
+1512,predict price=29.3347453808,real price=83.1862220118,predict ratio=-0.0264203,real ratio=0.00499517
+1513,predict price=29.5129447089,real price=82.6071587953,predict ratio=0.00607468,real ratio=-0.00696105
+1514,predict price=29.6096291648,real price=83.4778027959,predict ratio=0.003276,real ratio=0.0105396
+1515,predict price=30.0916435692,real price=83.7097610773,predict ratio=0.016279,real ratio=0.00277868
+1516,predict price=30.060835545,real price=82.2842768738,predict ratio=-0.00102381,real ratio=-0.0170289
+1517,predict price=29.8834470165,real price=81.7607378251,predict ratio=-0.00590098,real ratio=-0.00636256
+1518,predict price=29.692035144,real price=81.7862671531,predict ratio=-0.00640528,real ratio=0.000312244
+1519,predict price=30.7175168877,real price=82.7072696442,predict ratio=0.0345373,real ratio=0.0112611
+1520,predict price=29.8597573614,real price=84.1915909376,predict ratio=-0.0279241,real ratio=0.0179467
+1521,predict price=29.2754213622,real price=83.9057820092,predict ratio=-0.0195693,real ratio=-0.00339474
+1522,predict price=29.7531789374,real price=84.6224559953,predict ratio=0.0163194,real ratio=0.00854141
+1523,predict price=28.4662450457,real price=83.7446399072,predict ratio=-0.0432537,real ratio=-0.0103733
+1524,predict price=29.3394980551,real price=84.362526487,predict ratio=0.0306768,real ratio=0.00737822
+1525,predict price=29.4826678898,real price=85.6589553184,predict ratio=0.00487976,real ratio=0.0153674
+1526,predict price=29.062561152,real price=85.8235896039,predict ratio=-0.0142493,real ratio=0.00192197
+1527,predict price=29.1624045513,real price=86.2780628812,predict ratio=0.00343546,real ratio=0.00529544
+1528,predict price=29.4479728673,real price=87.1907577088,predict ratio=0.00979234,real ratio=0.0105785
+1529,predict price=29.8674303265,real price=88.1526840044,predict ratio=0.014244,real ratio=0.0110324
+1530,predict price=29.7495734809,real price=88.0535294593,predict ratio=-0.003946,real ratio=-0.0011248
+1531,predict price=29.4773405487,real price=88.6357432963,predict ratio=-0.00915082,real ratio=0.00661204
+1532,predict price=30.4366769823,real price=88.0394584366,predict ratio=0.0325449,real ratio=-0.00672736
+1533,predict price=31.2459817858,real price=86.7838509868,predict ratio=0.0265898,real ratio=-0.0142619
+1534,predict price=31.8786891732,real price=87.1092688003,predict ratio=0.0202492,real ratio=0.00374975
+1535,predict price=31.8013961161,real price=86.8730328707,predict ratio=-0.0024246,real ratio=-0.00271195
+1536,predict price=30.7916296093,real price=87.2083294285,predict ratio=-0.0317523,real ratio=0.00385962
+1537,predict price=29.9561380959,real price=86.4673470783,predict ratio=-0.0271337,real ratio=-0.00849669
+1538,predict price=29.9760753793,real price=87.4831325396,predict ratio=0.000665549,real ratio=0.0117476
+1539,predict price=29.277737583,real price=87.5223828129,predict ratio=-0.0232965,real ratio=0.000448661
+1540,predict price=28.7356341463,real price=88.5866057077,predict ratio=-0.0185159,real ratio=0.0121594
+1541,predict price=29.5563646834,real price=87.8687876166,predict ratio=0.0285614,real ratio=-0.00810301
+1542,predict price=28.6172501306,real price=88.285923179,predict ratio=-0.0317737,real ratio=0.00474726
+1543,predict price=29.3635838358,real price=87.8441377133,predict ratio=0.0260799,real ratio=-0.00500403
+1544,predict price=29.143639169,real price=86.5690288876,predict ratio=-0.00749039,real ratio=-0.0145156
+1545,predict price=30.2771947961,real price=85.9717023936,predict ratio=0.0388955,real ratio=-0.0069
+1546,predict price=30.2643400798,real price=87.1256194863,predict ratio=-0.000424568,real ratio=0.0134221
+1547,predict price=30.0073498356,real price=86.0727694987,predict ratio=-0.00849152,real ratio=-0.0120843
+1548,predict price=29.9081376693,real price=84.2590004692,predict ratio=-0.00330626,real ratio=-0.0210725
+1549,predict price=29.6756607458,real price=84.451699936,predict ratio=-0.00777303,real ratio=0.00228699
+1550,predict price=29.4341190653,real price=81.3102863949,predict ratio=-0.00813939,real ratio=-0.0371978
+1551,predict price=29.2149786464,real price=79.5413686484,predict ratio=-0.00744512,real ratio=-0.0217552
+1552,predict price=29.6809514041,real price=78.2029744614,predict ratio=0.0159498,real ratio=-0.0168264
+1553,predict price=29.6469898346,real price=79.0271021443,predict ratio=-0.00114422,real ratio=0.0105383
+1554,predict price=29.2384454885,real price=78.5304926786,predict ratio=-0.0137803,real ratio=-0.00628404
+1555,predict price=29.8311466622,real price=78.3711862634,predict ratio=0.0202713,real ratio=-0.00202859
+1556,predict price=29.3806618847,real price=79.4438876263,predict ratio=-0.0151012,real ratio=0.0136874
+1557,predict price=29.4509161723,real price=79.627664638,predict ratio=0.00239117,real ratio=0.00231329
+1558,predict price=28.3601753925,real price=79.1890212484,predict ratio=-0.0370359,real ratio=-0.00550868
+1559,predict price=28.7746079636,real price=78.1966732229,predict ratio=0.0146132,real ratio=-0.0125314
+1560,predict price=28.2508479584,real price=76.2336643387,predict ratio=-0.0182022,real ratio=-0.0251035
+1561,predict price=28.2887288255,real price=75.4370724624,predict ratio=0.00134088,real ratio=-0.0104493
+1562,predict price=28.1966716611,real price=76.3540535056,predict ratio=-0.0032542,real ratio=0.0121556
+1563,predict price=28.2690158249,real price=75.5374480275,predict ratio=0.0025657,real ratio=-0.010695
+1564,predict price=28.458743318,real price=76.6981018014,predict ratio=0.0067115,real ratio=0.0153653
+1565,predict price=28.420210774,real price=76.9203521101,predict ratio=-0.00135398,real ratio=0.00289773
+1566,predict price=28.2414325102,real price=77.3887170919,predict ratio=-0.00629053,real ratio=0.00608896
+1567,predict price=28.6217715824,real price=78.285334424,predict ratio=0.0134674,real ratio=0.0115859
+1568,predict price=28.8883726399,real price=78.2966988173,predict ratio=0.00931462,real ratio=0.000145166
+1569,predict price=29.5266532266,real price=79.2199724988,predict ratio=0.0220947,real ratio=0.011792
+1570,predict price=28.8114608997,real price=78.2577046788,predict ratio=-0.0242219,real ratio=-0.0121468
+1571,predict price=27.6348088888,real price=75.1086833712,predict ratio=-0.0408397,real ratio=-0.0402391
+1572,predict price=28.6218248676,real price=76.6198488507,predict ratio=0.0357164,real ratio=0.0201197
+1573,predict price=27.9082421409,real price=76.8796076364,predict ratio=-0.0249314,real ratio=0.00339023
+1574,predict price=28.2332053018,real price=76.3947126419,predict ratio=0.011644,real ratio=-0.0063072
+1575,predict price=28.2257614603,real price=74.6286808259,predict ratio=-0.000263656,real ratio=-0.0231172
+1576,predict price=27.0197702573,real price=75.3358261663,predict ratio=-0.0427266,real ratio=0.00947552
+1577,predict price=26.7528233124,real price=74.4791763324,predict ratio=-0.00987969,real ratio=-0.0113711
+1578,predict price=27.2829518778,real price=75.793185319,predict ratio=0.0198158,real ratio=0.0176426
+1579,predict price=27.9459355787,real price=77.5007216932,predict ratio=0.0243003,real ratio=0.0225289
+1580,predict price=28.4648659486,real price=76.2511506658,predict ratio=0.0185691,real ratio=-0.0161233
+1581,predict price=28.2087168412,real price=76.4253136146,predict ratio=-0.00899878,real ratio=0.00228407
+1582,predict price=29.0430393356,real price=74.8436736027,predict ratio=0.0295768,real ratio=-0.0206952
+1583,predict price=29.9022303233,real price=73.2163112557,predict ratio=0.0295834,real ratio=-0.0217435
+1584,predict price=31.7606754826,real price=75.2781247369,predict ratio=0.0621507,real ratio=0.0281606
+1585,predict price=32.9411056256,real price=75.3279624249,predict ratio=0.0371664,real ratio=0.000662047
+1586,predict price=33.2736989246,real price=76.0762022639,predict ratio=0.0100966,real ratio=0.0099331
+1587,predict price=32.7082372734,real price=76.0679799419,predict ratio=-0.0169943,real ratio=-0.00010808
+1588,predict price=32.0880989943,real price=74.7144559207,predict ratio=-0.0189597,real ratio=-0.0177936
+1589,predict price=31.8354285504,real price=73.9331645765,predict ratio=-0.00787427,real ratio=-0.010457
+1590,predict price=30.6307997309,real price=73.2936932965,predict ratio=-0.0378393,real ratio=-0.00864932
+1591,predict price=31.1524584748,real price=74.509333354,predict ratio=0.0170305,real ratio=0.0165859
+1592,predict price=30.7727863924,real price=75.240266216,predict ratio=-0.0121875,real ratio=0.00980995
+1593,predict price=30.0218916714,real price=76.7096370131,predict ratio=-0.0244013,real ratio=0.019529
+1594,predict price=30.3243422141,real price=76.405556232,predict ratio=0.0100743,real ratio=-0.00396405
+1595,predict price=29.3291744213,real price=77.1430378826,predict ratio=-0.0328175,real ratio=0.0096522
+1596,predict price=28.7138735664,real price=76.4847654187,predict ratio=-0.0209791,real ratio=-0.00853314
+1597,predict price=28.1459817476,real price=77.635711234,predict ratio=-0.0197776,real ratio=0.015048
+1598,predict price=28.050794576,real price=76.4318710521,predict ratio=-0.00338191,real ratio=-0.0155063
+1599,predict price=27.7028198538,real price=76.6996728566,predict ratio=-0.0124052,real ratio=0.0035038
+1600,predict price=27.8521317465,real price=75.9093821968,predict ratio=0.00538977,real ratio=-0.0103037
+1601,predict price=28.3650739988,real price=75.8808730249,predict ratio=0.0184166,real ratio=-0.000375568
+1602,predict price=27.4739303416,real price=77.3242875443,predict ratio=-0.0314169,real ratio=0.0190221
+1603,predict price=25.3679530443,real price=76.6102262479,predict ratio=-0.0766537,real ratio=-0.00923463
+1604,predict price=24.6840788542,real price=76.4892223548,predict ratio=-0.0269582,real ratio=-0.00157947
+1605,predict price=24.3653544057,real price=78.0461186725,predict ratio=-0.0129121,real ratio=0.0203545
+1606,predict price=24.430989849,real price=79.1296550534,predict ratio=0.0026938,real ratio=0.0138833
+1607,predict price=25.1429332674,real price=78.5868793371,predict ratio=0.029141,real ratio=-0.00685932
+1608,predict price=24.1723780718,real price=77.2503122601,predict ratio=-0.0386015,real ratio=-0.0170075
+1609,predict price=24.796901175,real price=75.5445261874,predict ratio=0.0258362,real ratio=-0.0220813
+1610,predict price=24.9813745505,real price=76.9520032959,predict ratio=0.00743937,real ratio=0.0186311
+1611,predict price=24.8076659058,real price=76.6520208895,predict ratio=-0.00695353,real ratio=-0.00389831
+1612,predict price=25.0932933918,real price=75.6764589973,predict ratio=0.0115137,real ratio=-0.0127272
+1613,predict price=24.9885588549,real price=76.5501682179,predict ratio=-0.00417381,real ratio=0.0115453
+1614,predict price=25.2632563632,real price=74.3238058828,predict ratio=0.0109929,real ratio=-0.0290837
+1615,predict price=25.2541589336,real price=74.4433241191,predict ratio=-0.000360105,real ratio=0.00160807
+1616,predict price=25.0667271716,real price=75.223479873,predict ratio=-0.00742182,real ratio=0.0104799
+1617,predict price=25.4573788935,real price=74.6834107923,predict ratio=0.0155845,real ratio=-0.00717953
+1618,predict price=25.5366869795,real price=73.9947166228,predict ratio=0.00311533,real ratio=-0.00922151
+1619,predict price=24.5616299364,real price=74.1387139876,predict ratio=-0.0381826,real ratio=0.00194605
+1620,predict price=24.8635399246,real price=73.2231332202,predict ratio=0.0122919,real ratio=-0.0123496
+1621,predict price=25.5775319375,real price=72.990210126,predict ratio=0.0287164,real ratio=-0.003181
+1622,predict price=25.5514475395,real price=72.6970583071,predict ratio=-0.00101982,real ratio=-0.00401632
+1623,predict price=25.260373608,real price=71.3442258583,predict ratio=-0.0113917,real ratio=-0.0186092
+1624,predict price=25.2774445044,real price=72.4588072961,predict ratio=0.000675797,real ratio=0.0156226
+1625,predict price=25.2098031252,real price=74.1228925712,predict ratio=-0.00267596,real ratio=0.0229659
+1626,predict price=25.0804024919,real price=73.7451012056,predict ratio=-0.00513295,real ratio=-0.00509682
+1627,predict price=24.9284226212,real price=75.1682203145,predict ratio=-0.00605971,real ratio=0.0192978
+1628,predict price=24.1100727487,real price=75.5736414039,predict ratio=-0.032828,real ratio=0.00539352
+1629,predict price=24.2481632735,real price=76.0303004481,predict ratio=0.0057275,real ratio=0.00604257
+1630,predict price=23.498739531,real price=74.9739498209,predict ratio=-0.0309064,real ratio=-0.0138938
+1631,predict price=23.6082042884,real price=76.2592789294,predict ratio=0.00465832,real ratio=0.0171437
+1632,predict price=23.6470991204,real price=75.755762047,predict ratio=0.00164751,real ratio=-0.0066027
+1633,predict price=23.8623511797,real price=74.6355880758,predict ratio=0.00910268,real ratio=-0.0147867
+1634,predict price=23.9290735107,real price=75.6616877611,predict ratio=0.00279613,real ratio=0.0137481
+1635,predict price=23.3917128403,real price=74.7785352681,predict ratio=-0.0224564,real ratio=-0.0116724
+1636,predict price=23.1151839811,real price=74.4840685602,predict ratio=-0.0118217,real ratio=-0.00393785
+1637,predict price=23.1099805655,real price=73.2446410309,predict ratio=-0.000225108,real ratio=-0.0166402
+1638,predict price=23.7901635138,real price=73.457533428,predict ratio=0.0294324,real ratio=0.00290659
+1639,predict price=24.7845262289,real price=72.5342597139,predict ratio=0.0417972,real ratio=-0.0125688
+1640,predict price=24.9440413237,real price=72.8871364911,predict ratio=0.00643608,real ratio=0.00486497
+1641,predict price=24.1551112407,real price=73.9669161015,predict ratio=-0.031628,real ratio=0.0148144
+1642,predict price=24.0447941932,real price=73.4001820971,predict ratio=-0.00456703,real ratio=-0.00766199
+1643,predict price=25.7418395361,real price=73.7971161804,predict ratio=0.0705785,real ratio=0.00540781
+1644,predict price=24.9511889109,real price=73.6490119209,predict ratio=-0.0307146,real ratio=-0.00200691
+1645,predict price=25.3277194051,real price=73.4327896191,predict ratio=0.0150907,real ratio=-0.00293585
+1646,predict price=24.4952959087,real price=73.9264277728,predict ratio=-0.0328661,real ratio=0.00672231

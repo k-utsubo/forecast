@@ -1,0 +1,49 @@
+{% include "inc/header" %}
+
+
+        <div class="header">
+                <h1>四季報ニュース一覧</h1>
+        </div>
+
+
+
+	<div class="box">
+		<table class="pure-table pure-table-horizontal">
+		    <thead>
+		        <tr>
+		            <th>kijiId</th>
+		            <th>title</th>
+		            <th>pubDate</th>
+		            <th>&nbsp;</th>
+		        </tr>
+		    </thead>
+
+		    <tbody>
+		    	{% for i in result.kijis %}
+		        <tr>
+		            <td>{{i.kijiId}}</td>
+		            <td>{{i.title}}</td>
+		            <td>{{i.pubDate}}</td>
+		            <td><a href="../detail/{{i.kijiId}}"><button class="pure-button pure-button-small">詳細</button></a></td>
+		        </tr>
+		        {% endfor %}
+		    </tbody>
+		</table>
+	</div>
+
+	{% if result.pagination.has_next or result.pagination.has_prev %}
+	<div class="pager">
+		{% if result.pagination.has_prev %}
+		<a href="../list/{{result.pagination.page - 1}}"><button class="pure-button pure-button-small">&lt; 前のページ</button></a>
+		{% endif %}
+		{% if result.pagination.has_next %}
+		<a href="../list/{{result.pagination.page + 1}}"><button class="pure-button pure-button-small">次のページ &gt;</button></a>
+		{% endif %}
+	</div>
+	{% endif %}
+
+        <hr>
+        <div class="menu">
+                <a href="../../"><button class="pure-button pure-button-primary pure-button-small">Back to TOP</button></a>
+        </div>
+{% include "inc/footer" %}

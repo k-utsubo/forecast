@@ -1,0 +1,13 @@
+[live_db]
+host = zcod4md.qr.com
+port = 3306
+user = root
+password = 
+database = live
+
+[fintech_db]
+host = zaaa16d.qr.com
+port = 3306
+user = root
+password = 
+database = fintech

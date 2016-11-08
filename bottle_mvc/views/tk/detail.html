@@ -1,0 +1,41 @@
+{% include "inc/header" %}
+
+        <div class="header">
+                <h1>四季報記事詳細</h1>
+        </div>
+
+	<div class="menu">
+		<a href="../list"><button class="pure-button pure-button-small">一覧に戻る</button></a>
+	</div>
+
+	<div class="box">
+		<table class="pure-table pure-table-bordered">
+
+		    <tbody>
+		    	<tr>
+		            <td>kijiId</td>
+		            <td>{{i.kijiId}}</td>
+		        </tr>
+		        <tr>
+		            <td>title</td>
+		            <td>{{i.title}}</td>
+		        </tr>
+		        <tr>
+		            <td>pubDate</td>
+		            <td>{{i.pubDate}}</td>
+		        </tr>
+		        <tr>
+		            <td>content</td>
+		            <td>{{i.content}}</td>
+		        </tr>
+		    </tbody>
+		</table>
+	</div>
+
+
+        <hr>
+        <div class="menu">
+                <a href="../"><button class="pure-button pure-button-primary pure-button-small">Back to Top</button></a>
+        </div>
+
+{% include "inc/footer" %}
